@@ -4,7 +4,7 @@ FROM pytorch/pytorch:1.9.0-cuda11.1-cudnn8-runtime
 RUN pip install jupyter_http_over_ws && jupyter serverextension enable --py jupyter_http_over_ws
 
 # For FastAI course
-RUN pip install fastbook graphviz
+RUN pip install fastbook graphviz wandb rise
 
 CMD jupyter notebook \
 	--ip 0.0.0.0 --no-browser --allow-root \

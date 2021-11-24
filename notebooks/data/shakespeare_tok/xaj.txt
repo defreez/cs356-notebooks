@@ -1,0 +1,999 @@
+xxbos xxup act_4|sc_4 
+▁ xxup scene xxup iv . 
+▁ xxmaj alexandria . cleopatra 's palace 
+
+▁ xxmaj enter xxup antony and xxup cleopatra , xxup charmian , xxup iras , 
+▁ with others 
+
+▁ xxup antony . xxmaj eros ! mine armour , xxmaj eros ! 
+▁ xxup cleopatra . xxmaj sleep a little . 
+▁ xxup antony . xxmaj no , my chuck . xxmaj eros ! xxmaj come , mine armour , xxmaj eros ! 
+
+▁ xxmaj enter xxup eros with armour 
+
+▁ xxmaj come , good fellow , put mine iron on . 
+▁ xxmaj if fortune be not ours to - day , it is 
+▁ xxmaj because we brave her . xxmaj come . 
+▁ xxup cleopatra . xxmaj nay , xxmaj i 'll help too . 
+▁ xxmaj what 's this for ? 
+▁ xxup antony . xxmaj ah , let be , let be ! xxmaj thou art 
+▁ xxmaj the armourer of my heart . xxmaj false , false ; this , this . 
+▁ xxup cleopatra . xxmaj sooth , la , xxmaj i 'll help . xxmaj thus it must be . 
+▁ xxup antony . xxmaj well , well ; 
+▁ xxmaj we shall thrive now . xxmaj seest thou , my good fellow ? 
+▁ xxmaj go put on thy defences . 
+▁ xxup eros . xxmaj briefly , sir . 
+▁ xxup cleopatra . xxmaj is not this buckled well ? 
+▁ xxup antony . xxmaj rarely , rarely ! 
+▁ xxmaj he that unbuckles this , till we do please 
+▁ xxmaj to daff't for our repose , shall hear a storm . 
+▁ xxmaj thou fumblest , xxmaj eros , and my queen 's a squire 
+▁ xxmaj more tight at this than thou . xxmaj dispatch . o love , 
+▁ xxmaj that thou couldst see my wars to - day , and knew'st 
+▁ xxmaj the royal occupation ! xxmaj thou shouldst see 
+▁ a workman in't . 
+
+▁ xxmaj enter an armed xxup soldier 
+
+▁ xxmaj good - morrow to thee . xxmaj welcome . 
+▁ xxmaj thou look'st like him that knows a warlike charge . 
+▁ xxmaj to business that we love we rise betime , 
+▁ xxmaj and go to't with delight . 
+▁ xxup soldier . a thousand , sir , 
+▁ xxmaj early though't be , have on their riveted trim , 
+▁ xxmaj and at the port expect you . 
+▁ [ shout . xxmaj flourish of trumpets within ] 
+
+▁ xxmaj enter xxup captains and soldiers 
+
+▁ xxup captain . xxmaj the morn is fair . xxmaj good morrow , xxmaj general . 
+▁ xxup all . xxmaj good morrow , xxmaj general . 
+▁ xxup antony . ' tis well blown , lads . 
+▁ xxmaj this morning , like the spirit of a youth 
+▁ xxmaj that means to be of note , begins betimes . 
+▁ xxmaj so , so . xxmaj come , give me that . xxmaj this way . xxmaj well said . 
+▁ xxmaj fare thee well , dame , whate'er becomes of me . 
+▁ xxmaj this is a soldier 's kiss . xxmaj rebukeable , 
+▁ xxmaj and worthy shameful check it were , to stand 
+▁ xxmaj on more mechanic compliment ; xxmaj i 'll leave thee 
+▁ xxmaj now like a man of steel . xxmaj you that will fight , 
+▁ xxmaj follow me close ; xxmaj i 'll bring you to't . xxmaj adieu . 
+▁ xxmaj exeunt xxup antony , xxup eros , xxup captains and soldiers 
+▁ xxup charmian . xxmaj please you retire to your chamber ? 
+▁ xxup cleopatra . xxmaj lead me . 
+▁ xxmaj he goes forth gallantly . xxmaj that he and xxmaj caesar might 
+▁ xxmaj determine this great war in single fight ! 
+▁ xxmaj then , xxmaj antony- but now . xxmaj well , on . xxmaj exeunt 
+
+ xxup act_4|sc_5 
+▁ xxup scene xxup v. 
+▁ xxmaj alexandria . xxup antony 's camp 
+
+▁ xxmaj trumpets sound . xxmaj enter xxup antony and xxup eros , a xxup soldier 
+▁ meeting them 
+
+▁ xxup soldier . xxmaj the gods make this a happy day to xxmaj antony ! 
+▁ xxup antony . xxmaj would thou and those thy scars had once prevail'd 
+▁ xxmaj to make me fight at land ! 
+▁ xxup soldier . xxmaj hadst thou done so , 
+▁ xxmaj the kings that have revolted , and the soldier 
+▁ xxmaj that has this morning left thee , would have still 
+▁ xxmaj followed thy heels . 
+▁ xxup antony . xxmaj who 's gone this morning ? 
+▁ xxup soldier . xxmaj who ? 
+▁ xxmaj one ever near thee . xxmaj call for xxmaj enobarbus , 
+▁ xxmaj he shall not hear thee ; or from xxmaj caesar 's camp 
+▁ xxmaj say ' i am none of thine . ' 
+▁ xxup antony . xxmaj what say'st thou ? 
+▁ xxup soldier . xxmaj sir , 
+▁ xxmaj he is with xxmaj caesar . 
+▁ xxup eros . xxmaj sir , his chests and treasure 
+▁ xxmaj he has not with him . 
+▁ xxup antony . xxmaj is he gone ? 
+▁ xxup soldier . xxmaj most certain . 
+▁ xxup antony . xxmaj go , xxmaj eros , send his treasure after ; do it ; 
+▁ xxmaj detain no jot , i charge thee . xxmaj write to him- 
+▁ i will subscribe- gentle adieus and greetings ; 
+▁ xxmaj say that i wish he never find more cause 
+▁ xxmaj to change a master . xxup o , my fortunes have 
+▁ xxmaj corrupted honest men ! xxmaj dispatch . xxmaj enobarbus ! xxmaj exeunt 
+
+ xxup act_4|sc_6 
+▁ xxup scene xxup vi . 
+▁ xxmaj alexandria . xxup caesar 's camp 
+
+▁ xxmaj flourish . xxmaj enter xxup agrippa , xxup caesar , xxmaj with xxup dolabella 
+▁ and xxup enobarbus 
+
+▁ xxup caesar . xxmaj go forth , xxmaj agrippa , and begin the fight . 
+▁ xxmaj our will is xxmaj antony be took alive ; 
+▁ xxmaj make it so known . 
+▁ xxup agrippa . xxmaj caesar , i shall . xxmaj exit 
+▁ xxup caesar . xxmaj the time of universal peace is near . 
+▁ xxmaj prove this a prosp'rous day , the three - nook'd world 
+▁ xxmaj shall bear the olive freely . 
+
+▁ xxmaj enter a xxup messenger 
+
+▁ xxup messenger . xxmaj antony 
+▁ xxmaj is come into the field . 
+▁ xxup caesar . xxmaj go charge xxmaj agrippa 
+▁ xxmaj plant those that have revolted in the vant , 
+▁ xxmaj that xxmaj antony may seem to spend his fury 
+▁ xxmaj upon himself . xxmaj exeunt all but xxup enobarbus 
+▁ xxup enobarbus . xxmaj alexas did revolt and went to xxmaj jewry on 
+▁ xxmaj affairs of xxmaj antony ; there did dissuade 
+▁ xxmaj great xxmaj herod to incline himself to xxmaj caesar 
+▁ xxmaj and leave his master xxmaj antony . xxmaj for this pains 
+▁ xxmaj casaer hath hang'd him . xxmaj canidius and the rest 
+▁ xxmaj that fell away have entertainment , but 
+▁ xxmaj no honourable trust . i have done ill , 
+▁ xxmaj of which i do accuse myself so sorely 
+▁ xxmaj that i will joy no more . 
+
+▁ xxmaj enter a xxup soldier of xxup caesar 's 
+
+▁ xxup soldier . xxmaj enobarbus , xxmaj antony 
+▁ xxmaj hath after thee sent all thy treasure , with 
+▁ xxmaj his bounty overplus . xxmaj the messenger 
+▁ xxmaj came on my guard , and at thy tent is now 
+▁ xxmaj unloading of his mules . 
+▁ xxup enobarbus . i give it you . 
+▁ xxup soldier . xxmaj mock not , xxmaj enobarbus . 
+▁ i tell you true . xxmaj best you saf'd the bringer 
+▁ xxmaj out of the host . i must attend mine office , 
+▁ xxmaj or would have done't myself . xxmaj your emperor 
+▁ xxmaj continues still a xxmaj jove . xxmaj exit 
+▁ xxup enobarbus . i am alone the villain of the earth , 
+▁ xxmaj and feel i am so most . o xxmaj antony , 
+▁ xxmaj thou mine of bounty , how wouldst thou have paid 
+▁ xxmaj my better service , when my turpitude 
+▁ xxmaj thou dost so crown with gold ! xxmaj this blows my heart . 
+▁ xxmaj if swift thought break it not , a swifter mean 
+▁ xxmaj shall outstrike thought ; but thought will do't , i feel . 
+▁ i fight against thee ? xxmaj no ! i will go seek 
+▁ xxmaj some ditch wherein to die ; the foul'st best fits 
+▁ xxmaj my latter part of life . xxmaj exit 
+
+ xxup act_4|sc_7 
+▁ xxup scene xxup vii . 
+▁ xxmaj field of battle between the camps 
+
+▁ xxmaj alarum . xxmaj drums and trumpets . xxmaj enter xxup agrippa 
+▁ and others 
+
+▁ xxup agrippa . xxmaj retire . xxmaj we have engag'd ourselves too far . 
+▁ xxmaj caesar himself has work , and our oppression 
+▁ xxmaj exceeds what we expected . xxmaj exeunt 
+
+▁ xxmaj alarums . xxmaj enter xxup antony , and xxup scarus wounded 
+
+▁ xxup scarus . o my brave xxmaj emperor , this is fought indeed ! 
+▁ xxmaj had we done so at first , we had droven them home 
+▁ xxmaj with clouts about their heads . 
+▁ xxup antony . xxmaj thou bleed'st apace . 
+▁ xxup scarus . i had a wound here that was like a xxup t , 
+▁ xxmaj but now ' tis made an xxup h. 
+▁ xxup antony . xxmaj they do retire . 
+▁ xxup scarus . xxmaj we 'll beat'em into bench - holes . i have yet 
+▁ xxmaj room for six scotches more . 
+▁
+▁ xxmaj enter xxup eros 
+
+▁ xxup eros . xxmaj they are beaten , sir , and our advantage serves 
+▁ xxmaj for a fair victory . 
+▁ xxup scarus . xxmaj let us score their backs 
+▁ xxmaj and snatch 'em up , as we take hares , behind . 
+▁ ' tis sport to maul a runner . 
+▁ xxup antony . i will reward thee 
+▁ xxmaj once for thy sprightly comfort , and tenfold 
+▁ xxmaj for thy good valour . xxmaj come thee on . 
+▁ xxup scarus . xxmaj i 'll halt after . xxmaj exeunt 
+
+ xxup act_4|sc_8 
+▁ xxup scene v xxrep 3 i . 
+▁ xxmaj under the walls of xxmaj alexandria 
+
+▁ xxmaj alarum . xxmaj enter xxup antony , again in a march ; xxup scarus 
+▁ with others 
+
+▁ xxup antony . xxmaj we have beat him to his camp . xxmaj run one before 
+▁ xxmaj and let the xxmaj queen know of our gests . xxmaj to - morrow , 
+▁ xxmaj before the sun shall see 's , we 'll spill the blood 
+▁ xxmaj that has to - day escap'd . i thank you all ; 
+▁ xxmaj for doughty - handed are you , and have fought 
+▁ xxmaj not as you serv'd the cause , but as't had been 
+▁ xxmaj each man 's like mine ; you have shown all xxmaj hectors . 
+▁ xxmaj enter the city , clip your wives , your friends , 
+▁ xxmaj tell them your feats ; whilst they with joyful tears 
+▁ xxmaj wash the congealment from your wounds and kiss 
+▁ xxmaj the honour'd gashes whole . 
+
+▁ xxmaj enter xxup cleopatra , attended 
+
+▁ [ to xxup scarus ] xxmaj give me thy hand- 
+▁ xxmaj to this great fairy xxmaj i 'll commend thy acts , 
+▁ xxmaj make her thanks bless thee . o thou day o ' th ' world , 
+▁ xxmaj chain mine arm'd neck . xxmaj leap thou , attire and all , 
+▁ xxmaj through proof of harness to my heart , and there 
+▁ xxmaj ride on the pants triumphing . 
+▁ xxup cleopatra . xxmaj lord of lords ! 
+▁ o infinite virtue , com'st thou smiling from 
+▁ xxmaj the world 's great snare uncaught ? 
+▁ xxup antony . xxmaj mine nightingale , 
+▁ xxmaj we have beat them to their beds . xxmaj what , girl ! though grey 
+▁ xxmaj do something mingle with our younger brown , yet ha ' we 
+▁ a brain that nourishes our nerves , and can 
+▁ xxmaj get goal for goal of youth . xxmaj behold this man ; 
+▁ xxmaj commend unto his lips thy favouring hand- 
+▁ xxmaj kiss it , my warrior- he hath fought to - day 
+▁ xxmaj as if a god in hate of mankind had 
+▁ xxmaj destroyed in such a shape . 
+▁ xxup cleopatra . xxmaj i 'll give thee , friend , 
+▁ xxmaj an armour all of gold ; it was a king 's . 
+▁ xxup antony . xxmaj he has deserv'd it , were it carbuncled 
+▁ xxmaj like holy xxmaj phoebus ' car . xxmaj give me thy hand . 
+▁ xxmaj through xxmaj alexandria make a jolly march ; 
+▁ xxmaj bear our hack'd targets like the men that owe them . 
+▁ xxmaj had our great palace the capacity 
+▁ xxmaj to camp this host , we all would sup together , 
+▁ xxmaj and drink carouses to the next day 's fate , 
+▁ xxmaj which promises royal peril . xxmaj trumpeters , 
+▁ xxmaj with brazen din blast you the city 's ear ; 
+▁ xxmaj make mingle with our rattling tabourines , 
+▁ xxmaj that heaven and earth may strike their sounds together 
+▁ xxmaj applauding our approach . xxmaj exeunt 
+
+ xxup act_4|sc_9 
+▁ xxup scene xxup ix . 
+▁ xxup caesar 's camp 
+
+▁ xxmaj enter a xxup centurion and his company ; xxup enobarbus follows 
+
+▁ xxup centurion . xxmaj if we be not reliev'd within this hour , 
+▁ xxmaj we must return to th ' court of guard . xxmaj the night 
+▁ xxmaj is shiny , and they say we shall embattle 
+▁ xxmaj by th ' second hour i ' th ' morn . 
+▁ xxup first xxup watch . xxmaj this last day was 
+▁ a shrewd one to 's . 
+▁ xxup enobarbus . xxup o , bear me witness , night- 
+▁ xxup second xxup watch . xxmaj what man is this ? 
+▁ xxup first xxup watch . xxmaj stand close and list him . 
+▁ xxup enobarbus . xxmaj be witness to me , o thou blessed moon , 
+▁ xxmaj when men revolted shall upon record 
+▁ xxmaj bear hateful memory , poor xxmaj enobarbus did 
+▁ xxmaj before thy face repent ! 
+▁ xxup centurion . xxmaj enobarbus ? 
+▁ xxup second xxup watch . xxmaj peace ! 
+▁ xxmaj hark further . 
+▁ xxup enobarbus . o sovereign mistress of true melancholy , 
+▁ xxmaj the poisonous damp of night disponge upon me , 
+▁ xxmaj that life , a very rebel to my will , 
+▁ xxmaj may hang no longer on me . xxmaj throw my heart 
+▁ xxmaj against the flint and hardness of my fault , 
+▁ xxmaj which , being dried with grief , will break to powder , 
+▁ xxmaj and finish all foul thoughts . o xxmaj antony , 
+▁ xxmaj nobler than my revolt is infamous , 
+▁ xxmaj forgive me in thine own particular , 
+▁ xxmaj but let the world rank me in register 
+▁ a master - leaver and a fugitive ! 
+▁ o xxmaj antony ! o xxmaj antony ! [ dies ] 
+▁ xxup first xxup watch . xxmaj let 's speak to him . 
+▁ xxup centurion . xxmaj let 's hear him , for the things he speaks 
+▁ xxmaj may concern xxmaj caesar . 
+▁ xxup second xxup watch . xxmaj let 's do so . xxmaj but he sleeps . 
+▁ xxup centurion . xxmaj swoons rather ; for so bad a prayer as his 
+▁ xxmaj was never yet for sleep . 
+▁ xxup first xxup watch . xxmaj go we to him . 
+▁ xxup second xxup watch . xxmaj awake , sir , awake ; speak to us . 
+▁ xxup first xxup watch . xxmaj hear you , sir ? 
+▁ xxup centurion . xxmaj the hand of death hath raught him . 
+▁ [ drums afar off ] xxmaj hark ! the drums 
+▁ xxmaj demurely wake the sleepers . xxmaj let us bear him 
+▁ xxmaj to th ' court of guard ; he is of note . xxmaj our hour 
+▁ xxmaj is fully out . 
+▁ xxup second xxup watch . xxmaj come on , then ; 
+▁ xxmaj he may recover yet . xxmaj exeunt with the body 
+
+ xxup act_4|sc_10 
+▁ xxup scene xxup x. 
+▁ xxmaj between the two camps 
+
+▁ xxmaj enter xxup antony and xxup scarus , with their army 
+
+▁ xxup antony . xxmaj their preparation is to - day by sea ; 
+▁ xxmaj we please them not by land . 
+▁ xxup scarus . xxmaj for both , my lord . 
+▁ xxup antony . i would they 'd fight i ' th ' fire or i ' th ' air ; 
+▁ xxmaj we 'd fight there too . xxmaj but this it is , our foot 
+▁ xxmaj upon the hills adjoining to the city 
+▁ xxmaj shall stay with us- xxmaj order for sea is given ; 
+▁ xxmaj they have put forth the haven- 
+▁ xxmaj where their appointment we may best discover 
+▁ xxmaj and look on their endeavour . xxmaj exeunt 
+
+ xxup act_4|sc_11 
+▁ xxup scene xxup xi . 
+▁ xxmaj between the camps 
+
+▁ xxmaj enter xxup caesar and his army 
+
+▁ xxup caesar . xxmaj but being charg'd , we will be still by land , 
+▁ xxmaj which , as i take't , we shall ; for his best force 
+▁ xxmaj is forth to man his galleys . xxmaj to the vales , 
+▁ xxmaj and hold our best advantage . xxmaj exeunt 
+
+ xxup act_4|sc_12 
+▁ xxup scene xxup xii . 
+▁ a hill near xxmaj alexandria 
+
+▁ xxmaj enter xxup antony and xxup scarus 
+
+▁ xxup antony . xxmaj yet they are not join'd . xxmaj where yond pine does stand 
+▁ i shall discover all . xxmaj i 'll bring thee word 
+▁ xxmaj straight how ' tis like to go . xxmaj exit 
+▁ xxup scarus . xxmaj swallows have built 
+▁ xxmaj in xxmaj cleopatra 's sails their nests . xxmaj the augurers 
+▁ xxmaj say they know not , they can not tell ; look grimly , 
+▁ xxmaj and dare not speak their knowledge . xxmaj antony 
+▁ xxmaj is valiant and dejected ; and by starts 
+▁ xxmaj his fretted fortunes give him hope and fear 
+▁ xxmaj of what he has and has not . 
+▁ [ alarum afar off , as at a sea - fight ] 
+
+▁ xxmaj re - enter xxup antony 
+
+▁ xxup antony . xxmaj all is lost ! 
+▁ xxmaj this foul xxmaj egyptian hath betrayed me . 
+▁ xxmaj my fleet hath yielded to the foe , and yonder 
+▁ xxmaj they cast their caps up and carouse together 
+▁ xxmaj like friends long lost . xxmaj triple - turn'd whore ! ' tis thou 
+▁ xxmaj hast sold me to this novice ; and my heart 
+▁ xxmaj makes only wars on thee . xxmaj bid them all fly ; 
+▁ xxmaj for when i am reveng'd upon my charm , 
+▁ i have done all . xxmaj bid them all fly ; begone . xxmaj exit xxup scarus 
+▁ o sun , thy uprise shall i see no more ! 
+▁ xxmaj fortune and xxmaj antony part here ; even here 
+▁ xxmaj do we shake hands . xxmaj all come to this ? xxmaj the hearts 
+▁ xxmaj that spaniel'd me at heels , to whom i gave 
+▁ xxmaj their wishes , do discandy , melt their sweets 
+▁ xxmaj on blossoming xxmaj caesar ; and this pine is bark'd 
+▁ xxmaj that overtopp'd them all . xxmaj betray'd i am . 
+▁ o this false soul of xxmaj egypt ! this grave charm- 
+▁ xxmaj whose eye beck'd forth my wars and call'd them home , 
+▁ xxmaj whose bosom was my crownet , my chief end- 
+▁ xxmaj like a right gypsy hath at fast and loose 
+▁ xxmaj beguil'd me to the very heart of loss . 
+▁ xxmaj what , xxmaj eros , xxmaj eros ! 
+▁
+▁ xxmaj enter xxup cleopatra 
+
+▁ xxmaj ah , thou spell ! xxmaj avaunt ! 
+▁ xxup cleopatra . xxmaj why is my lord enrag'd against his love ? 
+▁ xxup antony . xxmaj vanish , or i shall give thee thy deserving 
+▁ xxmaj and blemish xxmaj caesar 's triumph . xxmaj let him take thee 
+▁ xxmaj and hoist thee up to the shouting plebeians ; 
+▁ xxmaj follow his chariot , like the greatest spot 
+▁ xxmaj of all thy sex ; most monster - like , be shown 
+▁ xxmaj for poor'st diminutives , for doits , and let 
+▁ xxmaj patient xxmaj octavia plough thy visage up 
+▁ xxmaj with her prepared nails . xxmaj exit xxup cleopatra 
+▁ ' tis well th'art gone , 
+▁ xxmaj if it be well to live ; but better ' twere 
+▁ xxmaj thou fell'st into my fury , for one death 
+▁ xxmaj might have prevented many . xxmaj eros , ho ! 
+▁ xxmaj the shirt of xxmaj nessus is upon me ; teach me , 
+▁ xxmaj alcides , thou mine ancestor , thy rage ; 
+▁ xxmaj let me lodge xxmaj lichas on the horns o ' th ' moon , 
+▁ xxmaj and with those hands that grasp'd the heaviest club 
+▁ xxmaj subdue my worthiest self . xxmaj the witch shall die . 
+▁ xxmaj to the young xxmaj roman boy she hath sold me , and i fall 
+▁ xxmaj under this plot . xxmaj she dies for't . xxmaj eros , ho ! xxmaj exit 
+
+ xxup act_4|sc_13 
+▁ xxup scene x xxrep 3 i . 
+▁ xxmaj alexandria . cleopatra 's palace 
+
+▁ xxmaj enter xxup cleopatra , xxup charmian , xxup iras , and xxup mardian 
+
+▁ xxup cleopatra . xxmaj help me , my women . xxup o , he is more mad 
+▁ xxmaj than xxmaj telamon for his shield ; the boar of xxmaj thessaly 
+▁ xxmaj was never so emboss'd . 
+▁ xxup charmian . xxmaj to th'monument ! 
+▁ xxmaj there lock yourself , and send him word you are dead . 
+▁ xxmaj the soul and body rive not more in parting 
+▁ xxmaj than greatness going off . 
+▁ xxup cleopatra . xxmaj to th ' monument ! 
+▁ xxmaj mardian , go tell him i have slain myself ; 
+▁ xxmaj say that the last i spoke was ' antony ' 
+▁ xxmaj and word it , prithee , piteously . xxmaj hence , xxmaj mardian , 
+▁ xxmaj and bring me how he takes my death . xxmaj to th ' monument ! 
+▁ xxmaj exeunt 
+
+ xxup act_4|sc_14 
+▁ xxup scene xxup xiv . 
+▁ xxup cleopatra 's palace 
+
+▁ xxmaj enter xxup antony and xxup eros 
+
+▁ xxup antony . xxmaj eros , thou yet behold'st me ? 
+▁ xxup eros . xxmaj ay , noble lord . 
+▁ xxup antony . xxmaj sometime we see a cloud that 's dragonish ; 
+▁ a vapour sometime like a bear or lion , 
+▁ a tower'd citadel , a pendent rock , 
+▁ a forked mountain , or blue promontory 
+▁ xxmaj with trees upon't that nod unto the world 
+▁ xxmaj and mock our eyes with air . xxmaj thou hast seen these signs ; 
+▁ xxmaj they are black vesper 's pageants . 
+▁ xxup eros . xxmaj ay , my lord . 
+▁ xxup antony . xxmaj that which is now a horse , even with a thought 
+▁ xxmaj the rack dislimns , and makes it indistinct , 
+▁ xxmaj as water is in water . 
+▁ xxup eros . xxmaj it does , my lord . 
+▁ xxup antony . xxmaj my good knave xxmaj eros , now thy captain is 
+▁ xxmaj even such a body . xxmaj here i am xxmaj antony ; 
+▁ xxmaj yet can not hold this visible shape , my knave . 
+▁ i made these wars for xxmaj egypt ; and the xxmaj queen- 
+▁ xxmaj whose heart i thought i had , for she had mine , 
+▁ xxmaj which , whilst it was mine , had annex'd unto't 
+▁ a million moe , now lost- she , xxmaj eros , has 
+▁ xxmaj pack'd cards with xxmaj caesar , and false - play'd my glory 
+▁ xxmaj unto an enemy 's triumph . 
+▁ xxmaj nay , weep not , gentle xxmaj eros ; there is left us 
+▁ xxmaj ourselves to end ourselves . 
+
+▁ xxmaj enter xxup mardian 
+
+▁ xxup o , thy vile lady ! 
+▁ xxmaj she has robb'd me of my sword . 
+▁ xxup mardian . xxmaj no , xxmaj antony ; 
+▁ xxmaj my mistress lov'd thee , and her fortunes mingled 
+▁ xxmaj with thine entirely . 
+▁ xxup antony . xxmaj hence , saucy eunuch ; peace ! 
+▁ xxmaj she hath betray'd me , and shall die the death . 
+▁ xxup mardian . xxmaj death of one person can be paid but once , 
+▁ xxmaj and that she has discharg'd . xxmaj what thou wouldst do 
+▁ xxmaj is done unto thy hand . xxmaj the last she spake 
+▁ xxmaj was ' antony ! most noble xxmaj antony ! ' 
+▁ xxmaj then in the midst a tearing groan did break 
+▁ xxmaj the name of xxmaj antony ; it was divided 
+▁ xxmaj between her heart and lips . xxmaj she rend'red life , 
+▁ xxmaj thy name so buried in her . 
+▁ xxup antony . xxmaj dead then ? 
+▁ xxup mardian . xxmaj dead . 
+▁ xxup antony . xxmaj unarm , xxmaj eros ; the long day 's task is done , 
+▁ xxmaj and we must sleep . xxmaj that thou depart'st hence safe 
+▁ xxmaj does pay thy labour richly . xxmaj go . xxmaj exit xxup mardian 
+▁ xxmaj off , pluck off ! 
+▁ xxmaj the sevenfold shield of xxmaj ajax can not keep 
+▁ xxmaj the battery from my heart . xxup o , cleave , my sides ! 
+▁ xxmaj heart , once be stronger than thy continent , 
+▁ xxmaj crack thy frail case . xxmaj apace , xxmaj eros , apace.- 
+▁ xxmaj no more a soldier . xxmaj bruised pieces , go ; 
+▁ xxmaj you have been nobly borne.- xxmaj from me awhile . xxmaj exit xxup eros 
+▁ i will o'ertake thee , xxmaj cleopatra , and 
+▁ xxmaj weep for my pardon . xxmaj so it must be , for now 
+▁ xxmaj all length is torture . xxmaj since the torch is out , 
+▁ xxmaj lie down , and stray no farther . xxmaj now all labour 
+▁ xxmaj mars what it does ; yea , very force entangles 
+▁ xxmaj itself with strength . xxmaj seal then , and all is done . 
+▁ xxmaj eros!- i come , my queen.- xxmaj eros!- xxmaj stay for me ; 
+▁ xxmaj where souls do couch on flowers , we 'll hand in hand , 
+▁ xxmaj and with our sprightly port make the ghosts gaze . 
+▁ xxmaj dido and her xxmaj aeneas shall want troops , 
+▁ xxmaj and all the haunt be ours.- xxmaj come , xxmaj eros , xxmaj eros ! 
+
+▁ xxmaj re - enter xxup eros 
+
+▁ xxup eros . xxmaj what would my lord ? 
+▁ xxup antony . xxmaj since xxmaj cleopatra died , 
+▁ i have liv'd in such dishonour that the gods 
+▁ xxmaj detest my baseness . xxup i , that with my sword 
+▁ xxmaj quarter'd the world , and o'er green xxmaj neptune 's back 
+▁ xxmaj with ships made cities , condemn myself to lack 
+▁ xxmaj the courage of a woman ; less noble mind 
+▁ xxmaj than she which by her death our xxmaj caesar tells 
+▁ ' i am conqueror of myself . ' xxmaj thou art sworn , xxmaj eros , 
+▁ xxmaj that , when the exigent should come- which now 
+▁ xxmaj is come indeed- when i should see behind me 
+▁ xxmaj th ' inevitable prosecution of 
+▁ xxmaj disgrace and horror , that , on my command , 
+▁ xxmaj thou then wouldst kill me . xxmaj do't ; the time is come . 
+▁ xxmaj thou strik'st not me ; ' tis xxmaj caesar thou defeat'st . 
+▁ xxmaj put colour in thy cheek . 
+▁ xxup eros . xxmaj the gods withhold me ! 
+▁ xxmaj shall i do that which all the xxmaj parthian darts , 
+▁ xxmaj though enemy , lost aim and could not ? 
+▁ xxup antony . xxmaj eros , 
+▁ xxmaj wouldst thou be window'd in great xxmaj rome and see 
+▁ xxmaj thy master thus with pleach'd arms , bending down 
+▁ xxmaj his corrigible neck , his face subdu'd 
+▁ xxmaj to penetrative shame , whilst the wheel'd seat 
+▁ xxmaj of fortunate xxmaj caesar , drawn before him , branded 
+▁ xxmaj his baseness that ensued ? 
+▁ xxup eros . i would not see't . 
+▁ xxup antony . xxmaj come , then ; for with a wound i must be cur'd . 
+▁ xxmaj draw that thy honest sword , which thou hast worn 
+▁ xxmaj most useful for thy country . 
+▁ xxup eros . xxup o , sir , pardon me ! 
+▁ xxup antony . xxmaj when i did make thee free , swor'st thou not then 
+▁ xxmaj to do this when i bade thee ? xxmaj do it at once , 
+▁ xxmaj or thy precedent services are all 
+▁ xxmaj but accidents unpurpos'd . xxmaj draw , and come . 
+▁ xxup eros . xxmaj turn from me then that noble countenance , 
+▁ xxmaj wherein the worship of the whole world lies . 
+▁ xxup antony . xxmaj lo thee ! [ turning from him ] 
+▁ xxup eros . xxmaj my sword is drawn . 
+▁ xxup antony . xxmaj then let it do at once 
+▁ xxmaj the thing why thou hast drawn it . 
+▁ xxup eros . xxmaj my dear master , 
+▁ xxmaj my captain and my emperor , let me say , 
+▁ xxmaj before i strike this bloody stroke , farewell . 
+▁ xxup antony . ' tis said , man ; and farewell . 
+▁ xxup eros . xxmaj farewell , great chief . xxmaj shall i strike now ? 
+▁ xxup antony . xxmaj now , xxmaj eros . 
+▁ xxup eros . xxmaj why , there then ! xxmaj thus do i escape the sorrow 
+▁ xxmaj of xxmaj antony 's death . [ kills himself 
+▁ xxup antony . xxmaj thrice nobler than myself ! 
+▁ xxmaj thou teachest me , o valiant xxmaj eros , what 
+▁ i should , and thou couldst not . xxmaj my queen and xxmaj eros 
+▁ xxmaj have , by their brave instruction , got upon me 
+▁ a nobleness in record . xxmaj but i will be 
+▁ a bridegroom in my death , and run into't 
+▁ xxmaj as to a lover 's bed . xxmaj come , then ; and , xxmaj eros , 
+▁ xxmaj thy master dies thy scholar . xxmaj to do thus 
+▁ [ falling on his sword ] 
+▁ i learn'd of thee . xxmaj how ? not dead ? not dead?- 
+▁ xxmaj the guard , ho ! xxup o , dispatch me ! 
+
+▁ xxmaj enter xxup dercetas and a guard 
+
+▁ xxup first xxup guard . xxmaj what 's the noise ? 
+▁ xxup antony . i have done my work ill , friends . xxup o , make an end 
+▁ xxmaj of what i have begun . 
+▁ xxup second xxup guard . xxmaj the star is fall'n . 
+▁ xxup first xxup guard . xxmaj and time is at his period . 
+▁ xxup all . xxmaj alas , and woe ! 
+▁ xxup antony . xxmaj let him that loves me , strike me dead . 
+▁ xxup first xxup guard . xxmaj not xxup i. 
+▁ xxup second xxup guard . xxmaj nor xxup i. 
+▁ xxup third xxup guard . xxmaj nor any one . xxmaj exeunt guard 
+▁ xxup dercetas . xxmaj thy death and fortunes bid thy followers fly . 
+▁ xxmaj this sword but shown to xxmaj caesar , with this tidings , 
+▁ xxmaj shall enter me with him . 
+
+▁ xxmaj enter xxup diomedes 
+
+▁ xxup diomedes . xxmaj where 's xxmaj antony ? 
+▁ xxup dercetas . xxmaj there , xxmaj diomed , there . 
+▁ xxup diomedes . xxmaj lives he ? 
+▁ xxmaj wilt thou not answer , man ? xxmaj exit xxup dercetas 
+▁ xxup antony . xxmaj art thou there , xxmaj diomed ? xxmaj draw thy sword and give me 
+▁ xxmaj sufficing strokes for death . 
+▁ xxup diomedes . xxmaj most absolute lord , 
+▁ xxmaj my mistress xxmaj cleopatra sent me to thee . 
+▁ xxup antony . xxmaj when did she send thee ? 
+▁ xxup diomedes . xxmaj now , my lord . 
+▁ xxup antony . xxmaj where is she ? 
+▁ xxup diomedes . xxmaj lock'd in her monument . xxmaj she had a prophesying fear 
+▁ xxmaj of what hath come to pass ; for when she saw- 
+▁ xxmaj which never shall be found- you did suspect 
+▁ xxmaj she had dispos'd with xxmaj caesar , and that your rage 
+▁ xxmaj would not be purg'd , she sent you word she was dead ; 
+▁ xxmaj but fearing since how it might work , hath sent 
+▁ xxmaj me to proclaim the truth ; and i am come , 
+▁ i dread , too late . 
+▁ xxup antony . xxmaj too late , good xxmaj diomed . xxmaj call my guard , i prithee . 
+▁ xxup diomedes . xxmaj what , ho ! the xxmaj emperor 's guard ! xxmaj the guard , what ho ! 
+▁ xxmaj come , your lord calls ! 
+
+▁ xxmaj enter four or five of the guard of xxup antony 
+
+▁ xxup antony . xxmaj bear me , good friends , where xxmaj cleopatra bides ; 
+▁ ' tis the last service that i shall command you . 
+▁ xxup first xxup guard . xxmaj woe , woe are we , sir , you may not live to wear 
+▁ xxmaj all your true followers out . 
+▁ xxup all . xxmaj most heavy day ! 
+▁ xxup antony . xxmaj nay , good my fellows , do not please sharp fate 
+▁ xxmaj to grace it with your sorrows . xxmaj bid that welcome 
+▁ xxmaj which comes to punish us , and we punish it , 
+▁ xxmaj seeming to bear it lightly . xxmaj take me up . 
+▁ i have led you oft ; carry me now , good friends , 
+▁ xxmaj and have my thanks for all . xxmaj exeunt , hearing xxup antony 
+ xxup act_4|sc_15 
+▁ xxup scene xxup xv . 
+▁ xxmaj alexandria . a monument 
+
+▁ xxmaj enter xxup cleopatra and her maids aloft , with xxup charmian 
+▁ and xxup iras 
+
+▁ xxup cleopatra . o xxmaj charmian , i will never go from hence ! 
+▁ xxup charmian . xxmaj be comforted , dear madam . 
+▁ xxup cleopatra . xxmaj no , i will not . 
+▁ xxmaj all strange and terrible events are welcome , 
+▁ xxmaj but comforts we despise ; our size of sorrow , 
+▁ xxmaj proportion'd to our cause , must be as great 
+▁ xxmaj as that which makes it . 
+
+▁ xxmaj enter xxup diomedes , below 
+
+▁ xxmaj how now ! xxmaj is he dead ? 
+▁ xxup diomedes . xxmaj his death 's upon him , but not dead . 
+▁ xxmaj look out o ' th ' other side your monument ; 
+▁ xxmaj his guard have brought him thither . 
+
+▁ xxmaj enter , below , xxup antony , borne by the guard 
+
+▁ xxup cleopatra . o sun , 
+▁ xxmaj burn the great sphere thou mov'st in ! xxmaj darkling stand 
+▁ xxmaj the varying shore o ' th ' world . o xxmaj antony , 
+▁ xxmaj antony , xxmaj antony ! xxmaj help , xxmaj charmian ; help , xxmaj iras , help ; 
+▁ xxmaj help , friends below ! xxmaj let 's draw him hither . 
+▁ xxup antony . xxmaj peace ! 
+▁ xxmaj not xxmaj caesar 's valour hath o'erthrown xxmaj antony , 
+▁ xxmaj but xxmaj antony 's hath triumph'd on itself . 
+▁ xxup cleopatra . xxmaj so it should be , that none but xxmaj antony 
+▁ xxmaj should conquer xxmaj antony ; but woe ' tis so ! 
+▁ xxup antony . i am dying , xxmaj egypt , dying ; only 
+▁ i here importune death awhile , until 
+▁ xxmaj of many thousand kisses the poor last 
+▁ i lay upon thy lips . 
+▁ xxup cleopatra . i dare not , dear . 
+▁ xxmaj dear my lord , pardon ! i dare not , 
+▁ xxmaj lest i be taken . xxmaj not th ' imperious show 
+▁ xxmaj of the full - fortun'd xxmaj caesar ever shall 
+▁ xxmaj be brooch'd with me . xxmaj if knife , drugs , serpents , have 
+▁ xxmaj edge , sting , or operation , i am safe . 
+▁ xxmaj your wife xxmaj octavia , with her modest eyes 
+▁ xxmaj and still conclusion , shall acquire no honour 
+▁ xxmaj demuring upon me . xxmaj but come , come , xxmaj antony- 
+▁ xxmaj help me , my women- we must draw thee up ; 
+▁ xxmaj assist , good friends . 
+▁ xxup antony . xxup o , quick , or i am gone . 
+▁ xxup cleopatra . xxmaj here 's sport indeed ! xxmaj how heavy weighs my lord ! 
+▁ xxmaj our strength is all gone into heaviness ; 
+▁ xxmaj that makes the weight . xxmaj had i great xxmaj juno 's power , 
+▁ xxmaj the strong - wing'd xxmaj mercury should fetch thee up , 
+▁ xxmaj and set thee by xxmaj jove 's side . xxmaj yet come a little . 
+▁ xxmaj wishers were ever fools . o come , come , 
+▁ [ they heave xxup antony aloft to xxup cleopatra ] 
+▁ xxmaj and welcome , welcome ! xxmaj die where thou hast liv'd . 
+▁ xxmaj quicken with kissing . xxmaj had my lips that power , 
+▁ xxmaj thus would i wear them out . 
+▁ xxup all . a heavy sight ! 
+▁ xxup antony . i am dying , xxmaj egypt , dying . 
+▁ xxmaj give me some wine , and let me speak a little . 
+▁ xxup cleopatra . xxmaj no , let me speak ; and let me rail so high 
+▁ xxmaj that the false huswife xxmaj fortune break her wheel , 
+▁ xxmaj provok'd by my offence . 
+▁ xxup antony . xxmaj one word , sweet queen : 
+▁ xxmaj of xxmaj caesar seek your honour , with your safety . xxup o ! 
+▁ xxup cleopatra . xxmaj they do not go together . 
+▁ xxup antony . xxmaj gentle , hear me : 
+▁ xxmaj none about xxmaj caesar trust but xxmaj proculeius . 
+▁ xxup cleopatra . xxmaj my resolution and my hands xxmaj i 'll trust ; 
+▁ xxmaj none about xxmaj caesar 
+▁ xxup antony . xxmaj the miserable change now at my end 
+▁ xxmaj lament nor sorrow at ; but please your thoughts 
+▁ xxmaj in feeding them with those my former fortunes 
+▁ xxmaj wherein i liv'd the greatest prince o ' th ' world , 
+▁ xxmaj the noblest ; and do now not basely die , 
+▁ xxmaj not cowardly put off my helmet to 
+▁ xxmaj my countryman- a xxmaj roman by a xxmaj roman 
+▁ xxmaj valiantly vanquish'd . xxmaj now my spirit is going 
+▁ i can no more . 
+▁ xxup cleopatra . xxmaj noblest of men , woo't die ? 
+▁ xxmaj hast thou no care of me ? xxmaj shall i abide 
+▁ xxmaj in this dull world , which in thy absence is 
+▁ xxmaj no better than a sty ? xxup o , see , my women , [ antony dies ] 
+▁ xxmaj the crown o ' th ' earth doth melt . xxmaj my lord ! 
+▁ xxup o , wither'd is the garland of the war , 
+▁ xxmaj the soldier 's pole is fall'n ! xxmaj young boys and girls 
+▁ xxmaj are level now with men . xxmaj the odds is gone , 
+▁ xxmaj and there is nothing left remarkable 
+▁ xxmaj beneath the visiting moon . [ swoons ] 
+▁ xxup charmian . xxup o , quietness , lady ! 
+▁ xxup iras . xxmaj she 's dead too , our sovereign . 
+▁ xxup charmian . xxmaj lady ! 
+▁ xxup iras . xxmaj madam ! 
+▁ xxup charmian . o madam , madam , madam ! 
+▁ xxup iras . xxmaj royal xxmaj egypt , xxmaj empress ! 
+▁ xxup charmian . xxmaj peace , peace , xxmaj iras ! 
+▁ xxup cleopatra . xxmaj no more but e'en a woman , and commanded 
+▁ xxmaj by such poor passion as the maid that milks 
+▁ xxmaj and does the meanest chares . xxmaj it were for me 
+▁ xxmaj to throw my sceptre at the injurious gods ; 
+▁ xxmaj to tell them that this world did equal theirs 
+▁ xxmaj till they had stol'n our jewel . xxmaj all 's but nought ; 
+▁ xxmaj patience is sottish , and impatience does 
+▁ xxmaj become a dog that 's mad . xxmaj then is it sin 
+▁ xxmaj to rush into the secret house of death 
+▁ xxmaj ere death dare come to us ? xxmaj how do you , women ? 
+▁ xxmaj what , what ! good cheer ! xxmaj why , how now , xxmaj charmian ! 
+▁ xxmaj my noble girls ! xxmaj ah , women , women , look , 
+▁ xxmaj our lamp is spent , it 's out ! xxmaj good sirs , take heart . 
+▁ xxmaj we 'll bury him ; and then , what 's brave , what 's noble , 
+▁ xxmaj let 's do it after the high xxmaj roman fashion , 
+▁ xxmaj and make death proud to take us . xxmaj come , away ; 
+▁ xxmaj this case of that huge spirit now is cold . 
+▁ xxmaj ah , women , women ! xxmaj come ; we have no friend 
+▁ xxmaj but resolution and the briefest end . 
+▁ xxmaj exeunt ; those above hearing off xxup antony 's body 
+
+ xxup act_5|sc_1 
+▁ xxup act xxup v. xxup scene xxup i. 
+▁ xxmaj alexandria . xxup caesar 's camp 
+
+▁ xxmaj enter xxup caesar , xxup agrippa , xxup dolabella , xxup maecenas , xxup gallus , 
+▁ xxup proculeius , and others , his xxmaj council of xxmaj war 
+
+▁ xxup caesar . xxmaj go to him , xxmaj dolabella , bid him yield ; 
+▁ xxmaj being so frustrate , tell him he mocks 
+▁ xxmaj the pauses that he makes . 
+▁ xxup dolabella . xxmaj caesar , i shall . xxmaj exit 
+
+▁ xxmaj enter xxup dercetas xxmaj with the sword of xxup antony 
+
+▁ xxup caesar . xxmaj wherefore is that ? xxmaj and what art thou that dar'st 
+▁ xxmaj appear thus to us ? 
+▁ xxup dercetas . i am call'd xxmaj dercetas ; 
+▁ xxmaj mark xxmaj antony i serv'd , who best was worthy 
+▁ xxmaj best to be serv'd . xxmaj whilst he stood up and spoke , 
+▁ xxmaj he was my master , and i wore my life 
+▁ xxmaj to spend upon his haters . xxmaj if thou please 
+▁ xxmaj to take me to thee , as i was to him 
+▁ xxmaj i 'll be to xxmaj caesar ; if thou pleasest not , 
+▁ i yield thee up my life . 
+▁ xxup caesar . xxmaj what is't thou say'st ? 
+▁ xxup dercetas . i say , o xxmaj caesar , xxmaj antony is dead . 
+▁ xxup caesar . xxmaj the breaking of so great a thing should make 
+▁ a greater crack . xxmaj the round world 
+▁ xxmaj should have shook lions into civil streets , 
+▁ xxmaj and citizens to their dens . xxmaj the death of xxmaj antony 
+▁ xxmaj is not a single doom ; in the name lay 
+▁ a moiety of the world . 
+▁ xxup dercetas . xxmaj he is dead , xxmaj caesar , 
+▁ xxmaj not by a public minister of justice , 
+▁ xxmaj nor by a hired knife ; but that self hand 
+▁ xxmaj which writ his honour in the acts it did 
+▁ xxmaj hath , with the courage which the heart did lend it , 
+▁ xxmaj splitted the heart . xxmaj this is his sword ; 
+▁ i robb'd his wound of it ; behold it stain'd 
+▁ xxmaj with his most noble blood . 
+▁ xxup caesar . xxmaj look you sad , friends ? 
+▁ xxmaj the gods rebuke me , but it is tidings 
+▁ xxmaj to wash the eyes of kings . 
+▁ xxup agrippa . xxmaj and strange it is 
+▁ xxmaj that nature must compel us to lament 
+▁ xxmaj our most persisted deeds . 
+▁ xxup maecenas . xxmaj his taints and honours 
+▁ xxmaj wag'd equal with him . 
+▁ xxup agrippa . a rarer spirit never 
+▁ xxmaj did steer humanity . xxmaj but you gods will give us 
+▁ xxmaj some faults to make us men . xxmaj caesar is touch'd . 
+▁ xxup maecenas . xxmaj when such a spacious mirror 's set before him , 
+▁ xxmaj he needs must see himself . 
+▁ xxup caesar . o xxmaj antony , 
+▁ i have follow'd thee to this ! xxmaj but we do lance 
+▁ xxmaj diseases in our bodies . i must perforce 
+▁ xxmaj have shown to thee such a declining day 
+▁ xxmaj or look on thine ; we could not stall together 
+▁ xxmaj in the whole world . xxmaj but yet let me lament , 
+▁ xxmaj with tears as sovereign as the blood of hearts , 
+▁ xxmaj that thou , my brother , my competitor 
+▁ xxmaj in top of all design , my mate in empire , 
+▁ xxmaj friend and companion in the front of war , 
+▁ xxmaj the arm of mine own body , and the heart 
+▁ xxmaj where mine his thoughts did kindle- that our stars , 
+▁ xxmaj unreconciliable , should divide 
+▁ xxmaj our equalness to this . xxmaj hear me , good friends- 
+
+▁ xxmaj enter an xxup egyptian 
+
+▁ xxmaj but i will tell you at some meeter season . 
+▁ xxmaj the business of this man looks out of him ; 
+▁ xxmaj we 'll hear him what he says . xxmaj whence are you ? 
+▁ xxup egyptian . a poor xxmaj egyptian , yet the xxmaj queen , my mistress , 
+▁ xxmaj confin'd in all she has , her monument , 
+▁ xxmaj of thy intents desires instruction , 
+▁ xxmaj that she preparedly may frame herself 
+▁ xxmaj to th ' way she 's forc'd to . 
+▁ xxup caesar . xxmaj bid her have good heart . 
+▁ xxmaj she soon shall know of us , by some of ours , 
+▁ xxmaj how honourable and how kindly we 
+▁ xxmaj determine for her ; for xxmaj caesar can not learn 
+▁ xxmaj to be ungentle . 
+▁ xxup egyptian . xxmaj so the gods preserve thee ! xxmaj exit 
+▁ xxup caesar . xxmaj come hither , xxmaj proculeius . xxmaj go and say 
+▁ xxmaj we purpose her no shame . xxmaj give her what comforts 
+▁ xxmaj the quality of her passion shall require , 
+▁ xxmaj lest , in her greatness , by some mortal stroke 
+▁ xxmaj she do defeat us ; for her life in xxmaj rome 
+▁ xxmaj would be eternal in our triumph . xxmaj go , 
+▁ xxmaj and with your speediest bring us what she says , 
+▁ xxmaj and how you find her . 
+▁ xxup proculeius . xxmaj caesar , i shall . xxmaj exit 
+▁ xxup caesar . xxmaj gallus , go you along . xxmaj exit xxup gallus 
+▁ xxmaj where 's xxmaj dolabella , to second xxmaj proculeius ? 
+▁ xxup all . xxmaj dolabella ! 
+▁ xxup caesar . xxmaj let him alone , for i remember now 
+▁ xxmaj how he 's employ'd ; he shall in time be ready . 
+▁ xxmaj go with me to my tent , where you shall see 
+▁ xxmaj how hardly i was drawn into this war , 
+▁ xxmaj how calm and gentle i proceeded still 
+▁ xxmaj in all my writings . xxmaj go with me , and see 
+▁ xxmaj what i can show in this . xxmaj exeunt 
+
+ xxup act_5|sc_2 
+▁ xxup scene xxup ii . 
+▁ xxmaj alexandria . xxmaj the monument 
+
+▁ xxmaj enter xxup cleopatra , xxup charmian , xxup iras , and xxup mardian 
+
+▁ xxup cleopatra . xxmaj my desolation does begin to make 
+▁ a better life . ' tis paltry to be xxmaj caesar : 
+▁ xxmaj not being xxmaj fortune , he 's but xxmaj fortune 's knave , 
+▁ a minister of her will ; and it is great 
+▁ xxmaj to do that thing that ends all other deeds , 
+▁ xxmaj which shackles accidents and bolts up change , 
+▁ xxmaj which sleeps , and never palates more the dug , 
+▁ xxmaj the beggar 's nurse and xxmaj caesar 's . 
+
+▁ xxmaj enter , to the gates of the monument , xxup proculeius , xxup gallus , 
+▁ and soldiers 
+
+▁ xxup proculeius . xxmaj caesar sends greetings to the xxmaj queen of xxmaj egypt , 
+▁ xxmaj and bids thee study on what fair demands 
+▁ xxmaj thou mean'st to have him grant thee . 
+▁ xxup cleopatra . xxmaj what 's thy name ? 
+▁ xxup proculeius . xxmaj my name is xxmaj proculeius . 
+▁ xxup cleopatra . xxmaj antony 
+▁ xxmaj did tell me of you , bade me trust you ; but 
+▁ i do not greatly care to be deceiv'd , 
+▁ xxmaj that have no use for trusting . xxmaj if your master 
+▁ xxmaj would have a queen his beggar , you must tell him 
+▁ xxmaj that majesty , to keep decorum , must 
+▁ xxmaj no less beg than a kingdom . xxmaj if he please 
+▁ xxmaj to give me conquer'd xxmaj egypt for my son , 
+▁ xxmaj he gives me so much of mine own as i 
+▁ xxmaj will kneel to him with thanks . 
+▁ xxup proculeius . xxmaj be of good cheer ; 
+▁ xxmaj y'are fall'n into a princely hand ; fear nothing . 
+▁ xxmaj make your full reference freely to my lord , 
+▁ xxmaj who is so full of grace that it flows over 
+▁ xxmaj on all that need . xxmaj let me report to him 
+▁ xxmaj your sweet dependency , and you shall find 
+▁ a conqueror that will pray in aid for kindness 
+▁ xxmaj where he for grace is kneel'd to . 
+▁ xxup cleopatra . xxmaj pray you tell him 
+▁ i am his fortune 's vassal and i send him 
+▁ xxmaj the greatness he has got . i hourly learn 
+▁ a doctrine of obedience , and would gladly 
+▁ xxmaj look him i ' th ' face . 
+▁ xxup proculeius . xxmaj this xxmaj i 'll report , dear lady . 
+▁ xxmaj have comfort , for i know your plight is pitied 
+▁ xxmaj of him that caus'd it . 
+▁ xxup gallus . xxmaj you see how easily she may be surpris'd . 
+
+▁ xxmaj here xxup proculeius and two of the guard ascend the 
+▁ monument by a ladder placed against a window , 
+▁ and come behind xxup cleopatra . xxmaj some of the guard 
+▁ unbar and open the gates 
+
+▁ xxmaj guard her till xxmaj caesar come . xxmaj exit 
+▁ xxup iras . xxmaj royal xxmaj queen ! 
+▁ xxup charmian . o xxmaj cleopatra ! thou art taken , xxmaj queen ! 
+▁ xxup cleopatra . xxmaj quick , quick , good hands . [ drawing a dagger ] 
+▁ xxup proculeius . xxmaj hold , worthy lady , hold , [ disarms her ] 
+▁ xxmaj do not yourself such wrong , who are in this 
+▁ xxmaj reliev'd , but not betray'd . 
+▁ xxup cleopatra . xxmaj what , of death too , 
+▁ xxmaj that rids our dogs of languish ? 
+▁ xxup proculeius . xxmaj cleopatra , 
+▁ xxmaj do not abuse my master 's bounty by 
+▁ xxmaj th ' undoing of yourself . xxmaj let the world see 
+▁ xxmaj his nobleness well acted , which your death 
+▁ xxmaj will never let come forth . 
+▁ xxup cleopatra . xxmaj where art thou , death ? 
+▁ xxmaj come hither , come ! xxmaj come , come , and take a queen 
+▁ xxmaj worth many babes and beggars ! 
+▁ xxup proculeius . xxup o , temperance , lady ! 
+▁ xxup cleopatra . xxmaj sir , i will eat no meat ; xxmaj i 'll not drink , sir ; 
+▁ xxmaj if idle talk will once be necessary , 
+▁ xxmaj i 'll not sleep neither . xxmaj this mortal house xxmaj i 'll ruin , 
+▁ xxmaj do xxmaj caesar what he can . xxmaj know , sir , that i 
+▁ xxmaj will not wait pinion'd at your master 's court , 
+▁ xxmaj nor once be chastis'd with the sober eye 
+▁ xxmaj of dull xxmaj octavia . xxmaj shall they hoist me up , 
+▁ xxmaj and show me to the shouting varletry 
+▁ xxmaj of censuring xxmaj rome ? xxmaj rather a ditch in xxmaj egypt 
+▁ xxmaj be gentle grave unto me ! xxmaj rather on xxmaj nilus ' mud 
+▁ xxmaj lay me stark - nak'd , and let the water - flies 
+▁ xxmaj blow me into abhorring ! xxmaj rather make 
+▁ xxmaj my country 's high pyramides my gibbet , 
+▁ xxmaj and hang me up in chains ! 
+▁ xxup proculeius . xxmaj you do extend 
+▁ xxmaj these thoughts of horror further than you shall 
+▁ xxmaj find cause in xxmaj caesar . 
+
+▁ xxmaj enter xxup dolabella 
+
+▁ xxup dolabella . xxmaj proculeius , 
+▁ xxmaj what thou hast done thy master xxmaj caesar knows , 
+▁ xxmaj and he hath sent for thee . xxmaj for the xxmaj queen , 
+▁ xxmaj i 'll take her to my guard . 
+▁ xxup proculeius . xxmaj so , xxmaj dolabella , 
+▁ xxmaj it shall content me best . xxmaj be gentle to her . 
+▁ [ to xxup cleopatra ] xxmaj to xxmaj caesar i will speak what you shall please , 
+▁ xxmaj if you 'll employ me to him . 
+▁ xxup cleopatra . xxmaj say i would die . 
+▁ xxmaj exeunt xxup proculeius and soldiers 
+▁ xxup dolabella . xxmaj most noble xxmaj empress , you have heard of me ? 
+▁ xxup cleopatra . i can not tell . 
+▁ xxup dolabella . xxmaj assuredly you know me . 
+▁ xxup cleopatra . xxmaj no matter , sir , what i have heard or known . 
+▁ xxmaj you laugh when boys or women tell their dreams ; 
+▁ xxmaj is't not your trick ? 
+▁ xxup dolabella . i understand not , madam . 
+▁ xxup cleopatra . i dreamt there was an xxmaj emperor xxmaj antony- 
+▁ xxup o , such another sleep , that i might see 
+▁ xxmaj but such another man ! 
+▁ xxup dolabella . xxmaj if it might please ye- 
+▁ xxup cleopatra . xxmaj his face was as the heav'ns , and therein stuck 
+▁ a sun and moon , which kept their course and lighted 
+▁ xxmaj the little xxup o , the earth . 
+▁ xxup dolabella . xxmaj most sovereign creature- 
+▁ xxup cleopatra . xxmaj his legs bestrid the ocean ; his rear'd arm 
+▁ xxmaj crested the world . xxmaj his voice was propertied 
+▁ xxmaj as all the tuned spheres , and that to friends ; 
+▁ xxmaj but when he meant to quail and shake the orb , 
+▁ xxmaj he was as rattling thunder . xxmaj for his bounty , 
+▁ xxmaj there was no winter in't ; an autumn ' twas 
+▁ xxmaj that grew the more by reaping . xxmaj his delights 
+▁ xxmaj were dolphin - like : they show'd his back above 
+▁ xxmaj the element they liv'd in . xxmaj in his livery 
+▁ xxmaj walk'd crowns and crownets ; realms and islands were 
+▁ xxmaj as plates dropp'd from his pocket . 
+▁ xxup dolabella . xxmaj cleopatra- 
+▁ xxup cleopatra . xxmaj think you there was or might be such a man 
+▁ xxmaj as this i dreamt of ? 
+▁ xxup dolabella . xxmaj gentle madam , no . 
+▁ xxup cleopatra . xxmaj you lie , up to the hearing of the gods . 
+▁ xxmaj but if there be nor ever were one such , 
+▁ xxmaj it 's past the size of drearning . xxmaj nature wants stuff 
+▁ xxmaj to vie strange forms with fancy ; yet t ' imagine 
+▁ xxmaj an xxmaj antony were nature 's piece ' gainst fancy , 
+▁ xxmaj condemning shadows quite . 
+▁ xxup dolabella . xxmaj hear me , good madam . 
+▁ xxmaj your loss is , as yourself , great ; and you bear it 
+▁ xxmaj as answering to the weight . xxmaj would i might never 
+▁ xxmaj o'ertake pursu'd success , but i do feel , 
+▁ xxmaj by the rebound of yours , a grief that smites 
+▁ xxmaj my very heart at root . 
+▁ xxup cleopatra . i thank you , sir . 
+▁ xxmaj know you what xxmaj caesar means to do with me ? 
+▁ xxup dolabella . i am loath to tell you what i would you knew . 
+▁ xxup cleopatra . xxmaj nay , pray you , sir . 
+▁ xxup dolabella . xxmaj though he be honourable- 
+▁ xxup cleopatra . xxmaj he 'll lead me , then , in triumph ? 
+▁ xxup dolabella . xxmaj madam , he will . i know't . [ flourish ] 
+▁ [ within : ' make way there - caesar ! ' ] 
+
+▁ xxmaj enter xxup caesar ; xxup gallus , xxup proculeius , xxup maecenas , xxup seleucus , 
+▁ and others of his train 
+
+▁ xxup caesar . xxmaj which is the xxmaj queen of xxmaj egypt ? 
+▁ xxup dolabella . xxmaj it is the xxmaj emperor , madam . [ cleopatpa kneels ] 
+▁ xxup caesar . xxmaj arise , you shall not kneel . 
+▁ i pray you , rise ; rise , xxmaj egypt . 
+▁ xxup cleopatra . xxmaj sir , the gods 
+▁ xxmaj will have it thus ; my master and my lord 
+▁ i must obey . 
+▁ xxup caesar . xxmaj take to you no hard thoughts . 
+▁ xxmaj the record of what injuries you did us , 
+▁ xxmaj though written in our flesh , we shall remember 
+▁ xxmaj as things but done by chance . 
+▁ xxup cleopatra . xxmaj sole sir o ' th ' world , 
+▁ i can not project mine own cause so well 
+▁ xxmaj to make it clear , but do confess i have 
+▁ xxmaj been laden with like frailties which before

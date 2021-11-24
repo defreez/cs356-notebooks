@@ -1,0 +1,999 @@
+xxbos xxmaj host . o xxmaj jesu , my lord , my lord ! 
+▁ xxmaj prince . xxmaj heigh , heigh , the devil rides upon a fiddlestick ! 
+▁ xxmaj what 's the matter ? 
+▁ xxmaj host . xxmaj the sheriff and all the watch are at the door . xxmaj they are come 
+▁ to search the house . xxmaj shall i let them in ? 
+▁ xxmaj fal . xxmaj dost thou hear , xxmaj hal ? xxmaj never call a true piece of gold a 
+▁ counterfeit . xxmaj thou art essentially mad without seeming so . 
+▁ xxmaj prince . xxmaj and thou a natural coward without instinct . 
+▁ xxmaj fal . i deny your major . xxmaj if you will deny the sheriff , so ; if not , 
+▁ let him enter . xxmaj if i become not a cart as well as another man , a 
+▁ plague on my bringing up ! i hope i shall as soon be strangled 
+▁ with a halter as another . 
+▁ xxmaj prince . xxmaj go hide thee behind the arras . xxmaj the rest walk , up above . 
+▁ xxmaj now , my masters , for a true face and good conscience . 
+▁ xxmaj fal . xxmaj both which i have had ; but their date is out , and therefore 
+▁ xxmaj i 'll hide me . xxmaj exit . 
+▁ xxmaj prince . xxmaj call in the sheriff . 
+▁ [ exeunt xxmaj manent the xxmaj prince and xxmaj peto . ] 
+
+▁ xxmaj enter xxmaj sheriff and the xxmaj carrier . 
+
+▁ xxmaj now , xxmaj master xxmaj sheriff , what is your will with me ? 
+▁ xxmaj sher . xxmaj first , pardon me , my lord . a hue and cry 
+▁ xxmaj hath followed certain men unto this house . 
+▁ xxmaj prince . xxmaj what men ? 
+▁ xxmaj sher . xxmaj one of them is well known , my gracious lord- 
+▁ a gross fat man . 
+▁ xxmaj carrier . xxmaj as fat as butter . 
+▁ xxmaj prince . xxmaj the man , i do assure you , is not here , 
+▁ xxmaj for i myself at this time have employ'd him . 
+▁ xxmaj and , sheriff , i will engage my word to thee 
+▁ xxmaj that i will by to - morrow dinner time 
+▁ xxmaj send him to answer thee , or any man , 
+▁ xxmaj for anything he shall be charg'd withal ; 
+▁ xxmaj and so let me entreat you leave the house . 
+▁ xxmaj sher . i will , my lord . xxmaj there are two gentlemen 
+▁ xxmaj have in this robbery lost three hundred marks . 
+▁ xxmaj prince . xxmaj it may be so . xxmaj if he have robb'd these men , 
+▁ xxmaj he shall be answerable ; and so farewell . 
+▁ xxmaj sher . xxmaj good night , my noble lord . 
+▁ xxmaj prince . i think it is good morrow , is it not ? 
+▁ xxmaj sher . xxmaj indeed , my lord , i think it be two o'clock . 
+▁ xxmaj exit [ with xxmaj carrier ] . 
+▁ xxmaj prince . xxmaj this oily rascal is known as well as xxmaj paul 's . xxmaj go call him 
+▁ forth . 
+▁ xxmaj peto . xxmaj falstaff ! xxmaj fast asleep behind the arras , and snorting like a 
+▁ horse . 
+▁ xxmaj prince . xxmaj hark how hard he fetches breath . xxmaj search his pockets . 
+▁ xxmaj he searcheth his pockets and findeth certain papers . 
+▁ xxmaj what hast thou found ? 
+▁ xxmaj peto . xxmaj nothing but papers , my lord . 
+▁ xxmaj prince . xxmaj let 's see whit they be . xxmaj read them . 
+
+▁ xxmaj peto . [ reads ] ' item . a capon . . . . . . . . . . . . . ii s. ii d. 
+▁ xxmaj item , xxmaj sauce . . . . . . . . . . . . . . xxrep 4 i d. 
+▁ xxmaj item , xxmaj sack two gallons . . . . . . . . v s. v xxrep 3 i d. 
+▁ xxmaj item , xxmaj anchovies and sack after supper . ii s. vi d. 
+▁ xxmaj item , xxmaj bread . . . . . . . . . . . . . . ob . ' 
+
+▁ xxmaj prince . o monstrous ! but one halfpennyworth of bread to this 
+▁ intolerable deal of sack ! xxmaj what there is else , keep close ; we 'll 
+▁ read it at more advantage . xxmaj there let him sleep till day . xxmaj i 'll to 
+▁ the court in the morning . xxmaj we must all to the wars . and thy place 
+▁ shall be honourable . xxmaj i 'll procure this fat rogue a charge of 
+▁ foot ; and i know , his death will be a march of twelve score . xxmaj the 
+▁ money shall be paid back again with advantage . xxmaj be with me betimes 
+▁ in the morning , and so good morrow , xxmaj peto . 
+▁ xxmaj peto . xxmaj good morrow , good my lord . 
+▁ xxmaj exeunt . 
+
+
+
+
+ < < this xxup electronic xxup version xxup of xxup the xxup complete xxup works xxup of xxup william 
+ xxup shakespeare xxup is xxup copyright 1990 - 1993 xxup by xxup world xxup library , xxup inc . , xxup and xxup is 
+ xxup provided xxup by xxup project xxup gutenberg xxup etext xxup of xxup illinois xxup benedictine xxup college 
+ xxup with xxup permission . xxup electronic xxup and xxup machine xxup readable xxup copies xxup may xxup be 
+ xxup distributed xxup so xxup long xxup as xxup such xxup copies ( 1 ) xxup are xxup for xxup your xxup or xxup others 
+ xxup personal xxup use xxup only , xxup and ( 2 ) xxup are xxup not xxup distributed xxup or xxup used 
+ xxup commercially . xxup prohibited xxup commercial xxup distribution xxup includes xxup by xxup any 
+ xxup service xxup that xxup charges xxup for xxup download xxup time xxup or xxup for xxup membership . > > 
+
+
+
+ xxup act xxrep 3 i . xxmaj scene xxup i. 
+ xxmaj bangor . xxmaj the xxmaj archdeacon 's house . 
+
+ xxmaj enter xxmaj hotspur , xxmaj worcester , xxmaj lord xxmaj mortimer , xxmaj owen xxmaj glendower . 
+
+▁ xxmaj mort . xxmaj these promises are fair , the parties sure , 
+▁ xxmaj and our induction full of prosperous hope . 
+▁ xxmaj hot . xxmaj lord xxmaj mortimer , and cousin xxmaj glendower , 
+▁ xxmaj will you sit down ? 
+▁ xxmaj and uncle xxmaj worcester . a plague upon it ! 
+▁ i have forgot the map . 
+▁ xxmaj glend . xxmaj no , here it is . 
+▁ xxmaj sit , cousin xxmaj percy ; sit , good cousin xxmaj hotspur , 
+▁ xxmaj for by that name as oft as xxmaj lancaster 
+▁ xxmaj doth speak of you , his cheek looks pale , and with 
+▁ a rising sigh he wisheth you in heaven . 
+▁ xxmaj hot . xxmaj and you in hell , as oft as he hears 
+▁ xxmaj owen xxmaj glendower spoke of . 
+▁ xxmaj glend . i can not blame him . xxmaj at my nativity 
+▁ xxmaj the front of heaven was full of fiery shapes 
+▁ xxmaj of burning cressets , and at my birth 
+▁ xxmaj the frame and huge foundation of the earth 
+▁ xxmaj shak'd like a coward . 
+▁ xxmaj hot . xxmaj why , so it would have done at the same season , if your 
+▁ mother 's cat had but kitten'd , though yourself had never been 
+▁ born . 
+▁ xxmaj glend . i say the earth did shake when i was born . 
+▁ xxmaj hot . xxmaj and i say the earth was not of my mind , 
+▁ xxmaj if you suppose as fearing you it shook . 
+▁ xxmaj glend . xxmaj the heavens were all on fire , the earth did tremble . 
+▁ xxmaj hot . xxup o , then the earth shook to see the heavens on fire , 
+▁ xxmaj and not in fear of your nativity . 
+▁ xxmaj diseased nature oftentimes breaks forth 
+▁ xxmaj in strange eruptions ; oft the teeming earth 
+▁ xxmaj is with a kind of colic pinch'd and vex'd 
+▁ xxmaj by the imprisoning of unruly wind 
+▁ xxmaj within her womb , which , for enlargement striving , 
+▁ xxmaj shakes the old beldame earth and topples down 
+▁ xxmaj steeples and mossgrown towers . xxmaj at your birth 
+▁ xxmaj our grandam earth , having this distemp'rature , 
+▁ xxmaj in passion shook . 
+▁ xxmaj glend . xxmaj cousin , of many men 
+▁ i do not bear these crossings . xxmaj give me leave 
+▁ xxmaj to tell you once again that at my birth 
+▁ xxmaj the front of heaven was full of fiery shapes , 
+▁ xxmaj the goats ran from the mountains , and the herds 
+▁ xxmaj were strangely clamorous to the frighted fields . 
+▁ xxmaj these signs have mark'd me extraordinary , 
+▁ xxmaj and all the courses of my life do show 
+▁ i am not in the roll of common men . 
+▁ xxmaj where is he living , clipp'd in with the sea 
+▁ xxmaj that chides the banks of xxmaj england , xxmaj scotland , xxmaj wales , 
+▁ xxmaj which calls me pupil or hath read to me ? 
+▁ xxmaj and bring him out that is but woman 's son 
+▁ xxmaj can trace me in the tedious ways of art 
+▁ xxmaj and hold me pace in deep experiments . 
+▁ xxmaj hot . i think there 's no man speaks better xxmaj welsh . xxmaj i 'll to dinner . 
+▁ xxmaj mort . xxmaj peace , cousin xxmaj percy ; you will make him mad . 
+▁ xxmaj glend . i can call spirits from the vasty deep . 
+▁ xxmaj hot . xxmaj why , so can xxup i , or so can any man ; 
+▁ xxmaj but will they come when you do call for them ? 
+▁ xxmaj glend . xxmaj why , i can teach you , cousin , to command the devil . 
+▁ xxmaj hot . xxmaj and i can teach thee , coz , to shame the devil- 
+▁ xxmaj by telling truth . xxmaj tell truth and shame the devil . 
+▁ xxmaj if thou have power to raise him , bring him hither , 
+▁ xxmaj and xxmaj i 'll be sworn i have power to shame him hence . 
+▁ xxup o , while you live , tell truth and shame the devil ! 
+▁ xxmaj mort . xxmaj come , come , no more of this unprofitable chat . 
+▁ xxmaj glend . xxmaj three times hath xxmaj henry xxmaj bolingbroke made head 
+▁ xxmaj against my power ; thrice from the banks of xxmaj wye 
+▁ xxmaj and sandy - bottom'd xxmaj severn have i sent him 
+▁ xxmaj bootless home and weather - beaten back . 
+▁ xxmaj hot . xxmaj home without boots , and in foul weather too ? 
+▁ xxmaj how scapes he agues , in the devil 's name 
+▁ xxmaj glend . xxmaj come , here 's the map . xxmaj shall we divide our right 
+▁ xxmaj according to our threefold order ta'en ? 
+▁ xxmaj mort . xxmaj the xxmaj archdeacon hath divided it 
+▁ xxmaj into three limits very equally . 
+▁ xxmaj england , from xxmaj trent and xxmaj severn hitherto , 
+▁ xxmaj by south and east is to my part assign'd ; 
+▁ xxmaj all westward , xxmaj wales beyond the xxmaj severn shore , 
+▁ xxmaj and all the fertile land within that bound , 
+▁ xxmaj to xxmaj owen xxmaj glendower ; and , dear coz , to you 
+▁ xxmaj the remnant northward lying off from xxmaj trent . 
+▁ xxmaj and our indentures tripartite are drawn ; 
+▁ xxmaj which being sealed interchangeably 
+▁ ( a business that this night may execute ) , 
+▁ xxmaj to - morrow , cousin xxmaj percy , you and i 
+▁ xxmaj and my good xxmaj lord of xxmaj worcester will set forth 
+▁ xxmaj to meet your father and the xxmaj scottish bower , 
+▁ xxmaj as is appointed us , at xxmaj shrewsbury . 
+▁ xxmaj my father xxmaj glendower is not ready yet , 
+▁ xxmaj nor shall we need his help these fourteen days . 
+▁ [ to xxmaj glend . ] xxmaj within that space you may have drawn together 
+▁ xxmaj your tenants , friends , and neighbouring gentlemen . 
+▁ xxmaj glend . a shorter time shall send me to you , lords ; 
+▁ xxmaj and in my conduct shall your ladies come , 
+▁ xxmaj from whom you now must steal and take no leave , 
+▁ xxmaj for there will be a world of water shed 
+▁ xxmaj upon the parting of your wives and you . 
+▁ xxmaj hot . xxmaj methinks my moiety , north from xxmaj burton here , 
+▁ xxmaj in quantity equals not one of yours . 
+▁ xxmaj see how this river comes me cranking in 
+▁ xxmaj and cuts me from the best of all my land 
+▁ a huge half - moon , a monstrous cantle out . 
+▁ xxmaj i 'll have the current ill this place damm'd up , 
+▁ xxmaj and here the smug and sliver xxmaj trent shall run 
+▁ xxmaj in a new channel fair and evenly . 
+▁ xxmaj it shall not wind with such a deep indent 
+▁ xxmaj to rob me of so rich a bottom here . 
+▁ xxmaj glend . xxmaj not wind ? xxmaj it shall , it must ! xxmaj you see it doth . 
+▁ xxmaj mort . xxmaj yea , but 
+▁ xxmaj mark how he bears his course , and runs me up 
+▁ xxmaj with like advantage on the other side , 
+▁ xxmaj gelding the opposed continent as much 
+▁ xxmaj as on the other side it takes from you . 
+▁ xxmaj wor . xxmaj yea , but a little charge will trench him here 
+▁ xxmaj and on this north side win this cape of land ; 
+▁ xxmaj and then he runs straight and even . 
+▁ xxmaj hot . xxmaj i 'll have it so . a little charge will do it . 
+▁ xxmaj glend . i will not have it alt'red . 
+▁ xxmaj hot . xxmaj will not you ? 
+▁ xxmaj glend . xxmaj no , nor you shall not . 
+▁ xxmaj hot . xxmaj who shall say me nay ? 
+▁ xxmaj glend . xxmaj no , that will xxup i. 
+▁ xxmaj hot . xxmaj let me not understand you then ; speak it in xxmaj welsh . 
+▁ xxmaj glend . i can speak xxmaj english , lord , as well as you ; 
+▁ xxmaj for i was train'd up in the xxmaj english court , 
+▁ xxmaj where , being but young , i framed to the harp 
+▁ xxmaj many an xxmaj english ditty lovely well , 
+▁ xxmaj and gave the tongue a helpful ornament- 
+▁ a virtue that was never seen in you . 
+▁ xxmaj hot . xxmaj marry , 
+▁ xxmaj and i am glad of it with all my heart ! 
+▁ i had rather be a kitten and cry mew 
+▁ xxmaj than one of these same metre ballet - mongers . 
+▁ i had rather hear a brazen canstick turn'd 
+▁ xxmaj or a dry wheel grate on the axletree , 
+▁ xxmaj and that would set my teeth nothing on edge , 
+▁ xxmaj nothing so much as mincing poetry . 
+▁ ' tis like the forc'd gait of a shuffling nag , 
+▁ xxmaj glend . xxmaj come , you shall have xxmaj trent turn'd . 
+▁ xxmaj hot . i do not care . xxmaj i 'll give thrice so much land 
+▁ xxmaj to any well - deserving friend ; 
+▁ xxmaj but in the way of bargain , mark ye me , 
+▁ xxmaj i 'll cavil on the ninth part of a hair 
+▁ xxmaj are the indentures drawn ? xxmaj shall we be gone ? 
+▁ xxmaj glend . xxmaj the moon shines fair ; you may away by night . 
+▁ xxmaj i 'll haste the writer , and withal 
+▁ xxmaj break with your wives of your departure hence . 
+▁ i am afraid my daughter will run mad , 
+▁ xxmaj so much she doteth on her xxmaj mortimer . xxmaj exit . 
+▁ xxmaj mort . xxmaj fie , cousin xxmaj percy ! how you cross my father ! 
+▁ xxmaj hot . i can not choose . xxmaj sometimes he angers me 
+▁ xxmaj with telling me of the moldwarp and the ant , 
+▁ xxmaj of the dreamer xxmaj merlin and his prophecies , 
+▁ xxmaj and of a dragon and a finless fish , 
+▁ a clip - wing'd griffin and a moulten raven , 
+▁ a couching lion and a ramping cat , 
+▁ xxmaj and such a deal of skimble - skamble stuff 
+▁ xxmaj as puts me from my faith . i tell you what- 
+▁ xxmaj he held me last night at least nine hours 
+▁ xxmaj in reckoning up the several devils ' names 
+▁ xxmaj that were his lackeys . i cried ' hum , ' and ' well , go to ! ' 
+▁ xxmaj but mark'd him not a word . xxup o , he is as tedious 
+▁ xxmaj as a tired horse , a railing wife ; 
+▁ xxmaj worse than a smoky house . i had rather live 
+▁ xxmaj with cheese and garlic in a windmill far 
+▁ xxmaj than feed on cates and have him talk to me 
+▁ xxmaj in any summer house in xxmaj christendom ) . 
+▁ xxmaj mort . xxmaj in faith , he is a worthy gentleman , 
+▁ xxmaj exceedingly well read , and profited 
+▁ xxmaj in strange concealments , valiant as a lion , 
+▁ xxmaj and wondrous affable , and as bountiful 
+▁ xxmaj as mines of xxmaj india . xxmaj shall i tell you , cousin ? 
+▁ xxmaj he holds your temper in a high respect 
+▁ xxmaj and curbs himself even of his natural scope 
+▁ xxmaj when you come ' cross his humour . xxmaj faith , he does . 
+▁ i warrant you that man is not alive 
+▁ xxmaj might so have tempted him as you have done 
+▁ xxmaj without the taste of danger and reproof . 
+▁ xxmaj but do not use it oft , let me entreat you . 
+▁ xxmaj wor . xxmaj in faith , my lord , you are too wilful - blame , 
+▁ xxmaj and since your coming hither have done enough 
+▁ xxmaj to put him quite besides his patience . 
+▁ xxmaj you must needs learn , lord , to amend this fault . 
+▁ xxmaj though sometimes it show greatness , courage , blood- 
+▁ xxmaj and that 's the dearest grace it renders you- 
+▁ xxmaj yet oftentimes it doth present harsh rage , 
+▁ xxmaj defect of manners , want of government , 
+▁ xxmaj pride , haughtiness , opinion , and disdain ; 
+▁ xxmaj the least of which haunting a nobleman 
+▁ xxmaj loseth men 's hearts , and leaves behind a stain 
+▁ xxmaj upon the beauty of all parts besides , 
+▁ xxmaj beguiling them of commendation . 
+▁ xxmaj hot . xxmaj well , i am school'd . xxmaj good manners be your speed ! 
+▁ xxmaj here come our wives , and let us take our leave . 
+
+▁ xxmaj enter xxmaj glendower with the xxmaj ladies . 
+
+▁ xxmaj mort . xxmaj this is the deadly spite that angers me- 
+▁ xxmaj my wife can speak no xxmaj english , i no xxmaj welsh . 
+▁ xxmaj glend . xxmaj my daughter weeps ; she will not part with you ; 
+▁ xxmaj she 'll be a soldier too , she 'll to the wars . 
+▁ xxmaj mort . xxmaj good father , tell her that she and my aunt xxmaj percy 
+▁ xxmaj shall follow in your conduct speedily . 
+▁ xxmaj glendower speaks to her in xxmaj welsh , and she answers 
+▁ him in the same . 
+▁ xxmaj glend . xxmaj she is desperate here . a peevish self - will'd harlotry , 
+▁ xxmaj one that no persuasion can do good upon . 
+▁ xxmaj the xxmaj lady speaks in xxmaj welsh . 
+▁ xxmaj mort . i understand thy looks . xxmaj that pretty xxmaj welsh 
+▁ xxmaj which thou pourest down from these swelling heavens 
+▁ i am too perfect in ; and , but for shame , 
+▁ xxmaj in such a xxmaj barley should i answer thee . 
+▁ xxmaj the xxmaj lady again in xxmaj welsh . 
+▁ i understand thy kisses , and thou mine , 
+▁ xxmaj and that 's a feeling disputation . 
+▁ xxmaj but i will never be a truant , love , 
+▁ xxmaj till i have learnt thy language : for thy tongue 
+▁ xxmaj makes xxmaj welsh as sweet as ditties highly penn'd , 
+▁ xxmaj sung by a fair queen in a summer 's bow'r , 
+▁ xxmaj with ravishing division , to her lute . 
+▁ xxmaj glend . xxmaj nay , if you melt , then will she run mad . 
+▁ xxmaj the xxmaj lady speaks again in xxmaj welsh . 
+▁ xxmaj mort . xxup o , i am ignorance itself in this ! 
+▁ xxmaj glend . xxmaj she bids you on the wanton rushes lay you down 
+▁ xxmaj and rest your gentle head upon her lap , 
+▁ xxmaj and she will sing the song that pleaseth you 
+▁ xxmaj and on your eyelids crown the god of sleep , 
+▁ xxmaj charming your blood with pleasing heaviness , 
+▁ xxmaj making such difference ' twixt wake and sleep 
+▁ xxmaj as is the difference betwixt day and night 
+▁ xxmaj the hour before the heavenly - harness'd team 
+▁ xxmaj begins his golden progress in the xxmaj east . 
+▁ xxmaj mort . xxmaj with all my heart xxmaj i 'll sit and hear her sing . 
+▁ xxmaj by that time will our book , i think , be drawn . 
+▁ xxmaj glend . xxmaj do so , 
+▁ xxmaj and those musicians that shall play to you 
+▁ xxmaj hang in the air a thousand leagues from hence , 
+▁ xxmaj and straight they shall be here . xxmaj sit , and attend . 
+▁ xxmaj hot . xxmaj come , xxmaj kate , thou art perfect in lying down . xxmaj come , quick , 
+▁ quick , that i may lay my head in thy lap . 
+▁ xxmaj lady xxup p. xxmaj go , ye giddy goose . 
+▁ xxmaj the music plays . 
+▁ xxmaj hot . xxmaj now i perceive the devil understands xxmaj welsh ; 
+▁ xxmaj and ' tis no marvel , be is so humorous . 
+▁ xxmaj by'r xxmaj lady , he is a good musician . 
+▁ xxmaj lady xxup p. xxmaj then should you be nothing but musical ; for you are 
+▁ altogether govern'd by humours . xxmaj lie still , ye thief , and hear the 
+▁ lady sing in xxmaj welsh . 
+▁ xxmaj hot . i had rather hear xxmaj lady , my brach , howl in xxmaj irish . 
+▁ xxmaj lady xxup p. xxmaj wouldst thou have thy head broken ? 
+▁ xxmaj hot . xxmaj no . 
+▁ xxmaj lady xxup p. xxmaj then be still . 
+▁ xxmaj hot . xxmaj neither ! ' tis a woman 's fault . 
+▁ xxmaj lady xxup p. xxmaj now xxmaj god help thee ! 
+▁ xxmaj hot . xxmaj to the xxmaj welsh lady 's bed . 
+▁ xxmaj lady xxup p. xxmaj what 's that ? 
+▁ xxmaj hot . xxmaj peace ! she sings . 
+▁ xxmaj here the xxmaj lady sings a xxmaj welsh song . 
+▁ xxmaj come , xxmaj kate , xxmaj i 'll have your song too . 
+▁ xxmaj lady xxup p. xxmaj not mine , in good sooth . 
+▁ xxmaj hot . xxmaj not yours , in good sooth ? xxmaj heart ! you swear like a 
+▁ comfit - maker 's wife . ' not you , in good sooth ! ' and ' as true as i 
+▁ live ! ' and ' as xxmaj god shall mend me ! ' and ' as sure as day ! ' 
+▁ xxmaj and givest such sarcenet surety for thy oaths 
+▁ xxmaj as if thou ne'er walk'st further than xxmaj finsbury . 
+▁ xxmaj swear me , xxmaj kate , like a lady as thou art , 
+▁ a good mouth - filling oath ; and leave ' in sooth ' 
+▁ xxmaj and such protest of pepper gingerbread 
+▁ xxmaj to velvet guards and xxmaj sunday citizens . xxmaj come , sing . 
+▁ xxmaj lady xxup p. i will not sing . 
+▁ xxmaj hot . ' tis the next way to turn tailor or be redbreast - teacher . xxmaj an 
+▁ the indentures be drawn , xxmaj i 'll away within these two hours ; and so 
+▁ come in when ye will . xxmaj exit . 
+▁ xxmaj glend . xxmaj come , come , xxmaj lord xxmaj mortimer . xxmaj you are as slow 
+▁ xxmaj as hot xxmaj lord xxmaj percy is on fire to go . 
+▁ xxmaj by this our book is drawn ; we 'll but seal , 
+▁ xxmaj and then to horse immediately . 
+▁ xxmaj mort . xxmaj with all my heart . 
+▁ xxmaj exeunt . 
+
+
+
+
+ xxmaj scene xxup ii . 
+ xxmaj london . xxmaj the xxmaj palace . 
+
+ xxmaj enter the xxmaj king , xxmaj prince of xxmaj wales , and others . 
+
+▁ xxmaj king . xxmaj lords , give us leave . xxmaj the xxmaj prince of xxmaj wales and i 
+▁ xxmaj must have some private conference ; but be near at hand , 
+▁ xxmaj for we shall presently have need of you . 
+▁ xxmaj exeunt xxmaj lords . 
+▁ i know not whether xxmaj god will have it so , 
+▁ xxmaj for some displeasing service i have done , 
+▁ xxmaj that , in his secret doom , out of my blood 
+▁ xxmaj he 'll breed revengement and a scourge for me ; 
+▁ xxmaj but thou dost in thy passages of life 
+▁ xxmaj make me believe that thou art only mark'd 
+▁ xxmaj for the hot vengeance and the rod of heaven 
+▁ xxmaj to punish my mistreadings . xxmaj tell me else , 
+▁ xxmaj could such inordinate and low desires , 
+▁ xxmaj such poor , such bare , such lewd , such mean attempts , 
+▁ xxmaj such barren pleasures , rude society , 
+▁ xxmaj as thou art match'd withal and grafted to , 
+▁ xxmaj accompany the greatness of thy blood 
+▁ xxmaj and hold their level with thy princely heart ? 
+▁ xxmaj prince . xxmaj so please your xxmaj majesty , i would i could 
+▁ xxmaj quit all offences with as clear excuse 
+▁ xxmaj as well as i am doubtless i can purge 
+▁ xxmaj myself of many i am charged withal . 
+▁ xxmaj yet such extenuation let me beg 
+▁ xxmaj as , in reproof of many tales devis'd , 
+▁ xxmaj which oft the ear of greatness needs must bear 
+▁ xxmaj by , smiling pickthanks and base newsmongers , 
+▁ i may , for some things true wherein my youth 
+▁ xxmaj hath faulty wand'red and irregular , 
+▁ xxmaj and pardon on lily true submission . 
+▁ xxmaj king . xxmaj god pardon thee ! xxmaj yet let me wonder , xxmaj harry , 
+▁ xxmaj at thy affections , which do hold a wing , 
+▁ xxmaj quite from the flight of all thy ancestors . 
+▁ xxmaj thy place in xxmaj council thou hast rudely lost , 
+▁ xxmaj which by thy younger brother is supplied , 
+▁ xxmaj and art almost an alien to the hearts 
+▁ xxmaj of all the court and princes of my blood . 
+▁ xxmaj the hope and expectation of thy time 
+▁ xxmaj is ruin'd , and the soul of every man 
+▁ xxmaj prophetically do forethink thy fall . 
+▁ xxmaj had i so lavish of my presence been , 
+▁ xxmaj so common - hackney'd in the eyes of men , 
+▁ xxmaj so stale and cheap to vulgar company , 
+▁ xxmaj opinion , that did help me to the crown , 
+▁ xxmaj had still kept loyal to possession 
+▁ xxmaj and left me in reputeless banishment , 
+▁ a fellow of no mark nor likelihood . 
+▁ xxmaj by being seldom seen , i could not stir 
+▁ xxmaj but , like a comet , i xxmaj was wond'red at ; 
+▁ xxmaj that men would tell their children , ' this is he ! ' 
+▁ xxmaj others would say , ' where ? xxmaj which is xxmaj bolingbroke ? ' 
+▁ xxmaj and then i stole all courtesy from heaven , 
+▁ xxmaj and dress'd myself in such humility 
+▁ xxmaj that i did pluck allegiance from men 's hearts , 
+▁ xxmaj loud shouts and salutations from their mouths 
+▁ xxmaj even in the presence of the crowned xxmaj king . 
+▁ xxmaj thus did i keep my person fresh and new , 
+▁ xxmaj my presence , like a robe pontifical , 
+▁ xxmaj ne'er seen but wond'red at ; and so my state , 
+▁ xxmaj seldom but sumptuous , show'd like a feast 
+▁ xxmaj and won by rareness such solemnity . 
+▁ xxmaj the skipping xxmaj king , he ambled up and down 
+▁ xxmaj with shallow jesters and rash bavin wits , 
+▁ xxmaj soon kindled and soon burnt ; carded his state ; 
+▁ xxmaj mingled his royalty with cap'ring fools ; 
+▁ xxmaj had his great name profaned with their scorns 
+▁ xxmaj and gave his countenance , against his name , 
+▁ xxmaj to laugh at gibing boys and stand the push 
+▁ xxmaj of every beardless vain comparative ; 
+▁ xxmaj grew a companion to the common streets , 
+▁ xxmaj enfeoff'd himself to popularity ; 
+▁ xxmaj that , being dally swallowed by men 's eyes , 
+▁ xxmaj they surfeited with honey and began 
+▁ xxmaj to loathe the taste of sweetness , whereof a little 
+▁ xxmaj more than a little is by much too much . 
+▁ xxmaj so , when he had occasion to be seen , 
+▁ xxmaj he was but as the cuckoo is in xxmaj june , 
+▁ xxmaj heard , not regarded- seen , but with such eyes 
+▁ xxmaj as , sick and blunted with community , 
+▁ xxmaj afford no extraordinary gaze , 
+▁ xxmaj such as is bent on unlike majesty 
+▁ xxmaj when it shines seldom in admiring eyes ; 
+▁ xxmaj but rather drows'd and hung their eyelids down , 
+▁ xxmaj slept in his face , and rend'red such aspect 
+▁ xxmaj as cloudy men use to their adversaries , 
+▁ xxmaj being with his presence glutted , gorg'd , and full . 
+▁ xxmaj and in that very line , xxmaj harry , standest thou ; 
+▁ xxmaj for thou hast lost thy princely privilege 
+▁ xxmaj with vile participation . xxmaj not an eye 
+▁ xxmaj but is aweary of thy common sight , 
+▁ xxmaj save mine , which hath desir'd to see thee more ; 
+▁ xxmaj which now doth that i would not have it do- 
+▁ xxmaj make blind itself with foolish tenderness . 
+▁ xxmaj prince . i shall hereafter , my thrice - gracious lord , 
+▁ xxmaj be more myself . 
+▁ xxmaj king . xxmaj for all the world , 
+▁ xxmaj as thou art to this hour , was xxmaj richard then 
+▁ xxmaj when i from xxmaj france set foot at xxmaj ravenspurgh ; 
+▁ xxmaj and even as i was then is xxmaj percy now . 
+▁ xxmaj now , by my sceptre , and my soul to boot , 
+▁ xxmaj he hath more worthy interest to the state 
+▁ xxmaj than thou , the shadow of succession ; 
+▁ xxmaj for of no right , nor colour like to right , 
+▁ xxmaj he doth fill fields with harness in the realm , 
+▁ xxmaj turns head against the lion 's armed jaws , 
+▁ xxmaj and , xxmaj being no more in debt to years than thou , 
+▁ xxmaj leads ancient lords and reverend xxmaj bishops on 
+▁ xxmaj to bloody battles and to bruising arms . 
+▁ xxmaj what never - dying honour hath he got 
+▁ xxmaj against renowmed xxmaj douglas ! whose high deeds , 
+▁ xxmaj whose hot incursions and great name in arms 
+▁ xxmaj holds from all soldiers chief majority 
+▁ xxmaj and military title capital 
+▁ xxmaj through all the kingdoms that acknowledge xxmaj christ . 
+▁ xxmaj thrice hath this xxmaj hotspur , xxmaj mars in swathling clothes , 
+▁ xxmaj this infant warrior , in his enterprises 
+▁ xxmaj discomfited great xxmaj douglas ; ta'en him once , 
+▁ xxmaj enlarged him , and made a friend of him , 
+▁ xxmaj to fill the mouth of deep defiance up 
+▁ xxmaj and shake the peace and safety of our throne . 
+▁ xxmaj and what say you to this ? xxmaj percy , xxmaj northumberland , 
+▁ xxmaj the xxmaj archbishop 's xxmaj grace of xxmaj york , xxmaj douglas , xxmaj mortimer 
+▁ xxmaj capitulate against us and are up . 
+▁ xxmaj but wherefore do i tell these news to thee 
+▁ xxmaj why , xxmaj harry , do i tell thee of my foes , 
+▁ xxmaj which art my nearest and dearest enemy ' 
+▁ xxmaj thou that art like enough , through vassal fear , 
+▁ xxmaj base inclination , and the start of spleen , 
+▁ xxmaj to fight against me under xxmaj percy 's pay , 
+▁ xxmaj to dog his heels and curtsy at his frowns , 
+▁ xxmaj to show how much thou art degenerate . 
+▁ xxmaj prince . xxmaj do not think so . xxmaj you shall not find it so . 
+▁ xxmaj and xxmaj god forgive them that so much have sway'd 
+▁ xxmaj your xxmaj majesty 's good thoughts away from me ! 
+▁ i will redeem all this on xxmaj percy 's head 
+▁ xxmaj and , in the closing of some glorious day , 
+▁ xxmaj be bold to tell you that i am your son , 
+▁ xxmaj when i will wear a garment all of blood , 
+▁ xxmaj and stain my favours in a bloody mask , 
+▁ xxmaj which , wash'd away , shall scour my shame with it . 
+▁ xxmaj and that shall be the day , whene'er it lights , 
+▁ xxmaj that this same child of honour and renown , 
+▁ xxmaj this gallant xxmaj hotspur , this all - praised knight , 
+▁ xxmaj and your unthought of xxmaj harry chance to meet . 
+▁ xxmaj for every honour sitting on his helm , 
+▁ xxmaj would they were multitudes , and on my head 
+▁ xxmaj my shames redoubled ! xxmaj for the time will come 
+▁ xxmaj that i shall make this xxmaj northern youth exchange 
+▁ xxmaj his glorious deeds for my indignities . 
+▁ xxmaj percy is but my factor , good my lord , 
+▁ xxmaj to engross up glorious deeds on my behalf ; 
+▁ xxmaj and i will call hall to so strict account 
+▁ xxmaj that he shall render every glory up , 
+▁ xxmaj yea , even the slightest worship of his time , 
+▁ xxmaj or i will tear the reckoning from his heart . 
+▁ xxmaj this in the name of xxmaj god i promise here ; 
+▁ xxmaj the which if he be pleas'd i shall perform , 
+▁ i do beseech your xxmaj majesty may salve 
+▁ xxmaj the long - grown wounds of my intemperance . 
+▁ xxmaj if not , the end of life cancels all bands , 
+▁ xxmaj and i will die a hundred thousand deaths 
+▁ xxmaj ere break the smallest parcel of this vow . 
+▁ xxmaj king . a hundred thousand rebels die in this ! 
+▁ xxmaj thou shalt have charge and sovereign trust herein . 
+
+▁ xxmaj enter xxmaj blunt . 
+
+▁ xxmaj how now , good xxmaj blunt ? xxmaj thy looks are full of speed . 
+▁ xxmaj blunt . xxmaj so hath the business that i come to speak of . 
+▁ xxmaj lord xxmaj mortimer of xxmaj scotland hath sent word 
+▁ xxmaj that xxmaj douglas and the xxmaj english rebels met 
+▁ xxmaj the eleventh of this month at xxmaj shrewsbury . 
+▁ a mighty and a fearful head they are , 
+▁ xxmaj if promises be kept oil every hand , 
+▁ xxmaj as ever off'red foul play in a state . 
+▁ xxmaj king . xxmaj the xxmaj earl of xxmaj westmoreland set forth to - day ; 
+▁ xxmaj with him my son , xxmaj lord xxmaj john of xxmaj lancaster ; 
+▁ xxmaj for this advertisement is five days old . 
+▁ xxmaj on xxmaj wednesday next , xxmaj harry , you shall set forward ; 
+▁ xxmaj on xxmaj thursday we ourselves will march . xxmaj our meeting 
+▁ xxmaj is xxmaj bridgenorth ; and , xxmaj harry , you shall march 
+▁ xxmaj through xxmaj gloucestershire ; by which account , 
+▁ xxmaj our business valued , some twelve days hence 
+▁ xxmaj our general forces at xxmaj bridgenorth shall meet . 
+▁ xxmaj our hands are full of business . xxmaj let 's away . 
+▁ xxmaj advantage feeds him fat while men delay . xxmaj exeunt . 
+
+
+
+
+ xxmaj scene xxrep 3 i . 
+ xxmaj eastcheap . xxmaj the xxmaj boar 's xxmaj head xxmaj tavern . 
+
+ xxmaj enter xxmaj falstaff and xxmaj bardolph . 
+
+▁ xxmaj fal . xxmaj bardolph , am i not fall'n away vilely since this last action ? 
+▁ xxmaj do i not bate ? xxmaj do i not dwindle ? xxmaj why , my skin hangs about me like 
+▁ an old lady 's loose gown ! i am withered like an old apple xxmaj john . 
+▁ xxmaj well , xxmaj i 'll repent , and that suddenly , while i am in some liking . 
+▁ i shall be out of heart shortly , and then i shall have no 
+▁ strength to repent . xxmaj an i have not forgotten what the inside of a 
+▁ church is made of , i am a peppercorn , a brewer 's horse . xxmaj the 
+▁ inside of a church ! xxmaj company , villanous company , hath been the 
+▁ spoil of me . 
+▁ xxmaj bard . xxmaj sir xxmaj john , you are so fretful you can not live long . 
+▁ xxmaj fal . xxmaj why , there is it ! xxmaj come , sing me a bawdy song ; make me merry . i 
+▁ was as virtuously given as a gentleman need to be , virtuous 
+▁ enough : swore little , dic'd not above seven times a week , went to 
+▁ a bawdy house not above once in a quarter- of an hour , paid money 
+▁ that i borrowed- three or four times , lived well , and in good 
+▁ compass ; and now i live out of all order , out of all compass . 
+▁ xxmaj bard . xxmaj why , you are so fat , xxmaj sir xxmaj john , that you must needs be out of 
+▁ all compass- out of all reasonable compass , xxmaj sir xxmaj john . 
+▁ xxmaj fal . xxmaj do thou amend thy face , and xxmaj i 'll amend my life . xxmaj thou art our 
+▁ admiral , thou bearest the lantern in the poop- but ' tis in the 
+▁ nose of thee . xxmaj thou art the xxmaj knight of the xxmaj burning xxmaj lamp . 
+▁ xxmaj bard . xxmaj why , xxmaj sir xxmaj john , my face does you no harm . 
+▁ xxmaj fal . xxmaj no , xxmaj i 'll be sworn . i make as good use of it as many a man doth 
+▁ of a death's - head or a memento mori . i never see thy face but i 
+▁ think upon hellfire and xxmaj dives that lived in purple ; for there he 
+▁ is in his robes , burning , burning . if thou wert any way given to 
+▁ virtue , i would swear by thy face ; my oath should be ' by this 
+▁ fire , that 's xxmaj god 's angel . ' xxmaj but thou art altogether given over , 
+▁ and wert indeed , but for the light in thy face , the son of utter 
+▁ darkness . xxmaj when thou ran'st up xxmaj gadshill in the night to catch my 
+▁ horse , if i did not think thou hadst been an ignis fatuus or a 
+▁ ball of wildfire , there 's no purchase in money . xxup o , thou art a 
+▁ perpetual triumph , an everlasting bonfire - light ! xxmaj thou hast saved 
+▁ me a thousand marks in links and torches , walking with thee in 
+▁ the night betwixt tavern and tavern ; but the sack that thou hast 
+▁ drunk me would have bought me lights as good cheap at the dearest 
+▁ chandler 's in xxmaj europe . i have maintained that salamander of yours 
+▁ with fire any time this two - and - thirty years . xxmaj god reward me for 
+▁ it ! 
+▁ xxmaj bard . ' sblood , i would my face were in your belly ! 
+▁ xxmaj fal . xxmaj god - a - mercy ! so should i be sure to be heart - burn'd . 
+
+▁ xxmaj enter xxmaj hostess . 
+
+▁ xxmaj how now , xxmaj dame xxmaj partlet the hen ? xxmaj have you enquir'd yet who pick'd 
+▁ my pocket ? 
+▁ xxmaj host . xxmaj why , xxmaj sir xxmaj john , what do you think , xxmaj sir xxmaj john ? xxmaj do you think i 
+▁ keep thieves in my house ? i have search'd , i have enquired , so 
+▁ has my husband , man by man , boy by boy , servant by servant . xxmaj the 
+▁ tithe of a hair was never lost in my house before . 
+▁ xxmaj fal . xxmaj ye lie , hostess . xxmaj bardolph was shav'd and lost many a hair , and 
+▁ xxmaj i 'll be sworn my pocket was pick'd . xxmaj go to , you are a woman , go ! 
+▁ xxmaj host . xxmaj who , xxup i ? xxmaj no ; i defy thee ! xxmaj god 's light , i was never call'd so 
+▁ in mine own house before ! 
+▁ xxmaj fal . xxmaj go to , i know you well enough . 
+▁ xxmaj host . xxmaj no , xxmaj sir xxmaj john ; you do not know me , xxmaj sir xxmaj john . i know you , xxmaj sir 
+▁ xxmaj john . xxmaj you owe me money , xxmaj sir xxmaj john , and now you pick a quarrel to 
+▁ beguile me of it . i bought you a dozen of shirts to your back . 
+▁ xxmaj fal . xxmaj dowlas , filthy dowlas ! i have given them away to bakers ' 
+▁ wives ; they have made bolters of them . 
+▁ xxmaj host . xxmaj now , as i am a true woman , holland of eight shillings an ell . 
+▁ xxmaj you owe money here besides , xxmaj sir xxmaj john , for your diet and 
+▁ by - drinkings , and money lent you , four - and - twenty pound . 
+▁ xxmaj fal . xxmaj he had his part of it ; let him pay . 
+▁ xxmaj host . xxmaj he ? xxmaj alas , he is poor ; he hath nothing . 
+▁ xxmaj fal . xxmaj how ? xxmaj poor ? xxmaj look upon his face . xxmaj what call you rich ? xxmaj let them 
+▁ coin his nose , let them coin his cheeks . xxmaj i 'll not pay a denier . 
+▁ xxmaj what , will you make a younker of me ? xxmaj shall i not take mine ease 
+▁ in mine inn but i shall have my pocket pick'd ? i have lost a 
+▁ seal - ring of my grandfather 's worth forty mark . 
+▁ xxmaj host . o xxmaj jesu , i have heard the xxmaj prince tell him , i know not how oft , 
+▁ that that ring was copper ! 
+▁ xxmaj fal . xxmaj how ? the xxmaj prince is a xxmaj jack , a sneak - cup . ' sblood , an he were 
+▁ here , i would cudgel him like a dog if he would say so . 
+
+▁ xxmaj enter the xxmaj prince [ and xxmaj poins ] , marching ; and xxmaj falstaff meets 
+▁ them , playing upon his truncheon like a fife . 
+
+▁ xxmaj how now , lad ? xxmaj is the wind in that door , i ' faith ? xxmaj must we all 
+▁ march ? 
+▁ xxmaj bard . xxmaj yea , two and two , xxmaj newgate fashion . 
+▁ xxmaj host . xxmaj my lord , i pray you hear me . 
+▁ xxmaj prince . xxmaj what say'st thou , xxmaj mistress xxmaj quickly ? xxmaj how doth thy husband ? 
+▁ i love him well ; he is an honest man . 
+▁ xxmaj host . xxmaj good my lord , hear me . 
+▁ xxmaj fal . xxmaj prithee let her alone and list to me . 
+▁ xxmaj prince . xxmaj what say'st thou , xxmaj jack ? 
+▁ xxmaj fal . xxmaj the other night i fell asleep here behind the arras and had my 
+▁ pocket pick'd . xxmaj this house is turn'd bawdy house ; they pick 
+▁ pockets . 
+▁ xxmaj prince . xxmaj what didst thou lose , xxmaj jack ? 
+▁ xxmaj fal . xxmaj wilt thou believe me , xxmaj hal ? xxmaj three or four bonds of forty pound 
+▁ apiece and a seal - ring of my grandfather 's . 
+▁ xxmaj prince . a trifle , some eightpenny matter . 
+▁ xxmaj host . xxmaj so i told him , my lord , and i said i heard your xxmaj grace say so ; 
+▁ and , my lord , he speaks most vilely of you , like a foul - mouth'd 
+▁ man as he is , and said he would cudgel you . 
+▁ xxmaj prince . xxmaj what ! he did not ? 
+▁ xxmaj host . xxmaj there 's neither faith , truth , nor womanhood in me else . 
+▁ xxmaj fal . xxmaj there 's no more faith in thee than in a stewed prune , nor no 
+▁ more truth in thee than in a drawn fox ; and for woman - hood , xxmaj maid 
+▁ xxmaj marian may be the deputy 's wife of the ward to thee . xxmaj go , you 
+▁ thing , go ! 
+▁ xxmaj host . xxmaj say , what thing ? what thing ? 
+▁ xxmaj fal . xxmaj what thing ? xxmaj why , a thing to thank xxmaj god on . 
+▁ xxmaj host . i am no thing to thank xxmaj god on , i would thou shouldst know it ! 
+▁ i am an honest man 's wife , and , setting thy knight - hood aside , 
+▁ thou art a knave to call me so . 
+▁ xxmaj fal . xxmaj setting thy womanhood aside , thou art a beast to say 
+▁ otherwise . 
+▁ xxmaj host . xxmaj say , what beast , thou knave , thou ? 
+▁ xxmaj fal . xxmaj what beast ? xxmaj why , an otter . 
+▁ xxmaj prince . xxmaj an otter , xxmaj sir xxmaj john ? xxmaj why an otter ? 
+▁ xxmaj fal . xxmaj why , she 's neither fish nor flesh ; a man knows not where to 
+▁ have her . 
+▁ xxmaj host . xxmaj thou art an unjust man in saying so . xxmaj thou or any man knows 
+▁ where to have me , thou knave , thou ! 
+▁ xxmaj prince . xxmaj thou say'st true , hostess , and he slanders thee most 
+▁ grossly . 
+▁ xxmaj host . xxmaj so he doth you , my lord , and said this other day you ought 
+▁ him a thousand pound . 
+▁ xxmaj prince . xxmaj sirrah , do i owe you a thousand pound ? 
+▁ xxmaj fal . a thousand pound , xxmaj hal ? a million ! xxmaj thy love is worth a million ; 
+▁ thou owest me thy love . 
+▁ xxmaj host . xxmaj nay , my lord , he call'd you xxmaj jack and said he would cudgel 
+▁ you . 
+▁ xxmaj fal . xxmaj did xxup i , xxmaj bardolph ? 
+▁ xxmaj bard . xxmaj indeed , xxmaj sir xxmaj john , you said so . 
+▁ xxmaj fal . xxmaj yea . if he said my ring was copper . 
+▁ xxmaj prince . i say , ' tis copper . xxmaj darest thou be as good as thy word now ? 
+▁ xxmaj fal . xxmaj why , xxmaj hal , thou knowest , as thou art but man , i dare ; but as 
+▁ thou art xxmaj prince , i fear thee as i fear the roaring of the lion 's 
+▁ whelp . 
+▁ xxmaj prince . xxmaj and why not as the lion ? 
+▁ xxmaj fal . xxmaj the xxmaj king himself is to be feared as the lion . xxmaj dost thou think 
+▁ xxmaj i 'll fear thee as i fear thy father ? xxmaj nay , an i do , i pray xxmaj god my 
+▁ girdle break . 
+▁ xxmaj prince . xxup o , if it should , how would thy guts fall about thy knees ! 
+▁ xxmaj but , sirrah , there 's no room for faith , truth , nor honesty in 
+▁ this bosom of thine . xxmaj it is all fill'd up with guts and midriff . 
+▁ xxmaj charge an honest woman with picking thy pocket ? xxmaj why , thou 
+▁ whoreson , impudent , emboss'd rascal , if there were anything in 
+▁ thy pocket but tavern reckonings , memorandums of bawdy houses , 
+▁ and one poor pennyworth of sugar candy to make thee long - winded- 
+▁ if thy pocket were enrich'd with any other injuries but these , i 
+▁ am a villain . xxmaj and yet you will stand to it ; you will not pocket 
+▁ up wrong . xxmaj art thou not ashamed ? 
+▁ xxmaj fal . xxmaj dost thou hear , xxmaj hal ? xxmaj thou knowest in the state of innocency 
+▁ xxmaj adam fell ; and what should poor xxmaj jack xxmaj falstaff do in the days of 
+▁ villany ? xxmaj thou seest i have more flesh than another man , and 
+▁ therefore more frailty . xxmaj you confess then , you pick'd my pocket ? 
+▁ xxmaj prince . xxmaj it appears so by the story . 
+▁ xxmaj fal . xxmaj hostess , i forgive thee . xxmaj go make ready breakfast . xxmaj love thy 
+▁ husband , look to thy servants , cherish thy guests . xxmaj thou shalt 
+▁ find me tractable to any honest reason . xxmaj thou seest i am pacified . 
+▁ -still?- xxmaj nay , prithee be gone . [ exit xxmaj hostess . ] xxmaj now , xxmaj hal , to the 
+▁ news at court . xxmaj for the robbery , lad- how is that answered ? 
+▁ xxmaj prince . o my sweet beef , i must still be good angel to thee . 
+▁ xxmaj the money is paid back again . 
+▁ xxmaj fal . xxup o , i do not like that paying back ! ' tis a double labour . 
+▁ xxmaj prince . i am good friends with my father , and may do anything . 
+▁ xxmaj fal . xxmaj rob me the exchequer the first thing thou doest , and do it 
+▁ with unwash'd hands too . 
+▁ xxmaj bard . xxmaj do , my lord . 
+▁ xxmaj prince . i have procured thee , xxmaj jack , a charge of foot . 
+▁ xxmaj fal . i would it had been of horse . xxmaj where shall i find one that can 
+▁ steal well ? o for a fine thief of the age of two - and - twenty or 
+▁ thereabouts ! i am heinously unprovided . xxmaj well , xxmaj god be thanked for 
+▁ these rebels . xxmaj they offend none but the virtuous . i laud them , i 
+▁ praise them . 
+▁ xxmaj prince . xxmaj bardolph ! 
+▁ xxmaj bard . xxmaj my lord ? 
+▁ xxmaj prince . xxmaj go bear this letter to xxmaj lord xxmaj john of xxmaj lancaster , 
+▁ xxmaj to my brother xxmaj john ; this to my xxmaj lord of xxmaj westmoreland . 
+▁ [ exit xxmaj bardolph . ] 
+▁ xxmaj go , xxmaj poins , to horse , to horse ; for thou and i 
+▁ xxmaj have thirty miles to ride yet ere dinner time . 
+▁ [ exit xxmaj poins . ] 
+▁ xxmaj jack , meet me to - morrow in the xxmaj temple xxmaj hall 
+▁ xxmaj at two o'clock in the afternoon . 
+▁ xxmaj there shalt thou know thy charge . and there receive 
+▁ xxmaj money and order for their furniture . 
+▁ xxmaj the land is burning ; xxmaj percy stands on high ; 
+▁ xxmaj and either they or we must lower lie . [ exit . ] 
+▁ xxmaj fal . xxmaj rare words ! brave world ! xxmaj hostess , my breakfast , come . 
+▁ xxup o , i could wish this tavern were my drum ! 
+ xxmaj exit . 
+
+
+
+
+ < < this xxup electronic xxup version xxup of xxup the xxup complete xxup works xxup of xxup william 
+ xxup shakespeare xxup is xxup copyright 1990 - 1993 xxup by xxup world xxup library , xxup inc . , xxup and xxup is 
+ xxup provided xxup by xxup project xxup gutenberg xxup etext xxup of xxup illinois xxup benedictine xxup college 
+ xxup with xxup permission . xxup electronic xxup and xxup machine xxup readable xxup copies xxup may xxup be 
+ xxup distributed xxup so xxup long xxup as xxup such xxup copies ( 1 ) xxup are xxup for xxup your xxup or xxup others 
+ xxup personal xxup use xxup only , xxup and ( 2 ) xxup are xxup not xxup distributed xxup or xxup used 
+ xxup commercially . xxup prohibited xxup commercial xxup distribution xxup includes xxup by xxup any 
+ xxup service xxup that xxup charges xxup for xxup download xxup time xxup or xxup for xxup membership . > > 
+
+
+
+ xxup act xxup iv . xxmaj scene xxup i. 
+ xxmaj the rebel camp near xxmaj shrewsbury . 
+
+ xxmaj enter xxmaj harry xxmaj hotspur , xxmaj worcester , and xxmaj douglas . 
+
+▁ xxmaj hot . xxmaj well said , my noble xxmaj scot . xxmaj if speaking truth 
+▁ xxmaj in this fine age were not thought flattery , 
+▁ xxmaj such attribution should the xxmaj douglas have 
+▁ xxmaj as not a soldier of this season 's stamp 
+▁ xxmaj should go so general current through the world . 
+▁ xxmaj by xxmaj god , i can not flatter , i defy 
+▁ xxmaj the tongues of soothers ! but a braver place 
+▁ xxmaj in my heart 's love hath no man than yourself . 
+▁ xxmaj nay , task me to my word ; approve me , lord . 
+▁ xxmaj doug . xxmaj thou art the king of honour . 
+▁ xxmaj no man so potent breathes upon the ground 
+▁ xxmaj but i will beard him . 
+
+▁ xxmaj enter one with letters . 
+
+▁ xxmaj hot . xxmaj do so , and ' tis well.- 
+▁ xxmaj what letters hast thou there?- i can but thank you . 
+▁ xxmaj messenger . xxmaj these letters come from your father . 
+▁ xxmaj hot . xxmaj letters from him ? xxmaj why comes he not himself ? 
+▁ xxmaj mess . xxmaj he can not come , my lord ; he is grievous sick . 
+▁ xxmaj hot . xxmaj zounds ! how has he the leisure to be sick 
+▁ xxmaj in such a justling time ? xxmaj who leads his power ? 
+▁ xxmaj under whose government come they along ? 
+▁ xxmaj mess . xxmaj his letters bears his mind , not xxup i , my lord . 
+▁ xxmaj wor . i prithee tell me , doth he keep his bed ? 
+▁ xxmaj mess . xxmaj he did , my lord , four days ere i set forth , 
+▁ xxmaj and at the time of my departure thence 
+▁ xxmaj he was much fear'd by his physicians . 
+▁ xxmaj wor . i would the state of time had first been whole 
+▁ xxmaj ere he by sickness had been visited . 
+▁ xxmaj his health was never better worth than now . 
+▁ xxmaj hot . xxmaj sick now ? droop now ? xxmaj this sickness doth infect 
+▁ xxmaj the very lifeblood of our enterprise . 
+▁ ' tis catching hither , even to our camp . 
+▁ xxmaj he writes me here that inward sickness- 
+▁ xxmaj and that his friends by deputation could not 
+▁ xxmaj so soon be drawn ; no did he think it meet 
+▁ xxmaj to lay so dangerous and dear a trust 
+▁ xxmaj on any soul remov'd but on his own . 
+▁ xxmaj yet doth he give us bold advertisement , 
+▁ xxmaj that with our small conjunction we should on , 
+▁ xxmaj to see how fortune is dispos'd to us ; 
+▁ xxmaj for , as he writes , there is no quailing now , 
+▁ xxmaj because the xxmaj king is certainly possess'd 
+▁ xxmaj of all our purposes . xxmaj what say you to it ? 
+▁ xxmaj wor . xxmaj your father 's sickness is a maim to us . 
+▁ xxmaj hot . a perilous gash , a very limb lopp'd off . 
+▁ xxmaj and yet , in faith , it is not ! xxmaj his present want 
+▁ xxmaj seems more than we shall find it . xxmaj were it good 
+▁ xxmaj to set the exact wealth of all our states 
+▁ xxmaj all at one cast ? to set so rich a man 
+▁ xxmaj on the nice hazard of one doubtful hour ? 
+▁ xxmaj it were not good ; for therein should we read 
+▁ xxmaj the very bottom and the soul of hope , 
+▁ xxmaj the very list , the very utmost bound 
+▁ xxmaj of all our fortunes . 
+▁ xxmaj doug . xxmaj faith , and so we should ; 
+▁ xxmaj where now remains a sweet reversion . 
+▁ xxmaj we may boldly spend upon the hope of what 
+▁ xxmaj is to come in . 
+▁ a comfort of retirement lives in this . 
+▁ xxmaj hot . a rendezvous , a home to fly unto , 
+▁ xxmaj if that the devil and mischance look big 
+▁ xxmaj upon the maidenhead of our affairs . 
+▁ xxmaj wor . xxmaj but yet i would your father had been here . 
+▁ xxmaj the quality and hair of our attempt 
+▁ xxmaj brooks no division . xxmaj it will be thought 
+▁ xxmaj by some that know not why he is away , 
+▁ xxmaj that wisdom , loyalty , and mere dislike 
+▁ xxmaj of our proceedings kept the xxmaj earl from hence . 
+▁ xxmaj and think how such an apprehension 
+▁ xxmaj may turn the tide of fearful faction 
+▁ xxmaj and breed a kind of question in our cause . 
+▁ xxmaj for well you know we of the off'ring side 
+▁ xxmaj must keep aloof from strict arbitrement , 
+▁ xxmaj and stop all sight - holes , every loop from whence 
+▁ xxmaj the eye of reason may pry in upon us . 
+▁ xxmaj this absence of your father 's draws a curtain 
+▁ xxmaj that shows the ignorant a kind of fear 
+▁ xxmaj before not dreamt of . 
+▁ xxmaj hot . xxmaj you strain too far . 
+▁ i rather of his absence make this use : 
+▁ xxmaj it lends a lustre and more great opinion , 
+▁ a larger dare to our great enterprise , 
+▁ xxmaj than if the xxmaj earl were here ; for men must think , 
+▁ xxmaj if we , without his help , can make a head 
+▁ xxmaj to push against a kingdom , with his help 
+▁ xxmaj we shall o'erturn it topsy - turvy down . 
+▁ xxmaj yet all goes well ; yet all our joints are whole . 
+▁ xxmaj doug . xxmaj as heart can think . xxmaj there is not such a word 
+▁ xxmaj spoke of in xxmaj scotland as this term of fear . 
+
+▁ xxmaj enter xxmaj sir xxmaj richard xxmaj vernon . 
+
+▁ xxmaj hot . xxmaj my cousin xxmaj vernon ! welcome , by my soul . 
+▁ xxmaj ver . xxmaj pray xxmaj god my news be worth a welcome , lord . 
+▁ xxmaj the xxmaj earl of xxmaj westmoreland , seven thousand strong , 
+▁ xxmaj is marching hitherwards ; with him xxmaj prince xxmaj john . 
+▁ xxmaj hot . xxmaj no harm . xxmaj what more ? 
+▁ xxmaj ver . xxmaj and further , i have learn'd 
+▁ xxmaj the xxmaj king himself in person is set forth , 
+▁ xxmaj or hitherwards intended speedily , 
+▁ xxmaj with strong and mighty preparation . 
+▁ xxmaj hot . xxmaj he shall be welcome too . xxmaj where is his son , 
+▁ xxmaj the nimble - footed madcap xxmaj prince of xxmaj wales , 
+▁ xxmaj and his comrades , that daff'd the world aside 
+▁ xxmaj and bid it pass ? 
+▁ xxmaj ver . xxmaj all furnish'd , all in arms ; 
+▁ xxmaj all plum'd like estridges that with the wind 
+▁ xxmaj bated like eagles having lately bath'd ; 
+▁ xxmaj glittering in golden coats like images ; 
+▁ xxmaj as full of spirit as the month of xxmaj may 
+▁ xxmaj and gorgeous as the sun at midsummer ; 
+▁ xxmaj wanton as youthful goats , wild as young bulls . 
+▁ i saw young xxmaj harry with his beaver on 
+▁ xxmaj his cushes on his thighs , gallantly arm'd , 
+▁ xxmaj rise from the ground like feathered xxmaj mercury , 
+▁ xxmaj and vaulted with such ease into his seat 
+▁ xxmaj as if an angel dropp'd down from the clouds 
+▁ xxmaj to turn and wind a fiery xxmaj pegasus 
+▁ xxmaj and witch the world with noble horsemanship . 
+▁ xxmaj hot . xxmaj no more , no more ! xxmaj worse than the sun in xxmaj march , 
+▁ xxmaj this praise doth nourish agues . xxmaj let them come . 
+▁ xxmaj they come like sacrifices in their trim , 
+▁ xxmaj and to the fire - ey'd maid of smoky war 
+▁ xxmaj all hot and bleeding xxmaj will we offer them . 
+▁ xxmaj the mailed xxmaj mars xxmaj shall on his altar sit 
+▁ xxmaj up to the ears in blood . i am on fire 
+▁ xxmaj to hear this rich reprisal is so nigh , 
+▁ xxmaj and yet not ours . xxmaj come , let me taste my horse , 
+▁ xxmaj who is to bear me like a thunderbolt 
+▁ xxmaj against the bosom of the xxmaj prince of xxmaj wales . 
+▁ xxmaj harry to xxmaj harry shall , hot horse to horse , 
+▁ xxmaj meet , and ne'er part till one drop down a corse . 
+▁ that xxmaj glendower were come ! 
+▁ xxmaj ver . xxmaj there is more news . 
+▁ i learn'd in xxmaj worcester , as i rode along , 
+▁ xxmaj he can not draw his power this fourteen days . 
+▁ xxmaj doug . xxmaj that 's the worst tidings that i hear of yet . 
+▁ xxmaj wor . xxmaj ay , by my faith , that bears a frosty sound . 
+▁ xxmaj hot . xxmaj what may the xxmaj king 's whole battle reach unto ? 
+▁ xxmaj ver . xxmaj to thirty thousand . 
+▁ xxmaj hot . xxmaj forty let it be . 
+▁ xxmaj my father and xxmaj glendower being both away , 
+▁ xxmaj the powers of us may serve so great a day . 
+▁ xxmaj come , let us take a muster speedily . 
+▁ xxmaj doomsday is near . xxmaj die all , die merrily . 
+▁ xxmaj doug . xxmaj talk not of dying . i am out of fear 
+▁ xxmaj of death or death 's hand for this one half - year . 
+▁ xxmaj exeunt . 
+
+
+
+
+ xxmaj scene xxup ii . 
+ a public road near xxmaj coventry . 
+
+ xxmaj enter xxmaj falstaff and xxmaj bardolph . 
+
+▁ xxmaj fal . xxmaj bardolph , get thee before to xxmaj coventry ; fill me a bottle of 
+▁ sack . xxmaj our soldiers shall march through . xxmaj we 'll to xxmaj sutton xxmaj co'fil ' 
+▁ to - night . 
+▁ xxmaj bard . xxmaj will you give me money , xxmaj captain ? 
+▁ xxmaj fal . xxmaj lay out , lay out . 
+▁ xxmaj bald . xxmaj this bottle makes an angel . 
+▁ xxmaj fal . xxmaj an if it do , take it for thy labour ; an if it make twenty , 
+▁ take them all ; xxmaj i 'll answer the coinage . xxmaj bid my lieutenant xxmaj peto 
+▁ meet me at town 's end . 
+▁ xxmaj bard . i xxmaj will , xxmaj captain . xxmaj farewell . xxmaj exit . 
+▁ xxmaj fal . xxmaj if i be not ashamed of my soldiers , i am a sous'd gurnet . i 
+▁ have misused the xxmaj king 's press damnably . i have got in exchange of 
+▁ a hundred and fifty soldiers , three hundred and odd pounds . i 
+▁ press me none but good householders , yeomen 's sons ; inquire me 
+▁ out contracted bachelors , such as had been ask'd twice on the 
+▁ banes- such a commodity of warm slaves as had as lieve hear the 
+▁ devil as a drum ; such as fear the report of a caliver worse than 
+▁ a struck fowl or a hurt wild duck . i press'd me none but such 
+▁ toasts - and - butter , with hearts in their bellies no bigger than 
+▁ pins ' heads , and they have bought out their services ; and now my 
+▁ whole charge consists of ancients , corporals , lieutenants , 
+▁ gentlemen of companies- slaves as ragged as xxmaj lazarus in the 
+▁ painted cloth , where the glutton 's dogs licked his sores ; and 
+▁ such as indeed were never soldiers , but discarded unjust 
+▁ serving - men , younger sons to xxmaj younger brothers , revolted tapsters , 
+▁ and ostlers trade - fall'n ; the cankers of a calm world and a long 
+▁ peace ; ten times more dishonourable ragged than an old fac'd 
+▁ ancient ; and such have i to fill up the rooms of them that have 
+▁ bought out their services that you would think that i had a 
+▁ hundred and fifty tattered xxmaj prodigals lately come from 
+▁ swine - keeping , from eating draff and husks . a mad fellow met me 
+▁ on the way , and told me i had unloaded all the gibbets and 
+▁ press'd the dead bodies . xxmaj no eye hath seen such scarecrows . xxmaj i 'll 
+▁ not march through xxmaj coventry with them , that 's flat . xxmaj nay , and the 
+▁ villains march wide betwixt the legs , as if they had gyves on ; 
+▁ for indeed i had the most of them out of prison . xxmaj there 's but a 
+▁ shirt and a half in all my company ; and the half - shirt is two 
+▁ napkins tack'd together and thrown over the shoulders like a 
+▁ herald 's coat without sleeves ; and the shirt , to say the truth , 
+▁ stol'n from my host at xxmaj saint xxmaj alban 's , or the red - nose innkeeper 
+▁ of xxmaj daventry . xxmaj but that 's all one ; they 'll find linen enough on 
+▁ every hedge . 
+
+▁ xxmaj enter the xxmaj prince and the xxmaj lord of xxmaj westmoreland . 
+
+▁ xxmaj prince . xxmaj how now , blown xxmaj jack ? xxmaj how now , quilt ? 
+▁ xxmaj fal . xxmaj what , xxmaj hal ? xxmaj how now , mad wag ? xxmaj what a devil dost thou in 
+▁ xxmaj warwickshire ? xxmaj my good xxmaj lord of xxmaj westmoreland , i cry you mercy . i 
+▁ thought your honour had already been at xxmaj shrewsbury . 
+▁ xxmaj west . xxmaj faith , xxmaj sir xxmaj john , ' tis more than time that i were there , and 
+▁ you too ; but my powers are there already . xxmaj the xxmaj king , i can tell 
+▁ you , looks for us all . xxmaj we must away all , to - night . 
+▁ xxmaj fal . xxmaj tut , never fear me . i am as vigilant as a cat to steal cream . 
+▁ xxmaj prince . i think , to steal cream indeed , for thy theft hath already 
+▁ made thee butter . xxmaj but tell me , xxmaj jack , whose fellows are these that 
+▁ come after ? 
+▁ xxmaj fal . xxmaj mine , xxmaj hal , mine . 
+▁ xxmaj prince . i did never see such pitiful rascals . 
+▁ xxmaj fal . xxmaj tut , tut ! good enough to toss ; food for powder , food for 
+▁ powder . xxmaj they 'll fill a pit as well as better . xxmaj tush , man , mortal 
+▁ men , mortal men . 
+▁ xxmaj west . xxmaj ay , but , xxmaj sir xxmaj john , methinks they are exceeding poor and bare- 
+▁ too beggarly . 
+▁ xxmaj fal . xxmaj faith , for their poverty , i know , not where they had that ; and

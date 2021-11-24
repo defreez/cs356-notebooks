@@ -1,0 +1,999 @@
+xxbos xxmaj re - enter xxup salisbury 
+
+▁ xxup salisbury . xxmaj my sovereign lord , bestow yourself with speed : 
+▁ xxmaj the xxmaj french are bravely in their battles set , 
+▁ xxmaj and will with all expedience charge on us . 
+▁ xxup king xxup henry . xxmaj all things are ready , if our minds be so . 
+▁ xxup westmoreland . xxmaj perish the man whose mind is backward now ! 
+▁ xxup king xxup henry . xxmaj thou dost not wish more help from xxmaj england , coz ? 
+▁ xxup westmoreland . xxmaj god 's will , my liege ! would you and i alone , 
+▁ xxmaj without more help , could fight this royal battle ! 
+▁ xxup king xxup henry . xxmaj why , now thou hast unwish'd five thousand men ; 
+▁ xxmaj which likes me better than to wish us one . 
+▁ xxmaj you know your places . xxmaj god be with you all ! 
+
+▁ xxmaj tucket . xxmaj enter xxup montjoy 
+
+▁ xxup montjoy . xxmaj once more i come to know of thee , xxmaj king xxmaj harry , 
+▁ xxmaj if for thy ransom thou wilt now compound , 
+▁ xxmaj before thy most assured overthrow ; 
+▁ xxmaj for certainly thou art so near the gulf 
+▁ xxmaj thou needs must be englutted . xxmaj besides , in mercy , 
+▁ xxmaj the constable desires thee thou wilt mind 
+▁ xxmaj thy followers of repentance , that their souls 
+▁ xxmaj may make a peaceful and a sweet retire 
+▁ xxmaj from off these fields , where , wretches , their poor bodies 
+▁ xxmaj must lie and fester . 
+▁ xxup king xxup henry . xxmaj who hath sent thee now ? 
+▁ xxup montjoy . xxmaj the xxmaj constable of xxmaj france . 
+▁ xxup king xxup henry . i pray thee bear my former answer back : 
+▁ xxmaj bid them achieve me , and then sell my bones . 
+▁ xxmaj good xxmaj god ! why should they mock poor fellows thus ? 
+▁ xxmaj the man that once did sell the lion 's skin 
+▁ xxmaj while the beast liv'd was kill'd with hunting him . 
+▁ a many of our bodies shall no doubt 
+▁ xxmaj find native graves ; upon the which , i trust , 
+▁ xxmaj shall witness live in brass of this day 's work . 
+▁ xxmaj and those that leave their valiant bones in xxmaj france , 
+▁ xxmaj dying like men , though buried in your dunghills , 
+▁ xxmaj they shall be fam'd ; for there the sun shall greet them 
+▁ xxmaj and draw their honours reeking up to heaven , 
+▁ xxmaj leaving their earthly parts to choke your clime , 
+▁ xxmaj the smell whereof shall breed a plague in xxmaj france . 
+▁ xxmaj mark then abounding valour in our xxmaj english , 
+▁ xxmaj that , being dead , like to the bullet 's grazing 
+▁ xxmaj break out into a second course of mischief , 
+▁ xxmaj killing in relapse of mortality . 
+▁ xxmaj let me speak proudly : tell the xxmaj constable 
+▁ xxmaj we are but warriors for the working - day ; 
+▁ xxmaj our gayness and our gilt are all besmirch'd 
+▁ xxmaj with rainy marching in the painful field ; 
+▁ xxmaj there 's not a piece of feather in our host- 
+▁ xxmaj good argument , i hope , we will not fly- 
+▁ xxmaj and time hath worn us into slovenry . 
+▁ xxmaj but , by the mass , our hearts are in the trim ; 
+▁ xxmaj and my poor soldiers tell me yet ere night 
+▁ xxmaj they 'll be in fresher robes , or they will pluck 
+▁ xxmaj the gay new coats o'er the xxmaj french soldiers ' heads 
+▁ xxmaj and turn them out of service . xxmaj if they do this- 
+▁ xxmaj as , if xxmaj god please , they shall- my ransom then 
+▁ xxmaj will soon be levied . xxmaj herald , save thou thy labour ; 
+▁ xxmaj come thou no more for ransom , gentle herald ; 
+▁ xxmaj they shall have none , i swear , but these my joints ; 
+▁ xxmaj which if they have , as i will leave 'em them , 
+▁ xxmaj shall yield them little , tell the xxmaj constable . 
+▁ xxup montjoy . i shall , xxmaj king xxmaj harry . xxmaj and so fare thee well : 
+▁ xxmaj thou never shalt hear herald any more . xxmaj exit 
+▁ xxup king xxup henry . i fear thou wilt once more come again for a ransom . 
+
+▁ xxmaj enter the xxup duke xxup of xxup york 
+
+▁ xxup york . xxmaj my lord , most humbly on my knee i beg 
+▁ xxmaj the leading of the vaward . 
+▁ xxup king xxup henry . xxmaj take it , brave xxmaj york . xxmaj now , soldiers , march away ; 
+▁ xxmaj and how thou pleasest , xxmaj god , dispose the day ! xxmaj exeunt 
+
+
+
+
+ xxup scene xxup iv . 
+ xxmaj the field of battle 
+
+ xxmaj alarum . xxmaj excursions . xxmaj enter xxup french xxup soldier , xxup pistol , and xxup boy 
+
+▁ xxup pistol . xxmaj yield , cur ! 
+▁ xxup french xxup soldier . xxmaj je pense que vous etes le gentilhomme de bonne 
+▁ qualite . 
+▁ xxup pistol . xxmaj cality ! xxmaj calen o custure me ! xxmaj art thou a gentleman ? 
+▁ xxmaj what is thy name ? xxmaj discuss . 
+▁ xxup french xxup soldier . o xxmaj seigneur xxmaj dieu ! 
+▁ xxup pistol . xxup o , xxmaj signieur xxmaj dew should be a gentleman . 
+▁ xxmaj perpend my words , o xxmaj signieur xxmaj dew , and mark : 
+▁ o xxmaj signieur xxmaj dew , thou diest on point of fox , 
+▁ xxmaj except , o xxmaj signieur , thou do give to me 
+▁ xxmaj egregious ransom . 
+▁ xxup french xxup soldier . xxup o , prenez misericorde ; ayez pitie de moi ! 
+▁ xxup pistol . xxmaj moy shall not serve ; i will have forty moys ; 
+▁ xxmaj or i will fetch thy rim out at thy throat 
+▁ xxmaj in drops of crimson blood . 
+▁ xxup french xxup soldier . xxmaj est - il impossible d'echapper la force de ton bras ? 
+▁ xxup pistol . xxmaj brass , cur ? 
+▁ xxmaj thou damned and luxurious mountain - goat , 
+▁ xxmaj offer'st me brass ? 
+▁ xxup french xxup soldier . xxup o , pardonnez - moi ! 
+▁ xxup pistol . xxmaj say'st thou me so ? xxmaj is that a ton of moys ? 
+▁ xxmaj come hither , boy ; ask me this slave in xxmaj french 
+▁ xxmaj what is his name . 
+▁ xxup boy . xxmaj ecoutez : comment etes - vous appele ? 
+▁ xxup french xxup soldier . xxmaj monsieur le xxmaj fer . 
+▁ xxup boy . xxmaj he says his name is xxmaj master xxmaj fer . 
+▁ xxup pistol . xxmaj master xxmaj fer ! xxmaj i 'll fer him , and firk him , and ferret him- 
+▁ discuss the same in xxmaj french unto him . 
+▁ xxup boy . i do not know the xxmaj french for fer , and ferret , and firk . 
+▁ xxup pistol . xxmaj bid him prepare ; for i will cut his throat . 
+▁ xxup french xxup soldier . xxmaj que dit - il , monsieur ? 
+▁ xxup boy . xxmaj il me commande a vous dire que vous faites vous pret ; car ce 
+▁ soldat ici est dispose tout a cette heure de couper votre gorge . 
+▁ xxup pistol . xxmaj owy , cuppele gorge , permafoy ! 
+▁ xxmaj peasant , unless thou give me crowns , brave crowns ; 
+▁ xxmaj or mangled shalt thou be by this my sword . 
+▁ xxup french xxup soldier . xxup o , je vous supplie , pour l'amour de xxmaj dieu , me 
+▁ pardonner ! xxmaj je suis gentilhomme de bonne maison . xxmaj gardez ma vie , et 
+▁ je vous donnerai deux cents ecus . 
+▁ xxup pistol . xxmaj what are his words ? 
+▁ xxup boy . xxmaj he prays you to save his life ; he is a gentleman of a good 
+▁ house , and for his ransom he will give you two hundred crowns . 
+▁ xxup pistol . xxmaj tell him my fury shall abate , and i 
+▁ xxmaj the crowns will take . 
+▁ xxup french xxup soldier . xxmaj petit monsieur , que dit - il ? 
+▁ xxup boy . xxmaj encore qu'il est contre son jurement de pardonner aucun 
+▁ prisonnier , neamnoins , pour les ecus que vous l'avez promis , il 
+▁ est content a vous donner la liberte , le franchisement . 
+▁ xxup french xxup soldier . xxmaj sur mes genoux je vous donne mille remercimens ; et 
+▁ je m'estime heureux que je suis tombe entre les mains d'un 
+▁ chevalier , je pense , le plus brave , vaillant , et tres distingue 
+▁ seigneur d'angleterre . 
+▁ xxup pistol . xxmaj expound unto me , boy . 
+▁ xxup boy . xxmaj he gives you , upon his knees , a thousand thanks ; and he 
+▁ esteems himself happy that he hath fall'n into the hands of one- 
+▁ as he thinks- the most brave , valorous , and thrice - worthy 
+▁ signieur of xxmaj england . 
+▁ xxup pistol . xxmaj as i suck blood , i will some mercy show . 
+▁ xxmaj follow me . xxmaj exit 
+▁ xxup boy . xxmaj suivez - vous le grand capitaine . xxmaj exit xxup french xxup soldier 
+▁ i did never know so full a voice issue from so empty a heart ; but 
+▁ the saying is true- the empty vessel makes the greatest sound . 
+▁ xxmaj bardolph and xxmaj nym had ten times more valour than this roaring 
+▁ devil i ' th ' old play , that every one may pare his nails with a 
+▁ wooden dagger ; and they are both hang'd ; and so would this be , if 
+▁ he durst steal anything adventurously . i must stay with the 
+▁ lackeys , with the luggage of our camp . xxmaj the xxmaj french might have a 
+▁ good prey of us , if he knew of it ; for there is none to guard it 
+▁ but boys . xxmaj exit 
+
+
+
+
+ xxup scene xxup v. 
+ xxmaj another part of the field of battle 
+
+ xxmaj enter xxup constable , xxup orleans , xxup bourbon , xxup dauphin , and xxup rambures 
+
+▁ xxup constable . o diable ! 
+▁ xxup orleans . o xxmaj seigneur ! le jour est perdu , tout est perdu ! 
+▁ xxup dauphin . xxmaj mort xxmaj dieu , ma vie ! all is confounded , all ! 
+▁ xxmaj reproach and everlasting shame 
+▁ xxmaj sits mocking in our plumes . [ a short alarum ] 
+▁ o mechante fortune ! xxmaj do not run away . 
+▁ xxup constable . xxmaj why , an our ranks are broke . 
+▁ xxup dauphin . o perdurable shame ! xxmaj let 's stab ourselves . 
+▁ xxmaj be these the wretches that we play'd at dice for ? 
+▁ xxup orleans . xxmaj is this the king we sent to for his ransom ? 
+▁ xxup bourbon . xxmaj shame , and eternal shame , nothing but shame ! 
+▁ xxmaj let us die in honour : once more back again ; 
+▁ xxmaj and he that will not follow xxmaj bourbon now , 
+▁ xxmaj let him go hence and , with his cap in hand 
+▁ xxmaj like a base pander , hold the chamber - door 
+▁ xxmaj whilst by a slave , no gender than my dog , 
+▁ xxmaj his fairest daughter is contaminated . 
+▁ xxup constable . xxmaj disorder , that hath spoil'd us , friend us now ! 
+▁ xxmaj let us on heaps go offer up our lives . 
+▁ xxup orleans . xxmaj we are enow yet living in the field 
+▁ xxmaj to smother up the xxmaj english in our throngs , 
+▁ xxmaj if any order might be thought upon . 
+▁ xxup bourbon . xxmaj the devil take order now ! xxmaj i 'll to the throng . 
+▁ xxmaj let life be short , else shame will be too long . xxmaj exeunt 
+
+
+
+
+ xxup scene xxup vi . 
+ xxmaj another part of the field 
+
+ xxmaj alarum . xxmaj enter the xxup king and his train , with prisoners ; xxup exeter , and others 
+
+▁ xxup king xxup henry . xxmaj well have we done , thrice - valiant countrymen ; 
+▁ xxmaj but all 's not done- yet keep the xxmaj french the field . 
+▁ xxup exeter . xxmaj the xxmaj duke of xxmaj york commends him to your xxmaj majesty . 
+▁ xxup king xxup henry . xxmaj lives he , good uncle ? xxmaj thrice within this hour 
+▁ i saw him down ; thrice up again , and fighting ; 
+▁ xxmaj from helmet to the spur all blood he was . 
+▁ xxup exeter . xxmaj in which array , brave soldier , doth he lie 
+▁ xxmaj larding the plain ; and by his bloody side , 
+▁ xxmaj yoke - fellow to his honour - owing wounds , 
+▁ xxmaj the noble xxmaj earl of xxmaj suffolk also lies . 
+▁ xxmaj suffolk first died ; and xxmaj york , all haggled over , 
+▁ xxmaj comes to him , where in gore he lay insteeped , 
+▁ xxmaj and takes him by the beard , kisses the gashes 
+▁ xxmaj that bloodily did yawn upon his face , 
+▁ xxmaj he cries aloud ' tarry , my cousin xxmaj suffolk . 
+▁ xxmaj my soul shall thine keep company to heaven ; 
+▁ xxmaj tarry , sweet soul , for mine , then fly abreast ; 
+▁ xxmaj as in this glorious and well - foughten field 
+▁ xxmaj we kept together in our chivalry . ' 
+▁ xxmaj upon these words i came and cheer'd him up ; 
+▁ xxmaj he smil'd me in the face , raught me his hand , 
+▁ xxmaj and , with a feeble grip , says ' dear my lord , 
+▁ xxmaj commend my service to my sovereign . ' 
+▁ xxmaj so did he turn , and over xxmaj suffolk 's neck 
+▁ xxmaj he threw his wounded arm and kiss'd his lips ; 
+▁ xxmaj and so , espous'd to death , with blood he seal'd 
+▁ a testament of noble - ending love . 
+▁ xxmaj the pretty and sweet manner of it forc'd 
+▁ xxmaj those waters from me which i would have stopp'd ; 
+▁ xxmaj but i had not so much of man in me , 
+▁ xxmaj and all my mother came into mine eyes 
+▁ xxmaj and gave me up to tears . 
+▁ xxup king xxup henry . i blame you not ; 
+▁ xxmaj for , hearing this , i must perforce compound 
+▁ xxmaj with mistful eyes , or they will issue too . [ alarum ] 
+▁ xxmaj but hark ! what new alarum is this same ? 
+▁ xxmaj the xxmaj french have reinforc'd their scatter'd men . 
+▁ xxmaj then every soldier kill his prisoners ; 
+▁ xxmaj give the word through . xxmaj exeunt 
+
+
+
+
+ xxup scene xxup vii . 
+ xxmaj another part of the field 
+
+ xxmaj enter xxup fluellen and xxup gower 
+
+▁ xxup fluellen . xxmaj kill the poys and the luggage ! ' tis expressly against the 
+▁ law of arms ; ' tis as arrant a piece of knavery , mark you now , as 
+▁ can be offert ; in your conscience , now , is it not ? 
+▁ xxup gower . ' tis certain there 's not a boy left alive ; and the cowardly 
+▁ rascals that ran from the battle ha ' done this slaughter ; 
+▁ besides , they have burned and carried away all that was in the 
+▁ xxmaj king 's tent ; wherefore the xxmaj king most worthily hath caus'd every 
+▁ soldier to cut his prisoner 's throat . xxup o , ' tis a gallant xxmaj king ! 
+▁ xxup fluellen . xxmaj ay , he was porn at xxmaj monmouth , xxmaj captain xxmaj gower . xxmaj what call you 
+▁ the town 's name where xxmaj alexander the xxmaj pig was born ? 
+▁ xxup gower . xxmaj alexander the xxmaj great . 
+▁ xxup fluellen . xxmaj why , i pray you , is not ' pig ' great ? xxmaj the pig , or great , 
+▁ or the mighty , or the huge , or the magnanimous , are all one 
+▁ reckonings , save the phrase is a little variations . 
+▁ xxup gower . i think xxmaj alexander the xxmaj great was born in xxmaj macedon ; his father 
+▁ was called xxmaj philip of xxmaj macedon , as i take it . 
+▁ xxup fluellen . i think it is in xxmaj macedon where xxmaj alexander is porn . i tell 
+▁ you , xxmaj captain , if you look in the maps of the ' orld , i warrant you 
+▁ sall find , in the comparisons between xxmaj macedon and xxmaj monmouth , that 
+▁ the situations , look you , is both alike . xxmaj there is a river in 
+▁ xxmaj macedon ; and there is also moreover a river at xxmaj monmouth ; it is 
+▁ call'd xxmaj wye at xxmaj monmouth , but it is out of my prains what is the 
+▁ name of the other river ; but ' tis all one , ' tis alike as my 
+▁ fingers is to my fingers , and there is salmons in both . xxmaj if you 
+▁ mark xxmaj alexander 's life well , xxmaj harry of xxmaj monmouth 's life is come 
+▁ after it indifferent well ; for there is figures in all things . 
+▁ xxmaj alexander- xxmaj god knows , and you know- in his rages , and his furies , 
+▁ and his wraths , and his cholers , and his moods , and his 
+▁ displeasures , and his indignations , and also being a little 
+▁ intoxicates in his prains , did , in his ales and his angers , look 
+▁ you , kill his best friend , xxmaj cleitus . 
+▁ xxup gower . xxmaj our king is not like him in that : he never kill'd any of his 
+▁ friends . 
+▁ xxup fluellen . xxmaj it is not well done , mark you now , to take the tales out 
+▁ of my mouth ere it is made and finished . i speak but in the 
+▁ figures and comparisons of it ; as xxmaj alexander kill'd his friend 
+▁ xxmaj cleitus , being in his ales and his cups , so also xxmaj harry xxmaj monmouth , 
+▁ being in his right wits and his good judgments , turn'd away the 
+▁ fat knight with the great belly doublet ; he was full of jests , 
+▁ and gipes , and knaveries , and mocks ; i have forgot his name . 
+▁ xxup gower . xxmaj sir xxmaj john xxmaj falstaff . 
+▁ xxup fluellen . xxmaj that is he . xxmaj i 'll tell you there is good men porn at 
+▁ xxmaj monmouth . 
+▁ xxup gower . xxmaj here comes his xxmaj majesty . 
+
+▁ xxmaj alarum . xxmaj enter the xxup king , xxup warwick , xxup gloucester , 
+▁ xxup exeter , and others , with prisoners . xxmaj flourish 
+
+▁ xxup king xxup henry . i was not angry since i came to xxmaj france 
+▁ xxmaj until this instant . xxmaj take a trumpet , herald , 
+▁ xxmaj ride thou unto the horsemen on yond hill ; 
+▁ xxmaj if they will fight with us , bid them come down 
+▁ xxmaj or void the field ; they do offend our sight . 
+▁ xxmaj if they 'll do neither , we will come to them 
+▁ xxmaj and make them skirr away as swift as stones 
+▁ xxmaj enforced from the old xxmaj assyrian slings ; 
+▁ xxmaj besides , we 'll cut the throats of those we have , 
+▁ xxmaj and not a man of them that we shall take 
+▁ xxmaj shall taste our mercy . xxmaj go and tell them so . 
+
+▁ xxmaj enter xxup montjoy 
+
+▁ xxup exeter . xxmaj here comes the herald of the xxmaj french , my liege . 
+▁ xxup gloucester . xxmaj his eyes are humbler than they us'd to be . 
+▁ xxup king xxup henry . xxmaj how now ! xxmaj what means this , herald ? know'st thou not 
+▁ xxmaj that i have fin'd these bones of mine for ransom ? 
+▁ xxmaj com'st thou again for ransom ? 
+▁ xxup montjoy . xxmaj no , great xxmaj king ; 
+▁ i come to thee for charitable licence , 
+▁ xxmaj that we may wander o'er this bloody field 
+▁ xxmaj to book our dead , and then to bury them ; 
+▁ xxmaj to sort our nobles from our common men ; 
+▁ xxmaj for many of our princes- woe the while!- 
+▁ xxmaj lie drown'd and soak'd in mercenary blood ; 
+▁ xxmaj so do our vulgar drench their peasant limbs 
+▁ xxmaj in blood of princes ; and their wounded steeds 
+▁ xxmaj fret fetlock deep in gore , and with wild rage 
+▁ xxmaj yerk out their armed heels at their dead masters , 
+▁ xxmaj killing them twice . xxup o , give us leave , great xxmaj king , 
+▁ xxmaj to view the field in safety , and dispose 
+▁ xxmaj of their dead bodies ! 
+▁ xxup king xxup henry . i tell thee truly , herald , 
+▁ i know not if the day be ours or no ; 
+▁ xxmaj for yet a many of your horsemen peer 
+▁ xxmaj and gallop o'er the field . 
+▁ xxup montjoy . xxmaj the day is yours . 
+▁ xxup king xxup henry . xxmaj praised be xxmaj god , and not our strength , for it ! 
+▁ xxmaj what is this castle call'd that stands hard by ? 
+▁ xxup montjoy . xxmaj they call it xxmaj agincourt . 
+▁ xxup king xxup henry . xxmaj then call we this the field of xxmaj agincourt , 
+▁ xxmaj fought on the day of xxmaj crispin xxmaj crispianus . 
+▁ xxup fluellen . xxmaj your grandfather of famous memory , an't please your 
+▁ xxmaj majesty , and your great - uncle xxmaj edward the xxmaj plack xxmaj prince of xxmaj wales , 
+▁ as i have read in the chronicles , fought a most prave pattle here 
+▁ in xxmaj france . 
+▁ xxup king xxup henry . xxmaj they did , xxmaj fluellen . 
+▁ xxup fluellen . xxmaj your xxmaj majesty says very true ; if your xxmaj majesties is 
+▁ rememb'red of it , the xxmaj welshmen did good service in garden where 
+▁ leeks did grow , wearing leeks in their xxmaj monmouth caps ; which your 
+▁ xxmaj majesty know to this hour is an honourable badge of the service ; 
+▁ and i do believe your xxmaj majesty takes no scorn to wear the leek 
+▁ upon xxmaj saint xxmaj tavy 's day . 
+▁ xxup king xxup henry . i wear it for a memorable honour ; 
+▁ xxmaj for i am xxmaj welsh , you know , good countryman . 
+▁ xxup fluellen . xxmaj all the water in xxmaj wye can not wash your xxmaj majesty 's xxmaj welsh 
+▁ plood out of your pody , i can tell you that . xxmaj got pless it and 
+▁ preserve it as long as it pleases his xxmaj grace and his xxmaj majesty too ! 
+▁ xxup king xxup henry . xxmaj thanks , good my countryman . 
+▁ xxup fluellen . xxmaj by xxmaj jeshu , i am your xxmaj majesty 's countryman , care not who 
+▁ know it ; i will confess it to all the ' orld : i need not be 
+▁ asham'd of your xxmaj majesty , praised be xxmaj got , so long as your xxmaj majesty 
+▁ is an honest man . 
+
+▁ xxmaj enter xxup williams 
+
+▁ xxup king xxup henry . xxmaj god keep me so ! xxmaj our heralds go with him : 
+▁ xxmaj bring me just notice of the numbers dead 
+▁ xxmaj on both our parts . xxmaj call yonder fellow hither . 
+▁ xxmaj exeunt heralds with xxup montjoy 
+▁ xxup exeter . xxmaj soldier , you must come to the xxmaj king . 
+▁ xxup king xxup henry . xxmaj soldier , why wear'st thou that glove in thy cap ? 
+▁ xxup williams . xxmaj an't please your xxmaj majesty , ' tis the gage of one that i 
+▁ should fight withal , if he be alive . 
+▁ xxup king xxup henry . xxmaj an xxmaj englishman ? 
+▁ xxup williams . xxmaj an't please your xxmaj majesty , a rascal that swagger'd with me 
+▁ last night ; who , if ' a live and ever dare to challenge this 
+▁ glove , i have sworn to take him a box o ' th ' ear ; or if i can see 
+▁ my glove in his cap- which he swore , as he was a soldier , he 
+▁ would wear if alive- i will strike it out soundly . 
+▁ xxup king xxup henry . xxmaj what think you , xxmaj captain xxmaj fluellen , is it fit this 
+▁ soldier keep his oath ? 
+▁ xxup fluellen . xxmaj he is a craven and a villain else , an't please your 
+▁ xxmaj majesty , in my conscience . 
+▁ xxup king xxup henry . xxmaj it may be his enemy is a gentlemen of great sort , quite 
+▁ from the answer of his degree . 
+▁ xxup fluellen . xxmaj though he be as good a gentleman as the xxmaj devil is , as 
+▁ xxmaj lucifier and xxmaj belzebub himself , it is necessary , look your xxmaj grace , 
+▁ that he keep his vow and his oath ; if he be perjur'd , see you 
+▁ now , his reputation is as arrant a villain and a xxmaj jacksauce as 
+▁ ever his black shoe trod upon xxmaj god 's ground and his earth , in my 
+▁ conscience , la . 
+▁ xxup king xxup henry . xxmaj then keep thy vow , sirrah , when thou meet'st the 
+▁ fellow . 
+▁ xxup williams . xxmaj so i xxmaj will , my liege , as i live . 
+▁ xxup king xxup henry . xxmaj who serv'st thou under ? 
+▁ xxup williams . xxmaj under xxmaj captain xxmaj gower , my liege . 
+▁ xxup fluellen . xxmaj gower is a good captain , and is good knowledge and 
+▁ literatured in the wars . 
+▁ xxup king xxup henry . xxmaj call him hither to me , soldier . 
+▁ xxup williams . i will , my liege . xxmaj exit 
+▁ xxup king xxup henry . xxmaj here , xxmaj fluellen ; wear thou this favour for me , and stick 
+▁ it in thy cap ; when xxmaj alencon and myself were down together , i 
+▁ pluck'd this glove from his helm . xxmaj if any man challenge this , he 
+▁ is a friend to xxmaj alencon and an enemy to our person ; if thou 
+▁ encounter any such , apprehend him , an thou dost me love . 
+▁ xxup fluellen . xxmaj your xxmaj grace does me as great honours as can be desir'd in 
+▁ the hearts of his subjects . i would fain see the man that has but 
+▁ two legs that shall find himself aggrief'd at this glove , that is 
+▁ all ; but i would fain see it once , an please xxmaj god of his grace 
+▁ that i might see . 
+▁ xxup king xxup henry . xxmaj know'st thou xxmaj gower ? 
+▁ xxup fluellen . xxmaj he is my dear friend , an please you . 
+▁ xxup king xxup henry . xxmaj pray thee , go seek him , and bring him to my tent . 
+▁ xxup fluellen . i will fetch him . xxmaj exit 
+▁ xxup king xxup henry . xxmaj my xxmaj lord of xxmaj warwick and my brother xxmaj gloucester , 
+▁ xxmaj follow xxmaj fluellen closely at the heels ; 
+▁ xxmaj the glove which i have given him for a favour 
+▁ xxmaj may haply purchase him a box o ' th ' ear . 
+▁ xxmaj it is the soldier 's : xxup i , by bargain , should 
+▁ xxmaj wear it myself . xxmaj follow , good cousin xxmaj warwick ; 
+▁ xxmaj if that the soldier strike him , as i judge 
+▁ xxmaj by his blunt bearing he will keep his word , 
+▁ xxmaj some sudden mischief may arise of it ; 
+▁ xxmaj for i do know xxmaj fluellen valiant , 
+▁ xxmaj and touch'd with choler , hot as gunpowder , 
+▁ xxmaj and quickly will return an injury ; 
+▁ xxmaj follow , and see there be no harm between them . 
+▁ xxmaj go you with me , uncle of xxmaj exeter . xxmaj exeunt 
+
+
+
+
+ xxup scene v xxrep 3 i . 
+ xxmaj before xxup king xxup henry 's xxup pavilion 
+
+ xxmaj enter xxup gower and xxup williams 
+
+▁ xxup williams . i warrant it is to knight you , xxmaj captain . 
+
+▁ xxmaj enter xxup fluellen 
+
+▁ xxup fluellen . xxmaj god 's will and his pleasure , xxmaj captain , i beseech you now , 
+▁ come apace to the xxmaj king : there is more good toward you 
+▁ peradventure than is in your knowledge to dream of . 
+▁ xxup williams . xxmaj sir , know you this glove ? 
+▁ xxup fluellen . xxmaj know the glove ? i know the glove is a glove . 
+▁ xxup williams . i know this ; and thus i challenge it . [ strikes him ] 
+▁ xxup fluellen . ' sblood , an arrant traitor as any 's in the universal 
+▁ world , or in xxmaj france , or in xxmaj england ! 
+▁ xxup gower . xxmaj how now , sir ! you villain ! 
+▁ xxup williams . xxmaj do you think xxmaj i 'll be forsworn ? 
+▁ xxup fluellen . xxmaj stand away , xxmaj captain xxmaj gower ; i will give treason his 
+▁ payment into plows , i warrant you . 
+▁ xxup williams . i am no traitor . 
+▁ xxup fluellen . xxmaj that 's a lie in thy throat . i charge you in his xxmaj majesty 's 
+▁ name , apprehend him : he 's a friend of the xxmaj duke xxmaj alencon 's . 
+
+▁ xxmaj enter xxup warwick and xxup gloucester 
+
+▁ xxup warwick . xxmaj how now ! how now ! what 's the matter ? 
+▁ xxup fluellen . xxmaj my xxmaj lord of xxmaj warwick , here is- praised be xxmaj god for it!- a 
+▁ most contagious treason come to light , look you , as you shall 
+▁ desire in a summer 's day . xxmaj here is his xxmaj majesty . 
+
+▁ xxmaj enter the xxup king and xxup exeter 
+
+▁ xxup king xxup henry . xxmaj how now ! what 's the matter ? 
+▁ xxup fluellen . xxmaj my liege , here is a villain and a traitor , that , look 
+▁ your xxmaj grace , has struck the glove which your xxmaj majesty is take out 
+▁ of the helmet of xxmaj alencon . 
+▁ xxup williams . xxmaj my liege , this was my glove : here is the fellow of it ; 
+▁ and he that i gave it to in change promis'd to wear it in his 
+▁ cap ; i promis'd to strike him if he did ; i met this man with my 
+▁ glove in his cap , and i have been as good as my word . 
+▁ xxup fluellen . xxmaj your xxmaj majesty hear now , saving your xxmaj majesty 's manhood , 
+▁ what an arrant , rascally , beggarly , lousy knave it is ; i hope 
+▁ your xxmaj majesty is pear me testimony and witness , and will 
+▁ avouchment , that this is the glove of xxmaj alencon that your xxmaj majesty 
+▁ is give me ; in your conscience , now . 
+▁ xxup king xxup henry . xxmaj give me thy glove , soldier ; look , here is the fellow of 
+▁ it . 
+▁ ' twas xxup i , indeed , thou promised'st to strike , 
+▁ xxmaj and thou hast given me most bitter terms . 
+▁ xxup fluellen . xxmaj an please your xxmaj majesty , let his neck answer for it , if 
+▁ there is any martial law in the world . 
+▁ xxup king xxup henry . xxmaj how canst thou make me satisfaction ? 
+▁ xxup williams . xxmaj all offences , my lord , come from the heart ; never came 
+▁ any from mine that might offend your xxmaj majesty . 
+▁ xxup king xxup henry . xxmaj it was ourself thou didst abuse . 
+▁ xxup williams . xxmaj your xxmaj majesty came not like yourself : you appear'd to me 
+▁ but as a common man ; witness the night , your garments , your 
+▁ lowliness ; and what your xxmaj highness suffer'd under that shape i 
+▁ beseech you take it for your own fault , and not mine ; for had you 
+▁ been as i took you for , i made no offence ; therefore , i beseech 
+▁ your xxmaj highness pardon me . 
+▁ xxup king xxup henry . xxmaj here , uncle xxmaj exeter , fill this glove with crowns , 
+▁ xxmaj and give it to this fellow . xxmaj keep it , fellow ; 
+▁ xxmaj and wear it for an honour in thy cap 
+▁ xxmaj till i do challenge it . xxmaj give him the crowns ; 
+▁ xxmaj and , xxmaj captain , you must needs be friends with him . 
+▁ xxup fluellen . xxmaj by this day and this light , the fellow has mettle enough 
+▁ in his belly : hold , there is twelve pence for you ; and i pray you 
+▁ to serve xxmaj god , and keep you out of prawls , and prabbles , and 
+▁ quarrels , and dissensions , and , i warrant you , it is the better 
+▁ for you . 
+▁ xxup williams . i will none of your money . 
+▁ xxup fluellen . xxmaj it is with a good will ; i can tell you it will serve you 
+▁ to mend your shoes . xxmaj come , wherefore should you be so pashful ? 
+▁ xxmaj your shoes is not so good . ' tis a good silling , i warrant you , or 
+▁ i will change it . 
+
+▁ xxmaj enter an xxup english xxup herald 
+
+▁ xxup king xxup henry . xxmaj now , herald , are the dead numb'red ? 
+▁ xxup herald . xxmaj here is the number of the slaught'red xxmaj french . 
+▁ [ gives a paper ] 
+▁ xxup king xxup henry . xxmaj what prisoners of good sort are taken , uncle ? 
+▁ xxup exeter . xxmaj charles xxmaj duke of xxmaj orleans , nephew to the xxmaj king ; 
+▁ xxmaj john xxmaj duke of xxmaj bourbon , and xxmaj lord xxmaj bouciqualt ; 
+▁ xxmaj of other lords and barons , knights and squires , 
+▁ xxmaj full fifteen hundred , besides common men . 
+▁ xxup king xxup henry . xxmaj this note doth tell me of ten thousand xxmaj french 
+▁ xxmaj that in the field lie slain ; of princes in this number , 
+▁ xxmaj and nobles bearing banners , there lie dead 
+▁ xxmaj one hundred twenty - six ; added to these , 
+▁ xxmaj of knights , esquires , and gallant gentlemen , 
+▁ xxmaj eight thousand and four hundred ; of the which 
+▁ xxmaj five hundred were but yesterday dubb'd knights . 
+▁ xxmaj so that , in these ten thousand they have lost , 
+▁ xxmaj there are but sixteen hundred mercenaries ; 
+▁ xxmaj the rest are princes , barons , lords , knights , squires , 
+▁ xxmaj and gentlemen of blood and quality . 
+▁ xxmaj the names of those their nobles that lie dead : 
+▁ xxmaj charles xxmaj delabreth , xxmaj high xxmaj constable of xxmaj france ; 
+▁ xxmaj jaques of xxmaj chatillon , xxmaj admiral of xxmaj france ; 
+▁ xxmaj the master of the cross - bows , xxmaj lord xxmaj rambures ; 
+▁ xxmaj great xxmaj master of xxmaj france , the brave xxmaj sir xxmaj guichard xxmaj dolphin ; 
+▁ xxmaj john xxmaj duke of xxmaj alencon ; xxmaj antony xxmaj duke of xxmaj brabant , 
+▁ xxmaj the brother to the xxmaj duke of xxmaj burgundy ; 
+▁ xxmaj and xxmaj edward xxmaj duke of xxmaj bar . xxmaj of lusty earls , 
+▁ xxmaj grandpre and xxmaj roussi , xxmaj fauconbridge and xxmaj foix , 
+▁ xxmaj beaumont and xxmaj marle , xxmaj vaudemont and xxmaj lestrake . 
+▁ xxmaj here was a royal fellowship of death ! 
+▁ xxmaj where is the number of our xxmaj english dead ? 
+▁ [ herald presents another paper ] 
+▁ xxmaj edward the xxmaj duke of xxmaj york , the xxmaj earl of xxmaj suffolk , 
+▁ xxmaj sir xxmaj richard xxmaj kikely , xxmaj davy xxmaj gam , xxmaj esquire ; 
+▁ xxmaj none else of name ; and of all other men 
+▁ xxmaj but five and twenty . o xxmaj god , thy arm was here ! 
+▁ xxmaj and not to us , but to thy arm alone , 
+▁ xxmaj ascribe we all . xxmaj when , without stratagem , 
+▁ xxmaj but in plain shock and even play of battle , 
+▁ xxmaj was ever known so great and little los 
+▁ xxmaj on one part and on th ' other ? xxmaj take it , xxmaj god , 
+▁ xxmaj for it is none but thine . 
+▁ xxup exeter . ' tis wonderful ! 
+▁ xxup king xxup henry . xxmaj come , go we in procession to the village ; 
+▁ xxmaj and be it death proclaimed through our host 
+▁ xxmaj to boast of this or take that praise from xxmaj god 
+▁ xxmaj which is his only . 
+▁ xxup fluellen . xxmaj is it not lawful , an please your xxmaj majesty , to tell how 
+▁ many is kill'd ? 
+▁ xxup king xxup henry . xxmaj yes , xxmaj captain ; but with this acknowledgment , 
+▁ xxmaj that xxmaj god fought for us . 
+▁ xxup fluellen . xxmaj yes , my conscience , he did us great good . 
+▁ xxup king xxup henry . xxmaj do we all holy rites : 
+▁ xxmaj let there be sung ' non nobis ' and ' te xxmaj deum ' ; 
+▁ xxmaj the dead with charity enclos'd in clay- 
+▁ xxmaj and then to xxmaj calais ; and to xxmaj england then ; 
+▁ xxmaj where ne'er from xxmaj france arriv'd more happy men . xxmaj exeunt 
+
+
+
+
+ < < this xxup electronic xxup version xxup of xxup the xxup complete xxup works xxup of xxup william 
+ xxup shakespeare xxup is xxup copyright 1990 - 1993 xxup by xxup world xxup library , xxup inc . , xxup and xxup is 
+ xxup provided xxup by xxup project xxup gutenberg xxup etext xxup of xxup illinois xxup benedictine xxup college 
+ xxup with xxup permission . xxup electronic xxup and xxup machine xxup readable xxup copies xxup may xxup be 
+ xxup distributed xxup so xxup long xxup as xxup such xxup copies ( 1 ) xxup are xxup for xxup your xxup or xxup others 
+ xxup personal xxup use xxup only , xxup and ( 2 ) xxup are xxup not xxup distributed xxup or xxup used 
+ xxup commercially . xxup prohibited xxup commercial xxup distribution xxup includes xxup by xxup any 
+ xxup service xxup that xxup charges xxup for xxup download xxup time xxup or xxup for xxup membership . > > 
+
+
+
+ xxup act xxup v. xxup prologue . 
+
+ xxmaj enter xxup chorus 
+
+▁ xxup chorus . xxmaj vouchsafe to those that have not read the story 
+▁ xxmaj that i may prompt them ; and of such as have , 
+▁ i humbly pray them to admit th ' excuse 
+▁ xxmaj of time , of numbers , and due course of things , 
+▁ xxmaj which can not in their huge and proper life 
+▁ xxmaj be here presented . xxmaj now we bear the xxmaj king 
+▁ xxmaj toward xxmaj calais . xxmaj grant him there . xxmaj there seen , 
+▁ xxmaj heave him away upon your winged thoughts 
+▁ xxmaj athwart the sea . xxmaj behold , the xxmaj english beach 
+▁ xxmaj pales in the flood with men , with wives , and boys , 
+▁ xxmaj whose shouts and claps out - voice the deep - mouth'd sea , 
+▁ xxmaj which , like a mighty whiffler , fore the xxmaj king 
+▁ xxmaj seems to prepare his way . xxmaj so let him land , 
+▁ xxmaj and solemnly see him set on to xxmaj london . 
+▁ xxmaj so swift a pace hath thought that even now 
+▁ xxmaj you may imagine him upon xxmaj blackheath ; 
+▁ xxmaj where that his lords desire him to have borne 
+▁ xxmaj his bruised helmet and his bended sword 
+▁ xxmaj before him through the city . xxmaj he forbids it , 
+▁ xxmaj being free from vainness and self - glorious pride ; 
+▁ xxmaj giving full trophy , signal , and ostent , 
+▁ xxmaj quite from himself to xxmaj god . xxmaj but now behold 
+▁ xxmaj in the quick forge and working - house of thought , 
+▁ xxmaj how xxmaj london doth pour out her citizens ! 
+▁ xxmaj the mayor and all his brethren in best sort- 
+▁ xxmaj like to the senators of th ' antique xxmaj rome , 
+▁ xxmaj with the plebeians swarming at their heels- 
+▁ xxmaj go forth and fetch their conqu'ring xxmaj caesar in ; 
+▁ xxmaj as , by a lower but loving likelihood , 
+▁ xxmaj were now the xxmaj general of our gracious xxmaj empress- 
+▁ xxmaj as in good time he may- from xxmaj ireland coming , 
+▁ xxmaj bringing rebellion broached on his sword , 
+▁ xxmaj how many would the peaceful city quit 
+▁ xxmaj to welcome him ! xxmaj much more , and much more cause , 
+▁ xxmaj did they this xxmaj harry . xxmaj now in xxmaj london place him- 
+▁ xxmaj as yet the lamentation of the xxmaj french 
+▁ xxmaj invites the xxmaj king of xxmaj england 's stay at home ; 
+▁ xxmaj the xxmaj emperor 's coming in behalf of xxmaj france 
+▁ xxmaj to order peace between them ; and omit 
+▁ xxmaj all the occurrences , whatever chanc'd , 
+▁ xxmaj till xxmaj harry 's back - return again to xxmaj france . 
+▁ xxmaj there must we bring him ; and myself have play'd 
+▁ xxmaj the interim , by rememb'ring you ' tis past . 
+▁ xxmaj then brook abridgment ; and your eyes advance , 
+▁ xxmaj after your thoughts , straight back again to xxmaj france . xxmaj exit 
+
+
+
+
+ xxup scene xxup i. 
+ xxmaj france . xxmaj the xxmaj english camp 
+
+ xxmaj enter xxup fluellen and xxup gower 
+
+▁ xxup gower . xxmaj nay , that 's right ; but why wear you your leek to - day ? xxmaj saint 
+▁ xxmaj davy 's day is past . 
+▁ xxup fluellen . xxmaj there is occasions and causes why and wherefore in all 
+▁ things . i will tell you , ass my friend , xxmaj captain xxmaj gower : the 
+▁ rascally , scald , beggarly , lousy , pragging knave , xxmaj pistol- which 
+▁ you and yourself and all the world know to be no petter than a 
+▁ fellow , look you now , of no merits- he is come to me , and prings 
+▁ me pread and salt yesterday , look you , and bid me eat my leek ; it 
+▁ was in a place where i could not breed no contendon with him ; but 
+▁ i will be so bold as to wear it in my cap till i see him once 
+▁ again , and then i will tell him a little piece of my desires . 
+
+▁ xxmaj enter xxup pistol 
+
+▁ xxup gower . xxmaj why , here he comes , swelling like a turkey - cock . 
+▁ xxup fluellen . ' tis no matter for his swellings nor his turkey - cocks . 
+▁ xxmaj god pless you , xxmaj aunchient xxmaj pistol ! you scurvy , lousy knave , xxmaj god 
+▁ pless you ! 
+▁ xxup pistol . xxmaj ha ! art thou bedlam ? xxmaj dost thou thirst , base xxmaj troyan , 
+▁ xxmaj to have me fold up xxmaj parca 's fatal web ? 
+▁ xxmaj hence ! i am qualmish at the smell of leek . 
+▁ xxup fluellen . i peseech you heartily , scurvy , lousy knave , at my 
+▁ desires , and my requests , and my petitions , to eat , look you , 
+▁ this leek ; because , look you , you do not love it , nor your 
+▁ affections , and your appetites , and your digestions , does not 
+▁ agree with it , i would desire you to eat it . 
+▁ xxup pistol . xxmaj not for xxmaj cadwallader and all his goats . 
+▁ xxup fluellen . xxmaj there is one goat for you . [ strikes him ] xxmaj will you be so 
+▁ good , scald knave , as eat it ? 
+▁ xxup pistol . xxmaj base xxmaj troyan , thou shalt die . 
+▁ xxup fluellen . xxmaj you say very true , scald knave- when xxmaj god 's will is . i 
+▁ will desire you to live in the meantime , and eat your victuals ; 
+▁ come , there is sauce for it . [ striking him again ] xxmaj you call'd me 
+▁ yesterday mountain - squire ; but i will make you to - day a squire of 
+▁ low degree . i pray you fall to ; if you can mock a leek , you can 
+▁ eat a leek . 
+▁ xxup gower . xxmaj enough , xxmaj captain , you have astonish'd him . 
+▁ xxup fluellen . i say i will make him eat some part of my leek , or i will 
+▁ peat his pate four days . xxmaj bite , i pray you , it is good for your 
+▁ green wound and your ploody coxcomb . 
+▁ xxup pistol . xxmaj must i bite ? 
+▁ xxup fluellen . xxmaj yes , certainly , and out of doubt , and out of question 
+▁ too , and ambiguides . 
+▁ xxup pistol . xxmaj by this leek , i will most horribly revenge- i eat and eat , 
+▁ i swear- 
+▁ xxup fluellen . xxmaj eat , i pray you ; will you have some more sauce to your 
+▁ leek ? xxmaj there is not enough leek to swear by . 
+▁ xxup pistol . xxmaj quiet thy cudgel : thou dost see i eat . 
+▁ xxup fluellen . xxmaj much good do you , scald knave , heartily . xxmaj nay , pray you 
+▁ throw none away ; the skin is good for your broken coxcomb . xxmaj when 
+▁ you take occasions to see leeks hereafter , i pray you mock at 
+▁ 'em ; that is all . 
+▁ xxup pistol . xxmaj good . 
+▁ xxup fluellen . xxmaj ay , leeks is good . xxmaj hold you , there is a groat to heal 
+▁ your pate . 
+▁ xxup pistol . xxmaj me a groat ! 
+▁ xxup fluellen . xxmaj yes , verily and in truth , you shall take it ; or i have 
+▁ another leek in my pocket which you shall eat . 
+▁ xxup pistol . i take thy groat in earnest of revenge . 
+▁ xxup fluellen . xxmaj if i owe you anything i will pay you in cudgels ; you 
+▁ shall be a woodmonger , and buy nothing of me but cudgels . xxmaj god bye 
+▁ you , and keep you , and heal your pate . 
+▁ xxmaj exit 
+▁ xxup pistol . xxmaj all hell shall stir for this . 
+▁ xxup gower . xxmaj go , go : you are a couterfeit cowardly knave . xxmaj will you mock 
+▁ at an ancient tradition , begun upon an honourable respect , and 
+▁ worn as a memorable trophy of predeceased valour , and dare not 
+▁ avouch in your deeds any of your words ? i have seen you gleeking 
+▁ and galling at this gentleman twice or thrice . xxmaj you thought , 
+▁ because he could not speak xxmaj english in the native garb , he could 
+▁ not therefore handle an xxmaj english cudgel ; you find it otherwise , 
+▁ and henceforth let a xxmaj welsh correction teach you a good xxmaj english 
+▁ condition . xxmaj fare ye well . xxmaj exit 
+▁ xxup pistol . xxmaj doth xxmaj fortune play the huswife with me now ? 
+▁ xxmaj news have i that my xxmaj nell is dead i ' th ' spital 
+▁ xxmaj of malady of xxmaj france ; 
+▁ xxmaj and there my rendezvous is quite cut off . 
+▁ xxmaj old i do wax ; and from my weary limbs 
+▁ xxmaj honour is cudgell'd . xxmaj well , bawd xxmaj i 'll turn , 
+▁ xxmaj and something lean to cutpurse of quick hand . 
+▁ xxmaj to xxmaj england will i steal , and there xxmaj i 'll steal ; 
+▁ xxmaj and patches will i get unto these cudgell'd scars , 
+▁ xxmaj and swear i got them in the xxmaj gallia wars . xxmaj exit 
+
+
+
+
+ xxup scene xxup ii . 
+ xxmaj france . xxmaj the xxup french xxup king 's palace 
+
+ xxmaj enter at one door , xxup king xxup henry , xxup exeter , xxup bedford , xxup gloucester , xxup warwick , 
+ xxup westmoreland , and other xxup lords ; at another , the xxup french xxup king , xxup queen xxup isabel , 
+ the xxup princess xxup katherine , xxup alice , and other xxup ladies ; the xxup duke xxup of xxup burgundy , 
+ and his train 
+
+▁ xxup king xxup henry . xxmaj peace to this meeting , wherefore we are met ! 
+▁ xxmaj unto our brother xxmaj france , and to our sister , 
+▁ xxmaj health and fair time of day ; joy and good wishes 
+▁ xxmaj to our most fair and princely cousin xxmaj katherine . 
+▁ xxmaj and , as a branch and member of this royalty , 
+▁ xxmaj by whom this great assembly is contriv'd , 
+▁ xxmaj we do salute you , xxmaj duke of xxmaj burgundy . 
+▁ xxmaj and , princes xxmaj french , and peers , health to you all ! 
+▁ xxup french xxup king . xxmaj right joyous are we to behold your face , 
+▁ xxmaj most worthy brother xxmaj england ; fairly met ! 
+▁ xxmaj so are you , princes xxmaj english , every one . 
+▁ xxup queen xxup isabel . xxmaj so happy be the issue , brother xxmaj england , 
+▁ xxmaj of this good day and of this gracious meeting 
+▁ xxmaj as we are now glad to behold your eyes- 
+▁ xxmaj your eyes , which hitherto have home in them , 
+▁ xxmaj against the xxmaj french that met them in their bent , 
+▁ xxmaj the fatal balls of murdering basilisks ; 
+▁ xxmaj the venom of such looks , we fairly hope , 
+▁ xxmaj have lost their quality ; and that this day 
+▁ xxmaj shall change all griefs and quarrels into love . 
+▁ xxup king xxup henry . xxmaj to cry amen to that , thus we appear . 
+▁ xxup queen xxup isabel . xxmaj you xxmaj english princes an , i do salute you . 
+▁ xxup burgundy . xxmaj my duty to you both , on equal love , 
+▁ xxmaj great xxmaj kings of xxmaj france and xxmaj england ! xxmaj that i have labour'd 
+▁ xxmaj with all my wits , my pains , and strong endeavours , 
+▁ xxmaj to bring your most imperial xxmaj majesties 
+▁ xxmaj unto this bar and royal interview , 
+▁ xxmaj your mightiness on both parts best can witness . 
+▁ xxmaj since then my office hath so far prevail'd 
+▁ xxmaj that face to face and royal eye to eye 
+▁ xxmaj you have congreeted , let it not disgrace me 
+▁ xxmaj if i demand , before this royal view , 
+▁ xxmaj what rub or what impediment there is 
+▁ xxmaj why that the naked , poor , and mangled xxmaj peace , 
+▁ xxmaj dear nurse of arts , plenties , and joyful births , 
+▁ xxmaj should not in this best garden of the world , 
+▁ xxmaj our fertile xxmaj france , put up her lovely visage ? 
+▁ xxmaj alas , she hath from xxmaj france too long been chas'd ! 
+▁ xxmaj and all her husbandry doth lie on heaps , 
+▁ xxmaj corrupting in it own fertility . 
+▁ xxmaj her vine , the merry cheerer of the heart , 
+▁ xxmaj unpruned dies ; her hedges even - pleach'd , 
+▁ xxmaj like prisoners wildly overgrown with hair , 
+▁ xxmaj put forth disorder'd twigs ; her fallow leas 
+▁ xxmaj the darnel , hemlock , and rank fumitory , 
+▁ xxmaj doth root upon , while that the coulter rusts 
+▁ xxmaj that should deracinate such savagery ; 
+▁ xxmaj the even mead , that erst brought sweetly forth 
+▁ xxmaj the freckled cowslip , burnet , and green clover , 
+▁ xxmaj wanting the scythe , all uncorrected , rank , 
+▁ xxmaj conceives by idleness , and nothing teems 
+▁ xxmaj but hateful docks , rough thistles , kecksies , burs , 
+▁ xxmaj losing both beauty and utility . 
+▁ xxmaj and as our vineyards , fallows , meads , and hedges , 
+▁ xxmaj defective in their natures , grow to wildness ; 
+▁ xxmaj even so our houses and ourselves and children 
+▁ xxmaj have lost , or do not learn for want of time , 
+▁ xxmaj the sciences that should become our country ; 
+▁ xxmaj but grow , like savages- as soldiers will , 
+▁ xxmaj that nothing do but meditate on blood- 
+▁ xxmaj to swearing and stern looks , diffus'd attire , 
+▁ xxmaj and everything that seems unnatural . 
+▁ xxmaj which to reduce into our former favout 
+▁ xxmaj you are assembled ; and my speech entreats 
+▁ xxmaj that i may know the let why gentle xxmaj peace 
+▁ xxmaj should not expel these inconveniences 
+▁ xxmaj and bless us with her former qualities . 
+▁ xxup king xxup henry . xxmaj if , xxmaj duke of xxmaj burgundy , you would the peace 
+▁ xxmaj whose want gives growth to th ' imperfections 
+▁ xxmaj which you have cited , you must buy that peace 
+▁ xxmaj with full accord to all our just demands ; 
+▁ xxmaj whose tenours and particular effects 
+▁ xxmaj you have , enschedul'd briefly , in your hands . 
+▁ xxup burgundy . xxmaj the xxmaj king hath heard them ; to the which as yet 
+▁ xxmaj there is no answer made . 
+▁ xxup king xxup henry . xxmaj well then , the peace , 
+▁ xxmaj which you before so urg'd , lies in his answer . 
+▁ xxup french xxup king . i have but with a cursorary eye 
+▁ xxmaj o'erglanced the articles ; pleaseth your xxmaj grace 
+▁ xxmaj to appoint some of your council presently 
+▁ xxmaj to sit with us once more , with better heed 
+▁ xxmaj to re - survey them , we will suddenly 
+▁ xxmaj pass our accept and peremptory answer . 
+▁ xxup king xxup henry . xxmaj brother , we shall . xxmaj go , uncle xxmaj exeter , 
+▁ xxmaj and brother xxmaj clarence , and you , brother xxmaj gloucester , 
+▁ xxmaj warwick , and xxmaj huntington , go with the xxmaj king ; 
+▁ xxmaj and take with you free power to ratify , 
+▁ xxmaj augment , or alter , as your wisdoms best 
+▁ xxmaj shall see advantageable for our dignity , 
+▁ xxmaj any thing in or out of our demands ; 
+▁ xxmaj and we 'll consign thereto . xxmaj will you , fair sister , 
+▁ xxmaj go with the princes or stay here with us ? 
+▁ xxup queen xxup isabel . xxmaj our gracious brother , i will go with them ; 
+▁ xxmaj haply a woman 's voice may do some good , 
+▁ xxmaj when articles too nicely urg'd be stood on . 
+▁ xxup king xxup henry . xxmaj yet leave our cousin xxmaj katherine here with us ; 
+▁ xxmaj she is our capital demand , compris'd 
+▁ xxmaj within the fore - rank of our articles . 
+▁ xxup queen xxup isabel . xxmaj she hath good leave . 
+▁ xxmaj exeunt all but the xxup king , xxup katherine , and xxup alice 
+▁ xxup king xxup henry . xxmaj fair xxmaj katherine , and most fair , 
+▁ xxmaj will you vouchsafe to teach a soldier terms 
+▁ xxmaj such as will enter at a lady 's ear , 
+▁ xxmaj and plead his love - suit to her gentle heart ? 
+▁ xxup katherine . xxmaj your xxmaj majesty shall mock me ; i can not speak your xxmaj england . 
+▁ xxup king xxup henry . o fair xxmaj katherine , if you will love me soundly with your 
+▁ xxmaj french heart , i will be glad to hear you confess it brokenly with 
+▁ your xxmaj english tongue . xxmaj do you like me , xxmaj kate ? 
+▁ xxup katherine . xxmaj pardonnez - moi , i can not tell vat is like me . 
+▁ xxup king xxup henry . xxmaj an angel is like you , xxmaj kate , and you are like an angel . 
+▁ xxup katherine . xxmaj que dit - il ? que je suis semblable a les anges ? 
+▁ xxup alice . xxmaj oui , vraiment , sauf votre grace , ainsi dit - il . 
+▁ xxup king xxup henry . i said so , dear xxmaj katherine , and i must not blush to 
+▁ affirm it . 
+▁ xxup katherine . o bon xxmaj dieu ! les langues des hommes sont pleines de 
+▁ tromperies . 
+▁ xxup king xxup henry . xxmaj what says she , fair one ? that the tongues of men are 
+▁ full of deceits ? 
+▁ xxup alice . xxmaj oui , dat de tongues of de mans is be full of deceits- dat is 
+▁ de xxmaj princess . 
+▁ xxup king xxup henry . xxmaj the xxmaj princess is the better xxmaj english - woman . xxup i ' faith , 
+▁ xxmaj kate , my wooing is fit for thy understanding : i am glad thou 
+▁ canst speak no better xxmaj english ; for if thou couldst , thou wouldst 
+▁ find me such a plain king that thou wouldst think i had sold my 
+▁ farm to buy my crown . i know no ways to mince it in love , but 
+▁ directly to say ' i love you . ' xxmaj then , if you urge me farther than 
+▁ to say ' do you in faith ? ' i wear out my suit . xxmaj give me your 
+▁ answer ; i ' faith , do ; and so clap hands and a bargain . xxmaj how say 
+▁ you , lady ? 
+▁ xxup katherine . xxmaj sauf votre honneur , me understand well . 
+▁ xxup king xxup henry . xxmaj marry , if you would put me to verses or to dance for 
+▁ your sake , xxmaj kate , why you undid me ; for the one i have neither 
+▁ words nor measure , and for the other i have no strength in 
+▁ measure , yet a reasonable measure in strength . xxmaj if i could win a 
+▁ lady at leap - frog , or by vaulting into my saddle with my armour 
+▁ on my back , under the correction of bragging be it spoken , i 
+▁ should quickly leap into wife . xxmaj or if i might buffet for my love , 
+▁ or bound my horse for her favours , i could lay on like a butcher , 
+▁ and sit like a jack - an - apes , never off . xxmaj but , before xxmaj god , xxmaj kate , i 
+▁ can not look greenly , nor gasp out my cloquence , nor i have no 
+▁ cunning in protestation ; only downright oaths , which i never use 
+▁ till urg'd , nor never break for urging . xxmaj if thou canst love a 
+▁ fellow of this temper , xxmaj kate , whose face is not worth sunburning , 
+▁ that never looks in his glass for love of anything he sees there , 
+▁ let thine eye be thy cook . i speak to thee plain soldier . xxmaj if thou 
+▁ canst love me for this , take me ; if not , to say to thee that i 
+▁ shall die is true- but for thy love , by the xxmaj lord , no ; yet i love 
+▁ thee too . xxmaj and while thou liv'st , dear xxmaj kate , take a fellow of 
+▁ plain and uncoined constancy ; for he perforce must do thee right , 
+▁ because he hath not the gift to woo in other places ; for these 
+▁ fellows of infinite tongue , that can rhyme themselves into 
+▁ ladies ' favours , they do always reason themselves out again . 
+▁ xxmaj what ! a speaker is but a prater : a rhyme is but a ballad . a good 
+▁ leg will fall ; a straight back will stoop ; a black beard will 
+▁ turn white ; a curl'd pate will grow bald ; a fair face will 
+▁ wither ; a full eye will wax hollow . xxmaj but a good heart , xxmaj kate , is 
+▁ the sun and the moon ; or , rather , the sun , and not the moon- for 
+▁ it shines bright and never changes , but keeps his course truly . 
+▁ xxmaj if thou would have such a one , take me ; and take me , take a 
+▁ soldier ; take a soldier , take a king . xxmaj and what say'st thou , then , 
+▁ to my love ? xxmaj speak , my fair , and fairly , i pray thee . 
+▁ xxup katherine . xxmaj is it possible dat i sould love de enemy of xxmaj france ? 
+▁ xxup king xxup henry . xxmaj no , it is not possible you should love the enemy of 
+▁ xxmaj france , xxmaj kate , but in loving me you should love the friend of 
+▁ xxmaj france ; for i love xxmaj france so well that i will not part with a 
+▁ village of it ; i will have it all mine . xxmaj and , xxmaj kate , when xxmaj france is 
+▁ mine and i am yours , then yours is xxmaj france and you are mine . 
+▁ xxup katherine . i can not tell vat is dat . 
+▁ xxup king xxup henry . xxmaj no , xxmaj kate ? i will tell thee in xxmaj french , which i am sure 
+▁ will hang upon my tongue like a new - married wife about her 
+▁ husband 's neck , hardly to be shook off . xxmaj je quand sur le 
+▁ possession de xxmaj france , et quand vous avez le possession de moi- 
+▁ let me see , what then ? xxmaj saint xxmaj denis be my speed!- donc votre est 
+▁ xxmaj france et vous etes mienne . xxmaj it is as easy for me , xxmaj kate , to 
+▁ conquer the kingdom as to speak so much more xxmaj french : i shall 
+▁ never move thee in xxmaj french , unless it be to laugh at me . 
+▁ xxup katherine . xxmaj sauf votre honneur , le xxmaj francais que vous parlez , il est 
+▁ meilleur que l'anglais lequel je parle . 
+▁ xxup king xxup henry . xxmaj no , faith , is't not , xxmaj kate ; but thy speaking of my 
+▁ tongue , and i thine , most truly falsely , must needs be granted to 
+▁ be much at one . xxmaj but , xxmaj kate , dost thou understand thus much 
+▁ xxmaj english- xxmaj canst thou love me ? 
+▁ xxup katherine . i can not tell . 
+▁ xxup king xxup henry . xxmaj can any of your neighbours tell , xxmaj kate ? xxmaj i 'll ask them . 
+▁ xxmaj come , i know thou lovest me ; and at night , when you come into 
+▁ your closet , you 'll question this gentlewoman about me ; and i 
+▁ know , xxmaj kate , you will to her dispraise those parts in me that you 
+▁ love with your heart . xxmaj but , good xxmaj kate , mock me mercifully ; the 
+▁ rather , gentle xxmaj princess , because i love thee cruelly . xxmaj if ever 
+▁ thou beest mine , xxmaj kate , as i have a saving faith within me tells 
+▁ me thou shalt , i get thee with scambling , and thou must therefore 
+▁ needs prove a good soldier - breeder . xxmaj shall not thou and xxup i , between 
+▁ xxmaj saint xxmaj denis and xxmaj saint xxmaj george , compound a boy , half xxmaj french , half 
+▁ xxmaj english , that shall go to xxmaj constantinople and take the xxmaj turk by the 
+▁ beard ? xxmaj shall we not ? xxmaj what say'st thou , my fair flower - de - luce ? 
+▁ xxup katherine . i do not know dat . 
+▁ xxup king xxup henry . xxmaj no : ' tis hereafter to know , but now to promise ; do but 
+▁ now promise , xxmaj kate , you will endeavour for your xxmaj french part of 
+▁ such a boy ; and for my xxmaj english moiety take the word of a king and 
+▁ a bachelor . xxmaj how answer you , la plus belle xxmaj katherine du monde , mon 
+▁ tres cher et divin deesse ? 
+▁ xxup katherine . xxmaj your xxmaj majestee ave fausse xxmaj french enough to deceive de 
+▁ most sage damoiselle dat is en xxmaj france . 
+▁ xxup king xxup henry . xxmaj now , fie upon my false xxmaj french ! xxmaj by mine honour , in true 
+▁ xxmaj english , i love thee , xxmaj kate ; by which honour i dare not swear thou 
+▁ lovest me ; yet my blood begins to flatter me that thou dost , 
+▁ notwithstanding the poor and untempering effect of my visage . xxmaj now 
+▁ beshrew my father 's ambition ! xxmaj he was thinking of civil wars when 
+▁ he got me ; therefore was i created with a stubborn outside , with 
+▁ an aspect of iron , that when i come to woo ladies i fright them . 
+▁ xxmaj but , in faith , xxmaj kate , the elder i wax , the better i shall appear : 
+▁ my comfort is , that old age , that in layer - up of beauty , can do 
+▁ no more spoil upon my face ; thou hast me , if thou hast me , at the 
+▁ worst ; and thou shalt wear me , if thou wear me , better and 
+▁ better . xxmaj and therefore tell me , most fair xxmaj katherine , will you have 
+▁ me ? xxmaj put off your maiden blushes ; avouch the thoughts of your 
+▁ heart with the looks of an empress ; take me by the hand and say 
+▁ ' harry of xxmaj england , i am thine . ' xxmaj which word thou shalt no sooner 
+▁ bless mine ear withal but i will tell thee aloud ' england is 
+▁ thine , xxmaj ireland is thine , xxmaj france is thine , and xxmaj henry xxmaj plantagenet 
+▁ is thine ' ; who , though i speak it before his face , if he be not 
+▁ fellow with the best king , thou shalt find the best king of good 
+▁ fellows . xxmaj come , your answer in broken music- for thy voice is 
+▁ music and thy xxmaj english broken ; therefore , xxmaj queen of all , xxmaj katherine , 
+▁ break thy mind to me in broken xxmaj english , wilt thou have me ? 
+▁ xxup katherine . xxmaj dat is as it shall please de roi mon pere . 
+▁ xxup king xxup henry . xxmaj nay , it will please him well , xxmaj kate- it shall please 
+▁ him , xxmaj kate . 
+▁ xxup katherine . xxmaj den it sall also content me . 
+▁ xxup king xxup henry . xxmaj upon that i kiss your hand , and i can you my queen . 
+▁ xxup katherine . xxmaj laissez , mon seigneur , laissez , laissez ! xxmaj ma foi , je ne 
+▁ veux point que vous abaissiez votre grandeur en baisant la main 
+▁ d'une , notre seigneur , indigne serviteur ; excusez - moi , je vous 
+▁ supplie , mon tres puissant seigneur . 
+▁ xxup king xxup henry . xxmaj then i will kiss your lips , xxmaj kate . 
+▁ xxup katherine . xxmaj les dames et demoiselles pour etre baisees devant leur 
+▁ noces , il n'est pas la coutume de xxmaj france . 
+▁ xxup king xxup henry . xxmaj madame my interpreter , what says she ? 
+▁ xxup alice . xxmaj dat it is not be de fashion pour le ladies of xxmaj france- i 
+▁ can not tell vat is baiser en xxmaj anglish . 
+▁ xxup king xxup henry . xxmaj to kiss . 
+▁ xxup alice . xxmaj your xxmaj majestee entendre bettre que moi . 
+▁ xxup king xxup henry . xxmaj it is not a fashion for the maids in xxmaj france to kiss 
+▁ before they are married , would she say ? 
+▁ xxup alice . xxmaj oui , vraiment . 
+▁ xxup king xxup henry . o xxmaj kate , nice customs curtsy to great kings . xxmaj dear xxmaj kate , 
+▁ you and i can not be confin'd within the weak list of a country 's 
+▁ fashion ; we are the makers of manners , xxmaj kate ; and the liberty that 
+▁ follows our places stops the mouth of all find - faults- as i will 
+▁ do yours for upholding the nice fashion of your country in 
+▁ denying me a kiss ; therefore , patiently and yielding . [ kissing 
+▁ her ] xxmaj you have witchcraft in your lips , xxmaj kate : there is more 
+▁ eloquence in a sugar touch of them than in the tongues of the 
+▁ xxmaj french council ; and they should sooner persuade xxmaj henry of xxmaj england 
+▁ than a general petition of monarchs . xxmaj here comes your father . 
+
+▁ xxmaj enter the xxup french xxup power and the xxup english xxup lords 
+
+▁ xxup burgundy . xxmaj god save your xxmaj majesty ! xxmaj my royal cousin , 
+▁ xxmaj teach you our princess xxmaj english ? 
+▁ xxup king xxup henry . i would have her learn , my fair cousin , how perfectly i 
+▁ love her ; and that is good xxmaj english . 
+▁ xxup burgundy . xxmaj is she not apt ? 
+▁ xxup king xxup henry . xxmaj our tongue is rough , coz , and my condition is not 
+▁ smooth ; so that , having neither the voice nor the heart of 
+▁ flattery about me , i can not so conjure up the spirit of love in 
+▁ her that he will appear in his true likeness . 
+▁ xxup burgundy . xxmaj pardon the frankness of my mirth , if i answer you for 
+▁ that . xxmaj if you would conjure in her , you must make a circle ; if

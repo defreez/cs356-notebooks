@@ -1,0 +1,1000 @@
+xxbos for their bareness , i am surd they never learn'd that of me . 
+▁ xxmaj prince . xxmaj no , xxmaj i 'll be sworn , unless you call three fingers on the 
+▁ ribs bare . xxmaj but , sirrah , make haste . xxmaj percy 's already in the 
+▁ field . 
+ xxmaj exit . 
+▁ xxmaj fal . xxmaj what , is the xxmaj king encamp'd ? 
+▁ xxmaj west . xxmaj he is , xxmaj sir xxmaj john . i fear we shall stay too long . 
+▁ [ exit . ] 
+▁ xxmaj fal . xxmaj well , 
+▁ xxmaj to the latter end of a fray and the beginning of a feast 
+▁ xxmaj fits a dull fighter and a keen guest . xxmaj exit . 
+
+
+
+
+ xxmaj scene xxrep 3 i . 
+ xxmaj the rebel camp near xxmaj shrewsbury . 
+
+ xxmaj enter xxmaj hotspur , xxmaj worcester , xxmaj douglas , xxmaj vernon . 
+
+▁ xxmaj hot . xxmaj we 'll fight with him to - night . 
+▁ xxmaj wor . xxmaj it may not be . 
+▁ xxmaj doug . xxmaj you give him then advantage . 
+▁ xxmaj ver . xxmaj not a whit . 
+▁ xxmaj hot . xxmaj why say you so ? xxmaj looks he no for supply ? 
+▁ xxmaj ver . xxmaj so do we . 
+▁ xxmaj hot . xxmaj his is certain , ours 's doubtful . 
+▁ xxmaj wor . xxmaj good cousin , be advis'd ; stir not to - night . 
+▁ xxmaj ver . xxmaj do not , my lord . 
+▁ xxmaj doug . xxmaj you do not counsel well . 
+▁ xxmaj you speak it out of fear and cold heart . 
+▁ xxmaj ver . xxmaj do me no slander , xxmaj douglas . xxmaj by my life- 
+▁ xxmaj and i dare well maintain it with my life- 
+▁ xxmaj if well - respected honour bid me on 
+▁ i hold as little counsel with weak fear 
+▁ xxmaj as you , my lord , or any xxmaj scot that this day lives . 
+▁ xxmaj let it be seen to - morrow in the battle 
+▁ xxmaj which of us fears . 
+▁ xxmaj doug . xxmaj yea , or to - night . 
+▁ xxmaj ver . xxmaj content . 
+▁ xxmaj hot . xxmaj to - night , say xxup i. 
+▁ xxmaj come , come , it may not be . i wonder much , 
+▁ xxmaj being men of such great leading as you are , 
+▁ xxmaj that you foresee not what impediments 
+▁ xxmaj drag back our expedition . xxmaj certain horse 
+▁ xxmaj of my cousin xxmaj vernon 's are not yet come up . 
+▁ xxmaj your uncle xxmaj worcester 's horse came but to - day ; 
+▁ xxmaj and now their pride and mettle is asleep , 
+▁ xxmaj their courage with hard labour tame and dull , 
+▁ xxmaj that not a horse is half the half of himself . 
+▁ xxmaj hot . xxmaj so are the horses of the enemy , 
+▁ xxmaj in general journey - bated and brought low . 
+▁ xxmaj the better part of ours are full of rest . 
+▁ xxmaj wor . xxmaj the number of the xxmaj king exceedeth ours . 
+▁ xxmaj for xxmaj god 's sake , cousin , stay till all come in . 
+
+▁ xxmaj the trumpet sounds a parley . 
+
+▁ xxmaj enter xxmaj sir xxmaj walter xxmaj blunt . 
+
+▁ xxmaj blunt . i come with gracious offers from the xxmaj king , 
+▁ xxmaj if you vouchsafe me hearing and respect . 
+▁ xxmaj hot . xxmaj welcome , xxmaj sir xxmaj walter xxmaj blunt , and would to xxmaj god 
+▁ xxmaj you were of our determination ! 
+▁ xxmaj some of us love you well ; and even those some 
+▁ xxmaj envy your great deservings and good name , 
+▁ xxmaj because you are not of our quality , 
+▁ xxmaj but stand against us like an enemy . 
+▁ xxmaj blunt . xxmaj and xxmaj god defend but still i should stand so , 
+▁ xxmaj so long as out of limit and true rule 
+▁ xxmaj you stand against anointed majesty ! 
+▁ xxmaj but to my charge . xxmaj the xxmaj king hath sent to know 
+▁ xxmaj the nature of your griefs ; and whereupon 
+▁ xxmaj you conjure from the breast of civil peace 
+▁ xxmaj such bold hostility , teaching his duteous land 
+▁ xxmaj audacious cruelty . xxmaj if that the xxmaj king 
+▁ xxmaj have any way your good deserts forgot , 
+▁ xxmaj which he confesseth to be manifold , 
+▁ xxmaj he bids you name your griefs , and with all speed 
+▁ xxmaj you shall have your desires with interest , 
+▁ xxmaj and pardon absolute for yourself and these 
+▁ xxmaj herein misled by your suggestion . 
+▁ xxmaj hot . xxmaj the xxmaj king is kind ; and well we know the xxmaj king 
+▁ xxmaj knows at what time to promise , when to pay . 
+▁ xxmaj my father and my uncle and myself 
+▁ xxmaj did give him that same royalty he wears ; 
+▁ xxmaj and when he was not six - and - twenty strong , 
+▁ xxmaj sick in the world 's regard , wretched and low , 
+▁ a poor unminded outlaw sneaking home , 
+▁ xxmaj my father gave him welcome to the shore ; 
+▁ xxmaj and when he heard him swear and vow to xxmaj god 
+▁ xxmaj he came but to be xxmaj duke of xxmaj lancaster , 
+▁ xxmaj to sue his livery and beg his peace , 
+▁ xxmaj with tears of innocency and terms of zeal , 
+▁ xxmaj my father , in kind heart and pity mov'd , 
+▁ xxmaj swore him assistance , and performed it too . 
+▁ xxmaj now , when the lords and barons of the realm 
+▁ xxmaj perceiv'd xxmaj northumberland did lean to him , 
+▁ xxmaj the more and less came in with cap and knee ; 
+▁ xxmaj met him on boroughs , cities , villages , 
+▁ xxmaj attended him on bridges , stood in lanes , 
+▁ xxmaj laid gifts before him , proffer'd him their oaths , 
+▁ xxmaj give him their heirs as pages , followed him 
+▁ xxmaj even at the heels in golden multitudes . 
+▁ xxmaj he presently , as greatness knows itself , 
+▁ xxmaj steps me a little higher than his vow 
+▁ xxmaj made to my father , while his blood was poor , 
+▁ xxmaj upon the naked shore at xxmaj ravenspurgh ; 
+▁ xxmaj and now , forsooth , takes on him to reform 
+▁ xxmaj some certain edicts and some strait decrees 
+▁ xxmaj that lie too heavy on the commonwealth ; 
+▁ xxmaj cries out upon abuses , seems to weep 
+▁ xxmaj over his country 's wrongs ; and by this face , 
+▁ xxmaj this seeming brow of justice , did he win 
+▁ xxmaj the hearts of all that he did angle for ; 
+▁ xxmaj proceeded further- cut me off the heads 
+▁ xxmaj of all the favourites that the absent xxmaj king 
+▁ xxmaj in deputation left behind him here 
+▁ xxmaj when he was personal in the xxmaj irish war . 
+▁ xxmaj but . xxmaj tut ! i came not to hear this . 
+▁ xxmaj hot . xxmaj then to the point . 
+▁ xxmaj in short time after lie depos'd the xxmaj king ; 
+▁ xxmaj soon after that depriv'd him of his life ; 
+▁ xxmaj and in the neck of that task'd the whole state ; 
+▁ xxmaj to make that worse , suff'red his kinsman xxmaj march 
+▁ ( who is , if every owner were well placid , 
+▁ xxmaj indeed his king ) to be engag'd in xxmaj wales , 
+▁ xxmaj there without ransom to lie forfeited ; 
+▁ xxmaj disgrac'd me in my happy victories , 
+▁ xxmaj sought to entrap me by intelligence ; 
+▁ xxmaj rated mine uncle from the xxmaj council board ; 
+▁ xxmaj in rage dismiss'd my father from the court ; 
+▁ xxmaj broke an oath on oath , committed wrong on wrong ; 
+▁ xxmaj and in conclusion drove us to seek out 
+▁ xxmaj this head of safety , and withal to pry 
+▁ xxmaj into his title , the which we find 
+▁ xxmaj too indirect for long continuance . 
+▁ xxmaj blunt . xxmaj shall i return this answer to the xxmaj king ? 
+▁ xxmaj hot . xxmaj not so , xxmaj sir xxmaj walter . xxmaj we 'll withdraw awhile . 
+▁ xxmaj go to the xxmaj king ; and let there be impawn'd 
+▁ xxmaj some surety for a safe return again , 
+▁ xxmaj and xxmaj in the morning early shall mine uncle 
+▁ xxmaj bring him our purposes ; and so farewell . 
+▁ xxmaj blunt . i would you would accept of grace and love . 
+▁ xxmaj hot . xxmaj and may be so we shall . 
+▁ xxmaj blunt . xxmaj pray xxmaj god you do . 
+▁ xxmaj exeunt . 
+
+
+
+
+ xxmaj scene xxup iv . 
+ xxmaj york . xxmaj the xxmaj archbishop 's xxmaj palace . 
+
+ xxmaj enter the xxmaj archbishop of xxmaj york and xxmaj sir xxmaj michael . 
+
+▁ xxmaj arch . xxmaj hie , good xxmaj sir xxmaj michael ; bear this sealed brief 
+▁ xxmaj with winged haste to the xxmaj lord xxmaj marshal ; 
+▁ xxmaj this to my cousin xxmaj scroop ; and all the rest 
+▁ xxmaj to whom they are directed . xxmaj if you knew 
+▁ xxmaj how much they do import , you would make haste . 
+▁ xxmaj sir xxup m. xxmaj my good lord , 
+▁ i guess their tenour . 
+▁ xxmaj arch . xxmaj like enough you do . 
+▁ xxmaj to - morrow , good xxmaj sir xxmaj michael , is a day 
+▁ xxmaj wherein the fortune of ten thousand men 
+▁ xxmaj must bide the touch ; for , sir , at xxmaj shrewsbury , 
+▁ xxmaj as i am truly given to understand , 
+▁ xxmaj the xxmaj king with mighty and quick - raised power 
+▁ xxmaj meets with xxmaj lord xxmaj harry ; and i fear , xxmaj sir xxmaj michael , 
+▁ xxmaj what with the sickness of xxmaj northumberland , 
+▁ xxmaj whose power was in the first proportion , 
+▁ xxmaj and what with xxmaj owen xxmaj glendower 's absence thence , 
+▁ xxmaj who with them was a rated sinew too 
+▁ xxmaj and comes not in , overrul'd by prophecies- 
+▁ i fear the power of xxmaj percy is too weak 
+▁ xxmaj to wage an instant trial with the xxmaj king . 
+▁ xxmaj sir xxup m. xxmaj why , my good lord , you need not fear ; 
+▁ xxmaj there is xxmaj douglas and xxmaj lord xxmaj mortimer . 
+▁ xxmaj arch . xxmaj no , xxmaj mortimer is not there . 
+▁ xxmaj sir xxup m. xxmaj but there is xxmaj mordake , xxmaj vernon , xxmaj lord xxmaj harry xxmaj percy , 
+▁ xxmaj and there is my xxmaj lord of xxmaj worcester , and a head 
+▁ xxmaj of gallant warriors , noble gentlemen . 
+▁ xxmaj arch . xxmaj and so there is ; but yet the xxmaj king hath drawn 
+▁ xxmaj the special head of all the land together- 
+▁ xxmaj the xxmaj prince of xxmaj wales , xxmaj lord xxmaj john of xxmaj lancaster , 
+▁ xxmaj the noble xxmaj westmoreland and warlike xxmaj blunt , 
+▁ xxmaj and many moe corrivals and dear men 
+▁ xxmaj of estimation and command in arms . 
+▁ xxmaj sir xxup m. xxmaj doubt not , my lord , they shall be well oppos'd . 
+▁ xxmaj arch . i hope no less , yet needful ' tis to fear ; 
+▁ xxmaj and , to prevent the worst , xxmaj sir xxmaj michael , speed . 
+▁ xxmaj for if xxmaj lord xxmaj percy thrive not , ere the xxmaj king 
+▁ xxmaj dismiss his power , he means to visit us , 
+▁ xxmaj for he hath heard of our confederacy , 
+▁ xxmaj and ' tis but wisdom to make strong against him . 
+▁ xxmaj therefore make haste . i must go write again 
+▁ xxmaj to other friends ; and so farewell , xxmaj sir xxmaj michael . 
+▁ xxmaj exeunt . 
+
+
+
+
+ < < this xxup electronic xxup version xxup of xxup the xxup complete xxup works xxup of xxup william 
+ xxup shakespeare xxup is xxup copyright 1990 - 1993 xxup by xxup world xxup library , xxup inc . , xxup and xxup is 
+ xxup provided xxup by xxup project xxup gutenberg xxup etext xxup of xxup illinois xxup benedictine xxup college 
+ xxup with xxup permission . xxup electronic xxup and xxup machine xxup readable xxup copies xxup may xxup be 
+ xxup distributed xxup so xxup long xxup as xxup such xxup copies ( 1 ) xxup are xxup for xxup your xxup or xxup others 
+ xxup personal xxup use xxup only , xxup and ( 2 ) xxup are xxup not xxup distributed xxup or xxup used 
+ xxup commercially . xxup prohibited xxup commercial xxup distribution xxup includes xxup by xxup any 
+ xxup service xxup that xxup charges xxup for xxup download xxup time xxup or xxup for xxup membership . > > 
+
+
+
+ xxup act xxup v. xxmaj scene xxup i. 
+ xxmaj the xxmaj king 's camp near xxmaj shrewsbury . 
+
+ xxmaj enter the xxmaj king , xxmaj prince of xxmaj wales , xxmaj lord xxmaj john of xxmaj lancaster , xxmaj sir xxmaj walter xxmaj blunt , 
+ xxmaj falstaff . 
+
+▁ xxmaj king . xxmaj how bloodily the sun begins to peer 
+▁ xxmaj above yon busky hill ! xxmaj the day looks pale 
+▁ xxmaj at his distemp'rature . 
+▁ xxmaj prince . xxmaj the southern wind 
+▁ xxmaj doth play the trumpet to his purposes 
+▁ xxmaj and by his hollow whistling in the leaves 
+▁ xxmaj foretells a tempest and a blust'ring day . 
+▁ xxmaj king . xxmaj theft with the losers let it sympathize , 
+▁ xxmaj for nothing can seem foul to those that win . 
+
+▁ xxmaj the trumpet sounds . xxmaj enter xxmaj worcester [ and xxmaj vernon ] . 
+
+▁ xxmaj how , now , my xxmaj lord of xxmaj worcester ? ' tis not well 
+▁ xxmaj that you and i should meet upon such terms 
+▁ xxmaj as now we meet . xxmaj you have deceiv'd our trust 
+▁ xxmaj and made us doff our easy robes of peace 
+▁ xxmaj to crush our old limbs in ungentle steel . 
+▁ xxmaj this is not well , my lord ; this is not well . 
+▁ xxmaj what say you to it ? xxmaj will you again unknit 
+▁ xxmaj this churlish knot of all - abhorred war , 
+▁ xxmaj and move in that obedient orb again 
+▁ xxmaj where you did give a fair and natural light , 
+▁ xxmaj and be no more an exhal'd meteor , 
+▁ a prodigy of fear , and a portent 
+▁ xxmaj of broached mischief to the unborn times ? 
+▁ xxmaj wor . xxmaj hear me , my liege . 
+▁ xxmaj for mine own part , i could be well content 
+▁ xxmaj to entertain the lag - end of my life 
+▁ xxmaj with quiet hours ; for i do protest 
+▁ i have not sought the day of this dislike . 
+▁ xxmaj king . xxmaj you have not sought it ! xxmaj how comes it then , 
+▁ xxmaj fal . xxmaj rebellion lay in his way , and he found it . 
+▁ xxmaj prince . xxmaj peace , chewet , peace ! 
+▁ xxmaj wor . xxmaj it pleas'd your xxmaj majesty to turn your looks 
+▁ xxmaj of favour from myself and all our house ; 
+▁ xxmaj and yet i must remember you , my lord , 
+▁ xxmaj we were the first and dearest of your friends . 
+▁ xxmaj for you my staff of office did i break 
+▁ xxmaj in xxmaj richard 's time , and posted day and night 
+▁ xxmaj to meet you on the way and kiss your hand 
+▁ xxmaj when yet you were in place and in account 
+▁ xxmaj nothing so strong and fortunate as xxup i. 
+▁ xxmaj it was myself , my brother , and his son 
+▁ xxmaj that brought you home and boldly did outdare 
+▁ xxmaj the dangers of the time . xxmaj you swore to us , 
+▁ xxmaj and you did swear that oath at xxmaj doncaster , 
+▁ xxmaj that you did nothing purpose ' gainst the state , 
+▁ xxmaj nor claim no further than your new - fall'n right , 
+▁ xxmaj the seat of xxmaj gaunt , dukedom of xxmaj lancaster . 
+▁ xxmaj to this we swore our aid . xxmaj but in short space 
+▁ xxmaj it it rain'd down fortune show'ring on your head , 
+▁ xxmaj and such a flood of greatness fell on you- 
+▁ xxmaj what with our help , what with the absent xxmaj king , 
+▁ xxmaj what with the injuries of a wanton time , 
+▁ xxmaj the seeming sufferances that you had borne , 
+▁ xxmaj and the contrarious winds that held the xxmaj king 
+▁ xxmaj so long in his unlucky xxmaj irish wars 
+▁ xxmaj that all in xxmaj england did repute him dead- 
+▁ xxmaj and from this swarm of fair advantages 
+▁ xxmaj you took occasion to be quickly woo'd 
+▁ xxmaj to gripe the general sway into your hand ; 
+▁ xxmaj forgot your oath to us at xxmaj doncaster ; 
+▁ xxmaj and , being fed by us , you us'd us so 
+▁ xxmaj as that ungentle gull , the cuckoo 's bird , 
+▁ xxmaj useth the sparrow- did oppress our nest ; 
+▁ xxmaj grew , by our feeding to so great a bulk 
+▁ xxmaj that even our love thirst not come near your sight 
+▁ xxmaj for fear of swallowing ; but with nimble wing 
+▁ xxmaj we were enforc'd for safety sake to fly 
+▁ xxmaj out of your sight and raise this present head ; 
+▁ xxmaj whereby we stand opposed by such means 
+▁ xxmaj as you yourself have forg'd against yourself 
+▁ xxmaj by unkind usage , dangerous countenance , 
+▁ xxmaj and violation of all faith and troth 
+▁ xxmaj sworn to tis in your younger enterprise . 
+▁ xxmaj king . xxmaj these things , indeed , you have articulate , 
+▁ xxmaj proclaim'd at market crosses , read in churches , 
+▁ xxmaj to face the garment of rebellion 
+▁ xxmaj with some fine colour that may please the eye 
+▁ xxmaj of fickle changelings and poor discontents , 
+▁ xxmaj which gape and rub the elbow at the news 
+▁ xxmaj of hurlyburly innovation . 
+▁ xxmaj and never yet did insurrection want 
+▁ xxmaj such water colours to impaint his cause , 
+▁ xxmaj nor moody beggars , starving for a time 
+▁ xxmaj of pell - mell havoc and confusion . 
+▁ xxmaj prince . xxmaj in both our armies there is many a soul 
+▁ xxmaj shall pay full dearly for this encounter , 
+▁ xxmaj if once they join in trial . xxmaj tell your nephew 
+▁ xxmaj the xxmaj prince of xxmaj wales doth join with all the world 
+▁ xxmaj in praise of xxmaj henry xxmaj percy . xxmaj by my hopes , 
+▁ xxmaj this present enterprise set off his head , 
+▁ i do not think a braver gentleman , 
+▁ xxmaj more active - valiant or more valiant - young , 
+▁ xxmaj more daring or more bold , is now alive 
+▁ xxmaj to grace this latter age with noble deeds . 
+▁ xxmaj for my part , i may speak it to my shame , 
+▁ i have a truant been to chivalry ; 
+▁ xxmaj and so i hear he doth account me too . 
+▁ xxmaj yet this before my father 's xxmaj majesty- 
+▁ i am content that he shall take the odds 
+▁ xxmaj of his great name and estimation , 
+▁ xxmaj and will to save the blood on either side , 
+▁ xxmaj try fortune with him in a single fight . 
+▁ xxmaj king . xxmaj and , xxmaj prince of xxmaj wales , so dare we venture thee , 
+▁ xxmaj albeit considerations infinite 
+▁ xxmaj do make against it . xxmaj no , good xxmaj worcester , no ! 
+▁ xxmaj we love our people well ; even those we love 
+▁ xxmaj that are misled upon your cousin 's part ; 
+▁ xxmaj and , will they take the offer of our grace , 
+▁ xxmaj both he , and they , and you , yea , every man 
+▁ xxmaj shall be my friend again , and xxmaj i 'll be his . 
+▁ xxmaj so tell your cousin , and bring me word 
+▁ xxmaj what he will do . xxmaj but if he will not yield , 
+▁ xxmaj rebuke and dread correction wait on us , 
+▁ xxmaj and they shall do their office . xxmaj so be gone . 
+▁ xxmaj we will not now be troubled with reply . 
+▁ xxmaj we offer fair ; take it advisedly . 
+▁ xxmaj exit xxmaj worcester [ with xxmaj vernon ] 
+▁ xxmaj prince . xxmaj it will not be accepted , on my life . 
+▁ xxmaj the xxmaj douglas and the xxmaj hotspur both together 
+▁ xxmaj are confident against the world in arms . 
+▁ xxmaj king . xxmaj hence , therefore , every leader to his charge ; 
+▁ xxmaj for , on their answer , will we set on them , 
+▁ xxmaj and xxmaj god befriend us as our cause is just ! 
+▁ xxmaj exeunt . xxmaj manent xxmaj prince , xxmaj falstaff . 
+▁ xxmaj fal . xxmaj hal , if thou see me down in the battle and bestride me , so ! 
+▁ ' tis a point of friendship . 
+▁ xxmaj prince . xxmaj nothing but a xxmaj colossus can do thee that friendship . 
+▁ xxmaj say thy prayers , and farewell . 
+▁ xxmaj fal . i would ' twere bedtime , xxmaj hal , and all well . 
+▁ xxmaj prince . xxmaj why , thou owest xxmaj god a death . 
+ xxmaj exit . 
+▁ xxmaj fal . ' tis not due yet . i would be loath to pay him before his day . 
+▁ xxmaj what need i be so forward with him that calls not on me ? xxmaj well , 
+▁ ' tis no matter ; honour pricks me on . xxmaj yea , but how if honour prick 
+▁ me off when i come on ? xxmaj how then ? xxmaj can honor set to a leg ? xxmaj no . xxmaj or 
+▁ an arm ? xxmaj no . xxmaj or take away the grief of a wound ? xxmaj no . xxmaj honour hath no 
+▁ skill in surgery then ? xxmaj no . xxmaj what is honour ? a word . xxmaj what is that 
+▁ word honour ? xxmaj air . a trim reckoning ! xxmaj who hath it ? xxmaj he that died a 
+▁ xxmaj wednesday . xxmaj doth he feel it ? xxmaj no . xxmaj doth be bear it ? xxmaj no . ' tis 
+▁ insensible then ? xxmaj yea , to the dead . xxmaj but will it not live with the 
+▁ living ? xxmaj no . xxmaj why ? xxmaj detraction will not suffer it . xxmaj therefore xxmaj i 'll 
+▁ none of it . xxmaj honour is a mere scutcheon- and so ends my catechism . 
+ xxmaj exit . 
+
+
+
+
+ xxmaj scene xxup ii . 
+ xxmaj the rebel camp . 
+
+ xxmaj enter xxmaj worcester and xxmaj sir xxmaj richard xxmaj vernon . 
+
+▁ xxmaj wor . o no , my nephew must not know , xxmaj sir xxmaj richard , 
+▁ xxmaj the liberal and kind offer of the xxmaj king . 
+▁ xxmaj ver . ' twere best he did . 
+▁ xxmaj wor . xxmaj then are we all undone . 
+▁ xxmaj it is not possible , it can not be 
+▁ xxmaj the xxmaj king should keep his word in loving us . 
+▁ xxmaj he will suspect us still and find a time 
+▁ xxmaj to punish this offence in other faults . 
+▁ xxmaj suspicion all our lives shall be stuck full of eyes ; 
+▁ xxmaj for treason is but trusted like the fox 
+▁ xxmaj who , ne'er so tame , so cherish'd and lock'd up , 
+▁ xxmaj will have a wild trick of his ancestors . 
+▁ xxmaj look how we can , or sad or merrily , 
+▁ xxmaj interpretation will misquote our looks , 
+▁ xxmaj and we shall feed like oxen at a stall , 
+▁ xxmaj the better cherish'd , still the nearer death . 
+▁ xxmaj my nephew 's trespass may be well forgot ; 
+▁ xxmaj it hath the excuse of youth and heat of blood , 
+▁ xxmaj and an adopted name of privilege- 
+▁ a hare - brained xxmaj hotspur govern'd by a spleen . 
+▁ xxmaj all his offences live upon my head 
+▁ xxmaj and on his father 's . xxmaj we did train him on ; 
+▁ xxmaj and , his corruption being taken from us , 
+▁ xxmaj we , as the spring of all , shall pay for all . 
+▁ xxmaj therefore , good cousin , let not xxmaj harry know , 
+▁ xxmaj in any case , the offer of the xxmaj king . 
+
+▁ xxmaj enter xxmaj hotspur [ and xxmaj douglas ] . 
+
+▁ xxmaj ver . xxmaj deliver what you will , xxmaj i 'll say ' tis so . 
+▁ xxmaj here comes your cousin . 
+▁ xxmaj hot . xxmaj my uncle is return'd . 
+▁ xxmaj deliver up my xxmaj lord of xxmaj westmoreland . 
+▁ xxmaj uncle , what news ? 
+▁ xxmaj wor . xxmaj the xxmaj king will bid you battle presently . 
+▁ xxmaj doug . xxmaj defy him by the xxmaj lord xxmaj of xxmaj westmoreland . 
+▁ xxmaj hot . xxmaj lord xxmaj douglas , go you and tell him so . 
+▁ xxmaj doug . xxmaj marry , and shall , and very willingly . 
+ xxmaj exit . 
+▁ xxmaj wor . xxmaj there is no seeming mercy in the xxmaj king . 
+▁ xxmaj hot . xxmaj did you beg any , xxmaj god forbid ! 
+▁ xxmaj wor . i told him gently of our grievances , 
+▁ xxmaj of his oath - breaking ; which he mended thus , 
+▁ xxmaj by now forswearing that he is forsworn . 
+▁ xxmaj he calls us rebels , traitors , aid will scourge 
+▁ xxmaj with haughty arms this hateful name in us . 
+
+▁ xxmaj enter xxmaj douglas . 
+
+▁ xxmaj doug . xxmaj arm , gentlemen ! to arms ! for i have thrown 
+▁ a brave defiance in xxmaj king xxmaj henry 's teeth , 
+▁ xxmaj and xxmaj westmoreland , that was engag'd , did bear it ; 
+▁ xxmaj which can not choose but bring him quickly on . 
+▁ xxmaj wor . xxmaj the xxmaj prince of xxmaj wales stepp'd forth before the xxmaj king 
+▁ xxmaj and , nephew , challeng'd you to single fight . 
+▁ xxmaj hot . xxup o , would the quarrel lay upon our heads , 
+▁ xxmaj and that no man might draw short breath to - day 
+▁ xxmaj but i and xxmaj harry xxmaj monmouth ! xxmaj tell me , tell me , 
+▁ xxmaj how show'd his tasking ? xxmaj seem'd it in contempt ? 
+▁ xxmaj no , by my soul . i never in my life 
+▁ xxmaj did hear a challenge urg'd more modestly , 
+▁ xxmaj unless a brother should a brother dare 
+▁ xxmaj to gentle exercise and proof of arms . 
+▁ xxmaj he gave you all the duties of a man ; 
+▁ xxmaj trimm'd up your praises with a princely tongue ; 
+▁ xxmaj spoke your deservings like a chronicle ; 
+▁ xxmaj making you ever better than his praise 
+▁ xxmaj by still dispraising praise valued with you ; 
+▁ xxmaj and , which became him like a prince indeed , 
+▁ xxmaj he made a blushing cital of himself , 
+▁ xxmaj and chid his truant youth with such a grace 
+▁ xxmaj as if lie mast'red there a double spirit 
+▁ xxmaj of teaching and of learning instantly . 
+▁ xxmaj there did he pause ; but let me tell the world , 
+▁ xxmaj if he outlive the envy of this day , 
+▁ xxmaj england did never owe so sweet a hope , 
+▁ xxmaj so much misconstrued in his wantonness . 
+▁ xxmaj hot . xxmaj cousin , i think thou art enamoured 
+▁ xxmaj upon his follies . xxmaj never did i hear 
+▁ xxmaj of any prince so wild a libertine . 
+▁ xxmaj but be he as he will , yet once ere night 
+▁ i will embrace him with a soldier 's arm , 
+▁ xxmaj that he shall shrink under my courtesy . 
+▁ xxmaj arm , arm with speed ! and , fellows , soldiers , friends , 
+▁ xxmaj better consider what you have to do 
+▁ xxmaj than xxup i , that have not well the gift of tongue , 
+▁ xxmaj can lift your blood up with persuasion . 
+
+▁ xxmaj enter a xxmaj messenger . 
+
+▁ xxmaj mess . xxmaj my lord , here are letters for you . 
+▁ xxmaj hot . i can not read them now.- 
+▁ o gentlemen , the time of life is short ! 
+▁ xxmaj to spend that shortness basely were too long 
+▁ xxmaj if life did ride upon a dial 's point , 
+▁ xxmaj still ending at the arrival of an hour . 
+▁ xxmaj an if we live , we live to tread on kings ; 
+▁ xxmaj if die , brave death , when princes die with us ! 
+▁ xxmaj now for our consciences , the arms are fair , 
+▁ xxmaj when the intent of bearing them is just . 
+
+▁ xxmaj enter another xxmaj messenger . 
+
+▁ xxmaj mess . xxmaj my lord , prepare . xxmaj the xxmaj king comes on apace . 
+▁ xxmaj hot . i thank him that he cuts me from my tale , 
+▁ xxmaj for i profess not talking . xxmaj only this- 
+▁ xxmaj let each man do his best ; and here draw i 
+▁ a sword whose temper i intend to stain 
+▁ xxmaj with the best blood that i can meet withal 
+▁ xxmaj in the adventure of this perilous day . 
+▁ xxmaj now , xxmaj esperance ! xxmaj percy ! and set on . 
+▁ xxmaj sound all the lofty instruments of war , 
+▁ xxmaj and by that music let us all embrace ; 
+▁ xxmaj for , heaven to earth , some of us never shall 
+▁ a second time do such a courtesy . 
+▁ xxmaj here they embrace . xxmaj the trumpets sound . 
+▁ [ exeunt . ] 
+
+
+
+
+ xxmaj scene xxrep 3 i . 
+ xxmaj plain between the camps . 
+
+ xxmaj the xxmaj king enters with his xxmaj power . xxmaj alarum to the battle . xxmaj then enter xxmaj douglas 
+ and xxmaj sir xxmaj walter xxmaj blunt . 
+
+▁ xxmaj blunt . xxmaj what is thy name , that in the battle thus 
+▁ xxmaj thou crossest me ? xxmaj what honour dost thou seek 
+▁ xxmaj upon my head ? 
+▁ xxmaj doug . xxmaj know then my name is xxmaj douglas , 
+▁ xxmaj and i do haunt thee in the battle thus 
+▁ xxmaj because some tell me that thou art a king . 
+▁ xxmaj blunt . xxmaj they tell thee true . 
+▁ xxmaj doug . xxmaj the xxmaj lord of xxmaj stafford dear to - day hath bought 
+▁ xxmaj thy likeness ; for instead of thee , xxmaj king xxmaj harry , 
+▁ xxmaj this sword hath ended him . xxmaj so shall it thee , 
+▁ xxmaj unless thou yield thee as my prisoner . 
+▁ xxmaj blunt . i was not born a yielder , thou proud xxmaj scot ; 
+▁ xxmaj and thou shalt find a king that will revenge 
+▁ xxmaj lord xxmaj stafford 's death . 
+
+▁ xxmaj they fight . xxmaj douglas kills xxmaj blunt . xxmaj then enter xxmaj hotspur . 
+
+▁ xxmaj hot . o xxmaj douglas , hadst thou fought at xxmaj holmedon thus , 
+▁ i never had triumph'd upon a xxmaj scot . 
+▁ xxmaj doug . xxmaj all 's done , all 's won . xxmaj here breathless lies the xxmaj king . 
+▁ xxmaj hot . xxmaj where ? 
+▁ xxmaj doug . xxmaj here . 
+▁ xxmaj hot . xxmaj this , xxmaj douglas ? xxmaj no . i know this face full well . 
+▁ a gallant knight he was , his name was xxmaj blunt ; 
+▁ xxmaj semblably furnish'd like the xxmaj king himself . 
+▁ xxmaj doug . a fool go with thy soul , whither it goes ! 
+▁ a borrowed title hast thou bought too dear : 
+▁ xxmaj why didst thou tell me that thou wert a king ? 
+▁ xxmaj hot . xxmaj the xxmaj king hath many marching in his coats . 
+▁ xxmaj doug . xxmaj now , by my sword , i will kill all his coats ; 
+▁ xxmaj i 'll murder all his wardrop , piece by piece , 
+▁ xxmaj until i meet the xxmaj king . 
+▁ xxmaj hot . xxmaj up and away ! 
+▁ xxmaj our soldiers stand full fairly for the day . 
+▁ xxmaj exeunt . 
+▁
+▁ xxmaj alarum . xxmaj enter xxmaj falstaff solus . 
+
+▁ xxmaj fal . xxmaj though i could scape shot - free at xxmaj london , i fear the shot 
+▁ here . xxmaj here 's no scoring but upon the pate . xxmaj soft ! who are you ? 
+▁ xxmaj sir xxmaj walter xxmaj blunt . xxmaj there 's honour for you ! xxmaj here 's no vanity ! i am 
+▁ as hot as molten lead , and as heavy too . xxmaj god keep lead out of me ! 
+▁ i need no more weight than mine own bowels . i have led my 
+▁ rag - of - muffins where they are pepper'd . xxmaj there 's not three of my 
+▁ hundred and fifty left alive ; and they are for the town 's end , to 
+▁ beg during life . xxmaj but who comes here ? 
+
+▁ xxmaj enter the xxmaj prince . 
+
+▁ xxmaj prince . xxmaj what , stand'st thou idle here ? xxmaj lend me thy sword . 
+▁ xxmaj many a nobleman lies stark and stiff 
+▁ xxmaj under the hoofs of vaunting enemies , 
+▁ xxmaj whose deaths are yet unreveng'd . i prithee 
+▁ xxmaj rend me thy sword . 
+▁ xxmaj fal . o xxmaj hal , i prithee give me leave to breathe awhile . xxmaj turk xxmaj gregory 
+▁ never did such deeds in arms as i have done this day . i have paid 
+▁ xxmaj percy ; i have made him sure . 
+▁ xxmaj prince . xxmaj he is indeed , and living to kill thee . 
+▁ i prithee lend me thy sword . 
+▁ xxmaj fal . xxmaj nay , before xxmaj god , xxmaj hal , if xxmaj percy be alive , thou get'st not my 
+▁ sword ; but take my pistol , if thou wilt . 
+▁ xxmaj prince . xxmaj give it me . xxmaj what , is it in the case ? 
+▁ xxmaj fal . xxmaj ay , xxmaj hal . ' tis hot , ' tis hot . xxmaj there 's that will sack a city . 
+
+▁ xxmaj the xxmaj prince draws it out and finds it to he a bottle of sack . 
+
+▁ xxmaj what , is it a time to jest and dally now ? 
+▁ xxmaj he throws the bottle at him . xxmaj exit . 
+▁ xxmaj fal . xxmaj well , if xxmaj percy be alive , xxmaj i 'll pierce him . xxmaj if he do come in my 
+▁ way , so ; if he do not , if i come in his willingly , let him make a 
+▁ carbonado of me . i like not such grinning honour as xxmaj sir xxmaj walter 
+▁ hath . xxmaj give me life ; which if i can save , so ; if not , honour comes 
+▁ unlook'd for , and there 's an end . xxmaj exit . 
+
+
+
+
+ xxmaj scene xxup iv . 
+ xxmaj another part of the field . 
+
+ xxmaj alarum . xxmaj excursions . xxmaj enter the xxmaj king , the xxmaj prince , xxmaj lord xxmaj john of xxmaj lancaster , 
+ xxmaj earl of xxmaj westmoreland 
+
+▁ xxmaj king . i prithee , 
+▁ xxmaj harry , withdraw thyself ; thou bleedest too much . 
+▁ xxmaj lord xxmaj john of xxmaj lancaster , go you unto him . 
+▁ xxmaj john . xxmaj not xxup i , my lord , unless i did bleed too . 
+▁ xxmaj prince . i do beseech your xxmaj majesty make up , 
+▁ xxmaj lest xxmaj your retirement do amaze your friends . 
+▁ xxmaj king . i will do so . 
+▁ xxmaj my xxmaj lord of xxmaj westmoreland , lead him to his tent . 
+▁ xxmaj west . xxmaj come , my lord , xxmaj i 'll lead you to your tent . 
+▁ xxmaj prince . xxmaj lead me , my lord , i do not need your help ; 
+▁ xxmaj and xxmaj god forbid a shallow scratch should drive 
+▁ xxmaj the xxmaj prince of xxmaj wales from such a field as this , 
+▁ xxmaj where stain'd nobility lies trodden on , 
+▁ xxmaj and rebels ' arms triumph in massacres ! 
+▁ xxmaj john . xxmaj we breathe too long . xxmaj come , cousin xxmaj westmoreland , 
+▁ xxmaj our duty this way lies . xxmaj for xxmaj god 's sake , come . 
+▁ [ exeunt xxmaj prince xxmaj john and xxmaj westmoreland . ] 
+▁ xxmaj prince . xxmaj by xxmaj god , thou hast deceiv'd me , xxmaj lancaster ! 
+▁ i did not think thee lord of such a spirit . 
+▁ xxmaj before , i lov'd thee as a brother , xxmaj john ; 
+▁ xxmaj but now , i do respect thee as my soul . 
+▁ xxmaj king . i saw him hold xxmaj lord xxmaj percy at the point 
+▁ xxmaj with lustier maintenance than i did look for 
+▁ xxmaj of such an ungrown warrior . 
+▁ xxmaj prince . xxup o , this boy 
+▁ xxmaj lends mettle to us all ! xxmaj exit . 
+
+▁ xxmaj enter xxmaj douglas . 
+
+▁ xxmaj doug . xxmaj another king ? xxmaj they grow like xxmaj hydra 's heads . 
+▁ i am the xxmaj douglas , fatal to all those 
+▁ xxmaj that wear those colours on them . xxmaj what art thou 
+▁ xxmaj that counterfeit'st the person of a king ? 
+▁ xxmaj king . xxmaj the xxmaj king himself , who , xxmaj douglas , grieves at heart 
+▁ xxmaj so many of his shadows thou hast met , 
+▁ xxmaj and not the very xxmaj king . i have two boys 
+▁ xxmaj seek xxmaj percy and thyself about the field ; 
+▁ xxmaj but , seeing thou fall'st on me so luckily , 
+▁ i will assay thee . xxmaj so defend thyself . 
+▁ xxmaj doug . i fear thou art another counterfeit ; 
+▁ xxmaj and yet , in faith , thou bearest thee like a king . 
+▁ xxmaj but mine i am sure thou art , whoe'er thou be , 
+▁ xxmaj and thus i win thee . 
+
+▁ xxmaj they fight . xxmaj the xxmaj king being in danger , enter xxmaj prince of xxmaj wales . 
+
+▁ xxmaj prince . xxmaj hold up thy head , vile xxmaj scot , or thou art like 
+▁ xxmaj never to hold it up again ! xxmaj the spirits 
+▁ xxmaj of valiant xxmaj shirley , xxmaj stafford , xxmaj blunt are in my arms . 
+▁ xxmaj it is the xxmaj prince of xxmaj wales that threatens thee , 
+▁ xxmaj who never promiseth but he means to pay . 
+▁ xxmaj they fight . xxmaj douglas flieth . 
+▁ xxmaj cheerly , my lord . xxmaj how fares your xxmaj grace ? 
+▁ xxmaj sir xxmaj nicholas xxmaj gawsey hath for succour sent , 
+▁ xxmaj and so hath xxmaj clifton . xxmaj i 'll to xxmaj clifton straight . 
+▁ xxmaj king . xxmaj stay and breathe awhile . 
+▁ xxmaj thou hast redeem'd thy lost opinion , 
+▁ xxmaj and show'd thou mak'st some tender of my life , 
+▁ xxmaj in this fair rescue thou hast brought to me . 
+▁ xxmaj prince . o xxmaj god ! they did me too much injury 
+▁ xxmaj that ever said i heark'ned for your death . 
+▁ xxmaj if it were so , i might have let alone 
+▁ xxmaj the insulting hand of xxmaj douglas over you , 
+▁ xxmaj which would have been as speedy in your end 
+▁ xxmaj as all the poisonous potions in the world , 
+▁ xxmaj and sav'd the treacherous labour of your son . 
+▁ xxmaj king . xxmaj make up to xxmaj clifton ; xxmaj i 'll to xxmaj sir xxmaj nicholas xxmaj gawsey . 
+ xxmaj exit . 
+
+▁ xxmaj enter xxmaj hotspur . 
+
+▁ xxmaj hot . xxmaj if i mistake not , thou art xxmaj harry xxmaj monmouth . 
+▁ xxmaj prince . xxmaj thou speak'st as if i would deny my name . 
+▁ xxmaj hot . xxmaj my name is xxmaj harry xxmaj percy . 
+▁ xxmaj prince . xxmaj why , then i see 
+▁ a very valiant rebel of the name . 
+▁ i am the xxmaj prince of xxmaj wales ; and think not , xxmaj percy , 
+▁ xxmaj to share with me in glory any more . 
+▁ xxmaj two stars keep not their motion in one sphere , 
+▁ xxmaj nor can one xxmaj england brook a double reign 
+▁ xxmaj of xxmaj harry xxmaj percy and the xxmaj prince of xxmaj wales . 
+▁ xxmaj hot . xxmaj nor shall it , xxmaj harry ; for the hour is come 
+▁ xxmaj to end the one of us and would to xxmaj god 
+▁ xxmaj thy name in arms were now as great as mine ! 
+▁ xxmaj prince . xxmaj i 'll make it greater ere i part from thee , 
+▁ xxmaj and all the budding honours on thy crest 
+▁ xxmaj i 'll crop to make a garland for my head . 
+▁ xxmaj hot . i can no longer brook thy vanities . 
+▁ xxmaj they fight . 
+
+▁ xxmaj enter xxmaj falstaff . 
+
+▁ xxmaj fal . xxmaj well said , xxmaj hal ! to it , xxmaj hal ! xxmaj nay , you shall find no boy 's play 
+▁ here , i can tell you . 
+
+▁ xxmaj enter xxmaj douglas . xxmaj he fighteth with xxmaj falstaff , who falls down as if 
+▁ he were dead . [ exit xxmaj douglas . ] xxmaj the xxmaj prince killeth xxmaj percy . 
+
+▁ xxmaj hot . o xxmaj harry , thou hast robb'd me of my youth ! 
+▁ i better brook the loss of brittle life 
+▁ xxmaj than those proud titles thou hast won of me . 
+▁ xxmaj they wound my thoughts worse than thy sword my flesh . 
+▁ xxmaj but thoughts the slave , of life , and life time 's fool , 
+▁ xxmaj and time , that takes survey of all the world , 
+▁ xxmaj must have a stop . xxup o , i could prophesy , 
+▁ xxmaj but that the earthy and cold hand of death 
+▁ xxmaj lies on my tongue . xxmaj no , xxmaj percy , thou art dust , 
+▁ xxmaj and food for- [ dies . ] 
+▁ xxmaj prince . xxmaj for worms , brave xxmaj percy . xxmaj fare thee well , great heart ! 
+▁ xxmaj ill - weav'd ambition , how much art thou shrunk ! 
+▁ xxmaj when that this body did contain a spirit , 
+▁ a kingdom for it was too small a bound ; 
+▁ xxmaj but now two paces of the vilest earth 
+▁ xxmaj is room enough . xxmaj this earth that bears thee dead 
+▁ xxmaj bears not alive so stout a gentleman . 
+▁ xxmaj if thou wert sensible of courtesy , 
+▁ i should not make so dear a show of zeal . 
+▁ xxmaj but let my favours hide thy mangled face ; 
+▁ xxmaj and , even in thy behalf , xxmaj i 'll thank myself 
+▁ xxmaj for doing these fair rites of tenderness . 
+▁ xxmaj adieu , and take thy praise with thee to heaven ! 
+▁ xxmaj thy ignominy sleep with thee in the grave , 
+▁ xxmaj but not rememb'red in thy epitaph ! 
+▁ xxmaj he spieth xxmaj falstaff on the ground . 
+▁ xxmaj what , old acquaintance ? xxmaj could not all this flesh 
+▁ xxmaj keep in a little life ? xxmaj poor xxmaj jack , farewell ! 
+▁ i could have better spar'd a better man . 
+▁ xxup o , i should have a heavy miss of thee 
+▁ xxmaj if i were much in love with vanity ! 
+▁ xxmaj death hath not struck so fat a deer to - day , 
+▁ xxmaj though many dearer , in this bloody fray . 
+▁ xxmaj embowell'd will i see thee by - and - by ; 
+▁ xxmaj till then in blood by noble xxmaj percy lie . xxmaj exit . 
+
+▁ xxmaj falstaff riseth up . 
+▁
+▁ xxmaj fal . xxmaj embowell'd ? xxmaj if thou embowel me to - day , xxmaj i 'll give you leave to 
+▁ powder me and eat me too to - morrow . ' sblood , ' twas time to 
+▁ counterfeit , or that hot termagant xxmaj scot had paid me scot and lot 
+▁ too . xxmaj counterfeit ? i lie ; i am no counterfeit . xxmaj to die is to be a 
+▁ counterfeit ; for he is but the counterfeit of a man who hath not 
+▁ the life of a man ; but to counterfeit dying when a man thereby 
+▁ liveth , is to be no counterfeit , but the true and perfect image 
+▁ of life indeed . xxmaj the better part of valour is discretion ; in the 
+▁ which better part i have saved my life . xxmaj zounds , i am afraid of 
+▁ this gunpowder xxmaj percy , though he be dead . xxmaj how if he should 
+▁ counterfeit too , and rise ? xxmaj by my faith , i am afraid he would 
+▁ prove the better counterfeit . xxmaj therefore xxmaj i 'll make him sure ; yea , 
+▁ and xxmaj i 'll swear i kill'd him . xxmaj why may not he rise as well as xxup i ? 
+▁ xxmaj nothing confutes me but eyes , and nobody sees me . xxmaj therefore , 
+▁ sirrah [ stabs him ] , with a new wound in your thigh , come you 
+▁ along with me . 
+
+▁ xxmaj he takes up xxmaj hotspur on his hack . [ enter xxmaj prince , and xxmaj john of 
+▁ xxmaj lancaster . 
+▁
+▁ xxmaj prince . xxmaj come , brother xxmaj john ; full bravely hast thou flesh'd 
+▁ xxmaj thy maiden sword . 
+▁ xxmaj john . xxmaj but , soft ! whom have we here ? 
+▁ xxmaj did you not tell me this fat man was dead ? 
+▁ xxmaj prince . i did ; i saw him dead , 
+▁ xxmaj breathless and bleeding on the ground . xxmaj art thou alive , 
+▁ xxmaj or is it fantasy that plays upon our eyesight ? 
+▁ i prithee speak . xxmaj we will not trust our eyes 
+▁ xxmaj without our ears . xxmaj thou art not what thou seem'st . 
+▁ xxmaj fal . xxmaj no , that 's certain ! i am not a double man ; but if i be not 
+▁ xxmaj jack xxmaj falstaff , then am i a xxmaj jack . xxmaj there 's xxmaj percy . xxmaj if your father 
+▁ will do me any honour , so ; if not , let him kill the next xxmaj percy 
+▁ himself . i look to be either earl or duke , i can assure you . 
+▁ xxmaj prince . xxmaj why , xxmaj percy i kill'd myself , and saw thee dead ! 
+▁ xxmaj fal . xxmaj didst thou ? xxmaj lord , xxmaj lord , how this world is given to lying ! i 
+▁ grant you i was down , and out of breath , and so was he ; but we 
+▁ rose both at an instant and fought a long hour by xxmaj shrewsbury 
+▁ clock . xxmaj if i may be believ'd , so ; if not , let them that should 
+▁ reward valour bear the sin upon their own heads . xxmaj i 'll take it 
+▁ upon my death , i gave him this wound in the thigh . xxmaj if the man 
+▁ were alive and would deny it , zounds ! i would make him eat a 
+▁ piece of my sword . 
+▁ xxmaj john . xxmaj this is the strangest tale that ever i beard . 
+▁ xxmaj prince . xxmaj this is the strangest fellow , brother xxmaj john . 
+▁ xxmaj come , bring your luggage nobly on your back . 
+▁ xxmaj for my part , if a lie may do thee grace , 
+▁ xxmaj i 'll gild it with the happiest terms i have . 
+▁ a retreat is sounded . 
+▁ xxmaj the trumpet sounds retreat ; the day is ours . 
+▁ xxmaj come , brother , let 's to the highest of the field , 
+▁ xxmaj to see what friends are living , who are dead . 
+▁ xxmaj exeunt [ prince xxmaj henry and xxmaj prince xxmaj john ] . 
+▁ xxmaj fal . xxmaj i 'll follow , as they say , for reward . xxmaj he that rewards me , xxmaj god 
+▁ reward him ! xxmaj if i do grow great , xxmaj i 'll grow less ; for xxmaj i 'll purge , 
+▁ and leave sack , and live cleanly , as a nobleman should do . 
+▁ xxmaj exit [ bearing off the body ] . 
+
+
+
+
+ xxmaj scene xxup v. 
+ xxmaj another part of the field . 
+
+ xxmaj the trumpets sound . [ enter the xxmaj king , xxmaj prince of xxmaj wales , xxmaj lord xxmaj john of xxmaj lancaster , 
+ xxmaj earl of xxmaj westmoreland , with xxmaj worcester and xxmaj vernon prisoners . 
+
+▁ xxmaj king . xxmaj thus ever did rebellion find rebuke . 
+▁ xxmaj ill - spirited xxmaj worcester ! did not we send grace , 
+▁ xxmaj pardon , and terms of love to all of you ? 
+▁ xxmaj and wouldst thou turn our offers contrary ? 
+▁ xxmaj misuse the tenour of thy kinsman 's trust ? 
+▁ xxmaj three knights upon our party slain to - day , 
+▁ a noble earl , and many a creature else 
+▁ xxmaj had been alive this hour , 
+▁ xxmaj if like a xxmaj christian thou hadst truly borne 
+▁ xxmaj betwixt our armies true intelligence . 
+▁ xxmaj wor . xxmaj what i have done my safety urg'd me to ; 
+▁ xxmaj and i embrace this fortune patiently , 
+▁ xxmaj since not to be avoided it fails on me . 
+▁ xxmaj king . xxmaj bear xxmaj worcester to the death , and xxmaj vernon too ; 
+▁ xxmaj other offenders we will pause upon . 
+▁ xxmaj exeunt xxmaj worcester and xxmaj vernon , [ guarded ] . 
+▁ xxmaj how goes the field ? 
+▁ xxmaj prince . xxmaj the noble xxmaj scot , xxmaj lord xxmaj douglas , when he saw 
+▁ xxmaj the fortune of the day quite turn'd from him , 
+▁ xxmaj the xxmaj noble xxmaj percy slain and all his men 
+▁ xxmaj upon the foot of fear , fled with the rest ; 
+▁ xxmaj and falling from a hill , he was so bruis'd 
+▁ xxmaj that the pursuers took him . xxmaj at my tent 
+▁ xxmaj the xxmaj douglas is , and i beseech xxmaj your xxmaj grace 
+▁ i may dispose of him . 
+▁ xxmaj king . xxmaj with all my heart . 
+▁ xxmaj prince . xxmaj then brother xxmaj john of xxmaj lancaster , to you 
+▁ xxmaj this honourable bounty shall belong . 
+▁ xxmaj go to the xxmaj douglas and deliver him 
+▁ xxmaj up to his pleasure , ransomless and free . 
+▁ xxmaj his valour shown upon our crests today 
+▁ xxmaj hath taught us how to cherish such high deeds , 
+▁ xxmaj even in the bosom of our adversaries . 
+▁ xxmaj john . i thank your xxmaj grace for this high courtesy , 
+▁ xxmaj which i shall give away immediately . 
+▁ xxmaj king . xxmaj then this remains , that we divide our power . 
+▁ xxmaj you , son xxmaj john , and my cousin xxmaj westmoreland , 
+▁ xxmaj towards xxmaj york shall bend you with your dearest speed 
+▁ xxmaj to meet xxmaj northumberland and the prelate xxmaj scroop , 
+▁ xxmaj who , as we hear , are busily in arms . 
+▁ xxmaj myself and you , son xxmaj harry , will towards xxmaj wales 
+▁ xxmaj to fight with xxmaj glendower and the xxmaj earl of xxmaj march . 
+▁ xxmaj rebellion in this laud shall lose his sway , 
+▁ xxmaj meeting the check of such another day ; 
+▁ xxmaj and since this business so fair is done , 
+▁ xxmaj let us not leave till all our own be won . 
+▁ xxmaj exeunt . 
+
+
+ xxup the xxup end 
+
+
+
+ < < this xxup electronic xxup version xxup of xxup the xxup complete xxup works xxup of xxup william 
+ xxup shakespeare xxup is xxup copyright 1990 - 1993 xxup by xxup world xxup library , xxup inc . , xxup and xxup is 
+ xxup provided xxup by xxup project xxup gutenberg xxup etext xxup of xxup illinois xxup benedictine xxup college 
+ xxup with xxup permission . xxup electronic xxup and xxup machine xxup readable xxup copies xxup may xxup be 
+ xxup distributed xxup so xxup long xxup as xxup such xxup copies ( 1 ) xxup are xxup for xxup your xxup or xxup others 
+ xxup personal xxup use xxup only , xxup and ( 2 ) xxup are xxup not xxup distributed xxup or xxup used 
+ xxup commercially . xxup prohibited xxup commercial xxup distribution xxup includes xxup by xxup any 
+ xxup service xxup that xxup charges xxup for xxup download xxup time xxup or xxup for xxup membership . > > 
+
+
+
+
+
+ 1598 
+
+
+ xxup second xxup part xxup of xxup king xxup henry xxup iv 
+
+ by xxmaj william xxmaj shakespeare 
+
+
+
+ xxmaj dramatis xxmaj personae 
+
+▁ xxup rumour , the xxmaj presenter 
+▁ xxup king xxup henry xxup the xxup fourth 
+
+▁ xxup henry , xxup prince xxup of xxup wales , afterwards xxup henry 
+▁ xxup prince xxup john xxup of xxup lancaster 
+▁ xxup prince xxup humphrey xxup of xxup gloucester 
+▁ xxup thomas , xxup duke xxup of xxup clarence 
+▁ xxmaj sons of xxmaj henry xxup iv 
+
+▁ xxup earl xxup of xxup northumberland 
+▁ xxup scroop , xxup archbishop xxup of xxup york 
+▁ xxup lord xxup mowbray 
+▁ xxup lord xxup hastings 
+▁ xxup lord xxup bardolph 
+▁ xxup sir xxup john xxup colville 
+▁ xxup travers and xxup morton , retainers of xxmaj northumberland 
+▁ xxmaj opposites against xxmaj king xxmaj henry xxup iv 
+
+▁ xxup earl xxup of xxup warwick 
+▁ xxup earl xxup of xxup westmoreland 
+▁ xxup earl xxup of xxup surrey 
+▁ xxup earl xxup of xxup kent 
+▁ xxup gower 
+▁ xxup harcourt 
+▁ xxup blunt 
+▁ xxmaj of the xxmaj king 's party 
+
+▁ xxup lord xxup chief xxup justice 
+▁ xxup servant , to xxmaj lord xxmaj chief xxmaj justice 
+
+▁ xxup sir xxup john xxup falstaff 
+▁ xxup edward xxup poins 
+▁ xxup bardolph 
+▁ xxup pistol 
+▁ xxup peto 
+▁ xxmaj irregular humourists 
+
+▁ xxup page , to xxmaj falstaff 
+
+▁ xxup robert xxup shallow and xxup silence , country xxmaj justices 
+▁ xxup davy , servant to xxmaj shallow 
+
+▁ xxup fang and xxup snare , xxmaj sheriff 's officers 
+
+▁ xxup ralph xxup mouldy 
+▁ xxup simon xxup shadow 
+▁ xxup thomas xxup wart 
+▁ xxup francis xxup feeble 
+▁ xxup peter xxup bullcalf 
+▁ xxmaj country soldiers 
+
+▁ xxup francis , a drawer 
+
+▁ xxup lady xxup northumberland 
+▁ xxup lady xxup percy , xxmaj percy 's widow 
+▁ xxup hostess xxup quickly , of the xxmaj boar 's xxmaj head , xxmaj eastcheap 
+▁ xxup doll xxup tearsheet 
+
+▁ xxup lords , xxmaj attendants , xxmaj porter , xxmaj drawers , xxmaj beadles , xxmaj grooms , xxmaj servants , 
+▁ xxmaj speaker of the xxmaj epilogue 
+
+▁ xxup scene : xxmaj england 
+
+ xxup induction 
+▁ xxup induction . 
+▁ xxmaj warkworth . xxmaj before xxup northumberland 's xxmaj castle 
+
+▁ xxmaj enter xxup rumour , painted full of tongues 
+
+▁ xxup rumour . xxmaj open your ears ; for which of you will stop 
+▁ xxmaj the vent of hearing when loud xxmaj rumour speaks ? 
+▁ xxup i , from the orient to the drooping west , 
+▁ xxmaj making the wind my post - horse , still unfold 
+▁ xxmaj the acts commenced on this ball of earth . 
+▁ xxmaj upon my tongues continual slanders ride , 
+▁ xxmaj the which in every language i pronounce , 
+▁ xxmaj stuffing the ears of men with false reports . 
+▁ i speak of peace while covert emnity , 
+▁ xxmaj under the smile of safety , wounds the world ; 
+▁ xxmaj and who but xxmaj rumour , who but only xxup i , 
+▁ xxmaj make fearful musters and prepar'd defence , 
+▁ xxmaj whiles the big year , swoln with some other grief , 
+▁ xxmaj is thought with child by the stern tyrant war , 
+▁ xxmaj and no such matter ? xxmaj rumour is a pipe 
+▁ xxmaj blown by surmises , jealousies , conjectures , 
+▁ xxmaj and of so easy and so plain a stop 
+▁ xxmaj that the blunt monster with uncounted heads , 
+▁ xxmaj the still - discordant wav'ring multitude , 
+▁ xxmaj can play upon it . xxmaj but what need i thus 
+▁ xxmaj my well - known body to anatomize 
+▁ xxmaj among my household ? xxmaj why is xxmaj rumour here ? 
+▁ i run before xxmaj king xxmaj harry 's victory , 
+▁ xxmaj who , in a bloody field by xxmaj shrewsbury , 
+▁ xxmaj hath beaten down young xxmaj hotspur and his troops , 
+▁ xxmaj quenching the flame of bold rebellion 
+▁ xxmaj even with the rebels ' blood . xxmaj but what mean i 
+▁ xxmaj to speak so true at first ? xxmaj my office is 
+▁ xxmaj to noise abroad that xxmaj harry xxmaj monmouth fell 
+▁ xxmaj under the wrath of noble xxmaj hotspur 's sword , 
+▁ xxmaj and that the xxmaj king before the xxmaj douglas ' rage 
+▁ xxmaj stoop'd his anointed head as low as death . 
+▁ xxmaj this have i rumour'd through the peasant towns 
+▁ xxmaj between that royal field of xxmaj shrewsbury 
+▁ xxmaj and this worm - eaten hold of ragged stone , 
+▁ xxmaj where xxmaj hotspur 's father , old xxmaj northumberland , 
+▁ xxmaj lies crafty - sick . xxmaj the posts come tiring on , 
+▁ xxmaj and not a man of them brings other news 
+▁ xxmaj than they have learnt of me . xxmaj from xxmaj rumour 's tongues 
+▁ xxmaj they bring smooth comforts false , worse than true wrongs . 
+▁ xxmaj exit 
+
+
+
+
+ < < this xxup electronic xxup version xxup of xxup the xxup complete xxup works xxup of xxup william 
+ xxup shakespeare xxup is xxup copyright 1990 - 1993 xxup by xxup world xxup library , xxup inc . , xxup and xxup is 
+ xxup provided xxup by xxup project xxup gutenberg xxup etext xxup of xxup illinois xxup benedictine xxup college 
+ xxup with xxup permission . xxup electronic xxup and xxup machine xxup readable xxup copies xxup may xxup be 
+ xxup distributed xxup so xxup long xxup as xxup such xxup copies ( 1 ) xxup are xxup for xxup your xxup or xxup others 
+ xxup personal xxup use xxup only , xxup and ( 2 ) xxup are xxup not xxup distributed xxup or xxup used 
+ xxup commercially . xxup prohibited xxup commercial xxup distribution xxup includes xxup by xxup any 
+ xxup service xxup that xxup charges xxup for xxup download xxup time xxup or xxup for xxup membership . > > 
+
+
+
+ xxup act xxup i. xxup scene xxup i. 
+ xxmaj warkworth . xxmaj before xxup northumberland 's xxmaj castle 
+
+ xxmaj enter xxup lord xxup bardolph 
+
+▁ xxup lord xxup bardolph . xxmaj who keeps the gate here , ho ? 
+
+▁ xxmaj the xxup porter opens the gate 
+
+▁ xxmaj where is the xxmaj earl ? 
+▁ xxup porter . xxmaj what shall i say you are ? 
+▁ xxup lord xxup bardolph . xxmaj tell thou the xxmaj earl

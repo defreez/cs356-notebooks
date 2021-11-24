@@ -1,0 +1,998 @@
+xxbos xxmaj this is the 100th xxmaj etext file presented by xxmaj project xxmaj gutenberg , and 
+ is presented in cooperation with xxmaj world xxmaj library , xxmaj inc . , from their 
+ xxmaj library of the xxmaj future and xxmaj shakespeare xxup cdroms . xxmaj project xxmaj gutenberg 
+ often releases xxmaj etexts that are xxup not placed in the xxmaj public xxmaj domain ! ! 
+
+ xxmaj shakespeare 
+
+ * this xxmaj etext has certain copyright implications you should read ! * 
+
+ < < this xxup electronic xxup version xxup of xxup the xxup complete xxup works xxup of xxup william 
+ xxup shakespeare xxup is xxup copyright 1990 - 1993 xxup by xxup world xxup library , xxup inc . , xxup and xxup is 
+ xxup provided xxup by xxup project xxup gutenberg xxup etext xxup of xxup illinois xxup benedictine xxup college 
+ xxup with xxup permission . xxup electronic xxup and xxup machine xxup readable xxup copies xxup may xxup be 
+ xxup distributed xxup so xxup long xxup as xxup such xxup copies ( 1 ) xxup are xxup for xxup your xxup or xxup others 
+ xxup personal xxup use xxup only , xxup and ( 2 ) xxup are xxup not xxup distributed xxup or xxup used 
+ xxup commercially . xxup prohibited xxup commercial xxup distribution xxup includes xxup by xxup any 
+ xxup service xxup that xxup charges xxup for xxup download xxup time xxup or xxup for xxup membership . > > 
+
+ * project xxmaj gutenberg is proud to cooperate with xxmaj the xxmaj world xxmaj library * 
+ in the presentation of xxmaj the xxmaj complete xxmaj works of xxmaj william xxmaj shakespeare 
+ for your reading for education and entertainment . xxup however , xxup this 
+ xxup is xxup neither xxup shareware xxup nor xxup public xxup domain . . .and xxup under xxup the xxup library 
+ xxup of xxup the xxup future xxup conditions xxup of xxup this xxup presentation . . .no xxup charges xxup may 
+ xxup be xxup made xxup for * any * xxup access xxup to xxup this xxup material . xxup you xxup are xxup encouraged ! ! 
+ xxup to xxup give xxup it xxup away xxup to xxup anyone xxup you xxup like , xxup but xxup no xxup charges xxup are xxup allowed ! ! 
+
+
+ * * welcome xxmaj to xxmaj the xxmaj world of xxmaj free xxmaj plain xxmaj vanilla xxmaj electronic xxmaj texts * * 
+
+ * * etexts xxmaj readable xxmaj by xxmaj both xxmaj humans and xxmaj by xxmaj computers , xxmaj since 1971 * * 
+
+ * these xxmaj etexts xxmaj prepared xxmaj by xxmaj hundreds of xxmaj volunteers and xxmaj donations * 
+
+ xxmaj information on contacting xxmaj project xxmaj gutenberg to get xxmaj etexts , and 
+ further information is included below . xxmaj we need your donations . 
+
+
+ xxmaj the xxmaj complete xxmaj works of xxmaj william xxmaj shakespeare 
+
+ xxmaj january , 1994 [ etext # 100 ] 
+
+
+ xxmaj the xxmaj library of the xxmaj future xxmaj complete xxmaj works of xxmaj william xxmaj shakespeare 
+ xxmaj library of the xxmaj future is a trademark ( tm ) of xxmaj world xxmaj library xxmaj inc . 
+▁ xxrep 6 * xxmaj this file should be named shaks12.txt or shaks12.zip xxrep 5 * 
+
+ xxmaj corrected xxup editions of our etexts get a new xxup number , shaks13.txt 
+ xxup versions based on separate sources get new xxup letter , shaks10a.txt 
+
+ xxmaj if you would like further information about xxmaj world xxmaj library , xxmaj inc . 
+ xxmaj please call them at 1 - 800 - 443 - 0238 or email julianc@netcom.com 
+ xxmaj please give them our thanks for their xxmaj shakespeare cooperation ! 
+
+
+ xxmaj the official release date of all xxmaj project xxmaj gutenberg xxmaj etexts is at 
+ xxmaj midnight , xxmaj central xxmaj time , of the last day of the stated month . a 
+ preliminary version may often be posted for suggestion , comment 
+ and editing by those who wish to do so . xxmaj to be sure you have an 
+ up to date first edition [ xxrep 5 x 10x . xxrep 3 x ] please check file sizes 
+ in the first week of the next month . xxmaj since our ftp program has 
+ a bug in it that scrambles the date [ tried to fix and failed ] a 
+ look at the file size will have to do , but we will try to see a 
+ new copy has at least one byte more or less . 
+
+
+ xxmaj information about xxmaj project xxmaj gutenberg ( one page ) 
+
+ xxmaj we produce about two million dollars for each hour we work . xxmaj the 
+ fifty hours is one conservative estimate for how long it we take 
+ to get any etext selected , entered , proofread , edited , copyright 
+ searched and analyzed , the copyright letters written , etc . xxmaj this 
+ projected audience is one hundred million readers . xxmaj if our value 
+ per text is nominally estimated at one dollar , then we produce 2 
+ million dollars per hour this year we , will have to do four text 
+ files per month : thus upping our productivity from one million . 
+ xxmaj the xxmaj goal of xxmaj project xxmaj gutenberg is to xxmaj give xxmaj away xxmaj one xxmaj trillion xxmaj etext 
+ xxmaj files by the xxmaj december 31 , 2001 . [ 10 , xxrep 3 0 x 100 , xxrep 3 0 , xxrep 3 0 = trillion ] 
+ xxmaj this is ten thousand titles each to one hundred million readers , 
+ which is 10 % of the expected number of computer users by the end 
+ of the year 2001 . 
+
+ xxmaj we need your donations more than ever ! 
+
+ xxmaj all donations should be made to " project xxmaj gutenberg / xxup ibc " , and are 
+ tax deductible to the extent allowable by law ( " ibc " is xxmaj illinois 
+ xxmaj benedictine xxmaj college ) . ( subscriptions to our paper newsletter go 
+ to xxup ibc , too ) 
+
+ xxmaj for these and other matters , please mail to : 
+
+ xxmaj project xxmaj gutenberg 
+ xxup p. xxup o. xxmaj box 2782 
+ xxmaj champaign , xxup il 61825 
+
+ xxmaj when all other email fails try our xxmaj michael xxup s. xxmaj hart , xxmaj executive xxmaj director : 
+ hart@vmd.cso.uiuc.edu ( internet ) hart@uiucvmd ( bitnet ) 
+
+ xxmaj we would prefer to send you this information by email 
+ ( internet , xxmaj bitnet , xxmaj compuserve , xxup attmail or mcimail ) . 
+
+▁ xxrep 6 * 
+ xxmaj if you have an xxup ftp program ( or emulator ) , please 
+ xxup ftp directly to the xxmaj project xxmaj gutenberg archives : 
+ [ mac users , do xxup not point and click . . .type ] 
+
+ ftp mrcnext.cso.uiuc.edu 
+ login : anonymous 
+ password : your@login 
+ cd etext / etext91 
+ or cd etext92 
+ or cd etext93 [ for new books ] [ now also in cd etext / etext93 ] 
+ or cd etext / articles [ get suggest gut for more information ] 
+ dir [ to see files ] 
+ get or mget [ to get files . . .set bin for zip files ] 
+ xxup get 0index.gut 
+ for a list of books 
+ and 
+ xxup get xxup new xxup gut for general information 
+ and 
+ xxup mget xxup gut * for newsletters . 
+
+ * * information prepared by the xxmaj project xxmaj gutenberg legal advisor * * 
+
+
+▁ xxrep 5 * xxup small xxup print ! for xxup complete xxup shakespeare xxrep 5 * 
+
+ xxup this xxup electronic xxup version xxup of xxup the xxup complete xxup works xxup of xxup william 
+ xxup shakespeare xxup is xxup copyright 1990 - 1993 xxup by xxup world xxup library , xxup inc . , 
+ xxup and xxup is xxup provided xxup by xxup project xxup gutenberg xxup etext xxup of 
+ xxup illinois xxup benedictine xxup college xxup with xxup permission . 
+
+ xxmaj since unlike many other xxmaj project xxmaj gutenberg - tm etexts , this etext 
+ is copyright protected , and since the materials and methods you 
+ use will effect the xxmaj project 's reputation , your right to copy and 
+ distribute it is limited by the copyright and other laws , and by 
+ the conditions of this " small xxmaj print ! " statement . 
+
+ 1 . xxup license 
+
+▁ xxup a ) xxup you xxup may ( and xxup are xxup encouraged ) xxup to xxup distribute xxup electronic xxup and 
+ xxup machine xxup readable xxup copies xxup of xxup this xxup etext , xxup so xxup long xxup as xxup such xxup copies 
+ ( 1 ) xxup are xxup for xxup your xxup or xxup others xxup personal xxup use xxup only , xxup and ( 2 ) xxup are xxup not 
+ xxup distributed xxup or xxup used xxup commercially . xxup prohibited xxup commercial 
+ xxup distribution xxup includes xxup by xxup any xxup service xxup that xxup charges xxup for xxup download 
+ xxup time xxup or xxup for xxup membership . 
+
+▁ xxup b ) xxmaj this license is subject to the conditions that you honor 
+ the refund and replacement provisions of this " small print ! " 
+ statement ; and that you distribute exact copies of this etext , 
+ including this xxmaj small xxmaj print statement . xxmaj such copies can be 
+ compressed or any proprietary form ( including any form resulting 
+ from word processing or hypertext software ) , so long as 
+ * either * : 
+
+▁ ( 1 ) xxmaj the etext , when displayed , is clearly readable , and does 
+▁ * not * contain characters other than those intended by the 
+▁ author of the work , although tilde ( ~ ) , asterisk ( * ) and 
+▁ underline ( _ ) characters may be used to convey punctuation 
+▁ intended by the author , and additional characters may be used 
+▁ to indicate hypertext links ; xxup or 
+
+▁ ( 2 ) xxmaj the etext is readily convertible by the reader at no 
+▁ expense into plain xxup ascii , xxup ebcdic or equivalent form by the 
+▁ program that displays the etext ( as is the case , for instance , 
+▁ with most word processors ) ; xxup or 
+
+▁ ( 3 ) xxmaj you provide or agree to provide on request at no 
+▁ additional cost , fee or expense , a copy of the etext in plain 
+▁ xxup ascii . 
+
+ 2 . xxup limited xxup warranty ; xxup disclaimer xxup of xxup damages 
+
+ xxmaj this etext may contain a " defect " in the form of incomplete , 
+ inaccurate or corrupt data , transcription errors , a copyright or 
+ other infringement , a defective or damaged disk , computer virus , 
+ or codes that damage or can not be read by your equipment . xxmaj but 
+ for the " right of xxmaj replacement or xxmaj refund " described below , the 
+ xxmaj project ( and any other party you may receive this etext from as 
+ a xxup project gutenberg - tm etext ) disclaims all liability to you for 
+ damages , costs and expenses , including legal fees , and xxup you xxup have 
+ xxup no xxup remedies xxup for xxup negligence xxup or xxup under xxup strict xxup liability , xxup or xxup for 
+ xxup breach xxup of xxup warranty xxup or xxup contract , xxup including xxup but xxup not xxup limited xxup to 
+ xxup indirect , xxup consequential , xxup punitive xxup or xxup incidental xxup damages , xxup even xxup if 
+ xxup you xxup give xxup notice xxup of xxup the xxup possibility xxup of xxup such xxup damages . 
+
+ xxmaj if you discover a xxmaj defect in this etext within 90 days of receiv- 
+ ing it , you can receive a refund of the money ( if any ) you paid 
+ for it by sending an explanatory note within that time to the 
+ person you received it from . xxmaj if you received it on a physical 
+ medium , you must return it with your note , and such person may 
+ choose to alternatively give you a replacement copy . xxmaj if you 
+ received it electronically , such person may choose to 
+ alternatively give you a second opportunity to receive it 
+ electronically . 
+
+ xxup this xxup etext xxup is xxup otherwise xxup provided xxup to xxup you " as - is " . xxup no xxup other 
+ xxup warranties xxup of xxup any xxup kind , xxup express xxup or xxup implied , xxup are xxup made xxup to xxup you xxup as 
+ xxup to xxup the xxup etext xxup or xxup any xxup medium xxup it xxup may xxup be xxup on , xxup including xxup but xxup not 
+ xxup limited xxup to xxup warranties xxup of xxup merchantability xxup or xxup fitness xxup for a 
+ xxup particular xxup purpose . xxmaj some states do not allow disclaimers of 
+ implied warranties or the exclusion or limitation of consequen- 
+ tial damages , so the above disclaimers and exclusions may not 
+ apply to you , and you may have other legal rights . 
+
+ 3 . xxup indemnity : xxmaj you will indemnify and hold the xxmaj project , its 
+ directors , officers , members and agents harmless from all lia- 
+ bility , cost and expense , including legal fees , that arise 
+ directly or indirectly from any of the following that you do or 
+ cause : [ a ] distribution of this etext , [ b ] alteration , 
+ modification , or addition to the etext , or [ c ] any xxmaj defect . 
+
+ 4 . xxup what xxup if xxup you * want * xxup to xxup send xxup money xxup even xxup if xxup you xxup do n't xxup have xxup to ? 
+ xxmaj project xxmaj gutenberg is dedicated to increasing the number of 
+ public domain and licensed works that can be freely distributed 
+ in machine readable form . xxmaj the xxmaj project gratefully accepts 
+ contributions in money , time , scanning machines , xxup ocr software , 
+ public domain etexts , royalty free copyright licenses , and 
+ whatever else you can think of . xxmaj money should be paid to " pro- 
+ ject xxmaj gutenberg xxmaj association / xxmaj illinois xxmaj benedictine xxmaj college " . 
+
+ xxup write xxup to xxup us ! xxmaj we can be reached at : 
+▁ xxmaj internet : hart@vmd.cso.uiuc.edu 
+▁ xxmaj bitnet : hart@uiucvmd 
+▁ compuserve : > internet : hart@.vmd.cso.uiuc.edu 
+▁ xxmaj attmail : internet!vmd.cso.uiuc.edu!hart 
+▁ xxmaj mail : xxmaj prof . xxmaj michael xxmaj hart 
+▁ xxup p.o . xxmaj box 2782 
+▁ xxmaj champaign , xxup il 61825 
+
+ xxmaj this " small xxmaj print ! " by xxmaj charles xxup b. xxmaj kramer , xxmaj attorney 
+ xxmaj internet ( 72600.2026@compuserve.com ) ; xxup tel : ( 212 - 254 - 5093 ) 
+▁ xxrep 4 * xxup small xxup print ! xxup for _ _ xxup complete xxup shakespeare xxrep 4 * 
+ [ " small xxmaj print " xxup v.12.08.93 ] 
+
+ < < this xxup electronic xxup version xxup of xxup the xxup complete xxup works xxup of xxup william 
+ xxup shakespeare xxup is xxup copyright 1990 - 1993 xxup by xxup world xxup library , xxup inc . , xxup and xxup is 
+ xxup provided xxup by xxup project xxup gutenberg xxup etext xxup of xxup illinois xxup benedictine xxup college 
+ xxup with xxup permission . xxup electronic xxup and xxup machine xxup readable xxup copies xxup may xxup be 
+ xxup distributed xxup so xxup long xxup as xxup such xxup copies ( 1 ) xxup are xxup for xxup your xxup or xxup others 
+ xxup personal xxup use xxup only , xxup and ( 2 ) xxup are xxup not xxup distributed xxup or xxup used 
+ xxup commercially . xxup prohibited xxup commercial xxup distribution xxup includes xxup by xxup any 
+ xxup service xxup that xxup charges xxup for xxup download xxup time xxup or xxup for xxup membership . > > 
+
+
+ 1609 
+
+ xxup the xxup sonnets 
+
+ by xxmaj william xxmaj shakespeare 
+
+
+
+▁ 1 
+▁ xxmaj from fairest creatures we desire increase , 
+▁ xxmaj that thereby beauty 's rose might never die , 
+▁ xxmaj but as the riper should by time decease , 
+▁ xxmaj his tender heir might bear his memory : 
+▁ xxmaj but thou contracted to thine own bright eyes , 
+▁ xxmaj feed'st thy light 's flame with self - substantial fuel , 
+▁ xxmaj making a famine where abundance lies , 
+▁ xxmaj thy self thy foe , to thy sweet self too cruel : 
+▁ xxmaj thou that art now the world 's fresh ornament , 
+▁ xxmaj and only herald to the gaudy spring , 
+▁ xxmaj within thine own bud buriest thy content , 
+▁ xxmaj and tender churl mak'st waste in niggarding : 
+▁ xxmaj pity the world , or else this glutton be , 
+▁ xxmaj to eat the world 's due , by the grave and thee . 
+
+
+▁ 2 
+▁ xxmaj when forty winters shall besiege thy brow , 
+▁ xxmaj and dig deep trenches in thy beauty 's field , 
+▁ xxmaj thy youth 's proud livery so gazed on now , 
+▁ xxmaj will be a tattered weed of small worth held : 
+▁ xxmaj then being asked , where all thy beauty lies , 
+▁ xxmaj where all the treasure of thy lusty days ; 
+▁ xxmaj to say within thine own deep sunken eyes , 
+▁ xxmaj were an all - eating shame , and thriftless praise . 
+▁ xxmaj how much more praise deserved thy beauty 's use , 
+▁ xxmaj if thou couldst answer ' this fair child of mine 
+▁ xxmaj shall sum my count , and make my old excuse ' 
+▁ xxmaj proving his beauty by succession thine . 
+▁ xxmaj this were to be new made when thou art old , 
+▁ xxmaj and see thy blood warm when thou feel'st it cold . 
+
+
+▁ 3 
+▁ xxmaj look in thy glass and tell the face thou viewest , 
+▁ xxmaj now is the time that face should form another , 
+▁ xxmaj whose fresh repair if now thou not renewest , 
+▁ xxmaj thou dost beguile the world , unbless some mother . 
+▁ xxmaj for where is she so fair whose uneared womb 
+▁ xxmaj disdains the tillage of thy husbandry ? 
+▁ xxmaj or who is he so fond will be the tomb , 
+▁ xxmaj of his self - love to stop posterity ? 
+▁ xxmaj thou art thy mother 's glass and she in thee 
+▁ xxmaj calls back the lovely xxmaj april of her prime , 
+▁ xxmaj so thou through windows of thine age shalt see , 
+▁ xxmaj despite of wrinkles this thy golden time . 
+▁ xxmaj but if thou live remembered not to be , 
+▁ xxmaj die single and thine image dies with thee . 
+
+
+▁ 4 
+▁ xxmaj unthrifty loveliness why dost thou spend , 
+▁ xxmaj upon thy self thy beauty 's legacy ? 
+▁ xxmaj nature 's bequest gives nothing but doth lend , 
+▁ xxmaj and being frank she lends to those are free : 
+▁ xxmaj then beauteous niggard why dost thou abuse , 
+▁ xxmaj the bounteous largess given thee to give ? 
+▁ xxmaj profitless usurer why dost thou use 
+▁ xxmaj so great a sum of sums yet canst not live ? 
+▁ xxmaj for having traffic with thy self alone , 
+▁ xxmaj thou of thy self thy sweet self dost deceive , 
+▁ xxmaj then how when nature calls thee to be gone , 
+▁ xxmaj what acceptable audit canst thou leave ? 
+▁ xxmaj thy unused beauty must be tombed with thee , 
+▁ xxmaj which used lives th ' executor to be . 
+
+
+▁ 5 
+▁ xxmaj those hours that with gentle work did frame 
+▁ xxmaj the lovely gaze where every eye doth dwell 
+▁ xxmaj will play the tyrants to the very same , 
+▁ xxmaj and that unfair which fairly doth excel : 
+▁ xxmaj for never - resting time leads summer on 
+▁ xxmaj to hideous winter and confounds him there , 
+▁ xxmaj sap checked with frost and lusty leaves quite gone , 
+▁ xxmaj beauty o'er - snowed and bareness every where : 
+▁ xxmaj then were not summer 's distillation left 
+▁ a liquid prisoner pent in walls of glass , 
+▁ xxmaj beauty 's effect with beauty were bereft , 
+▁ xxmaj nor it nor no remembrance what it was . 
+▁ xxmaj but flowers distilled though they with winter meet , 
+▁ xxmaj leese but their show , their substance still lives sweet . 
+
+
+▁ 6 
+▁ xxmaj then let not winter 's ragged hand deface , 
+▁ xxmaj in thee thy summer ere thou be distilled : 
+▁ xxmaj make sweet some vial ; treasure thou some place , 
+▁ xxmaj with beauty 's treasure ere it be self - killed : 
+▁ xxmaj that use is not forbidden usury , 
+▁ xxmaj which happies those that pay the willing loan ; 
+▁ xxmaj that 's for thy self to breed another thee , 
+▁ xxmaj or ten times happier be it ten for one , 
+▁ xxmaj ten times thy self were happier than thou art , 
+▁ xxmaj if ten of thine ten times refigured thee : 
+▁ xxmaj then what could death do if thou shouldst depart , 
+▁ xxmaj leaving thee living in posterity ? 
+▁ xxmaj be not self - willed for thou art much too fair , 
+▁ xxmaj to be death 's conquest and make worms thine heir . 
+
+
+▁ 7 
+▁ xxmaj lo in the orient when the gracious light 
+▁ xxmaj lifts up his burning head , each under eye 
+▁ xxmaj doth homage to his new - appearing sight , 
+▁ xxmaj serving with looks his sacred majesty , 
+▁ xxmaj and having climbed the steep - up heavenly hill , 
+▁ xxmaj resembling strong youth in his middle age , 
+▁ xxmaj yet mortal looks adore his beauty still , 
+▁ xxmaj attending on his golden pilgrimage : 
+▁ xxmaj but when from highmost pitch with weary car , 
+▁ xxmaj like feeble age he reeleth from the day , 
+▁ xxmaj the eyes ( fore duteous ) now converted are 
+▁ xxmaj from his low tract and look another way : 
+▁ xxmaj so thou , thy self out - going in thy noon : 
+▁ xxmaj unlooked on diest unless thou get a son . 
+
+
+▁ 8 
+▁ xxmaj music to hear , why hear'st thou music sadly ? 
+▁ xxmaj sweets with sweets war not , joy delights in joy : 
+▁ xxmaj why lov'st thou that which thou receiv'st not gladly , 
+▁ xxmaj or else receiv'st with pleasure thine annoy ? 
+▁ xxmaj if the true concord of well - tuned sounds , 
+▁ xxmaj by unions married do offend thine ear , 
+▁ xxmaj they do but sweetly chide thee , who confounds 
+▁ xxmaj in singleness the parts that thou shouldst bear : 
+▁ xxmaj mark how one string sweet husband to another , 
+▁ xxmaj strikes each in each by mutual ordering ; 
+▁ xxmaj resembling sire , and child , and happy mother , 
+▁ xxmaj who all in one , one pleasing note do sing : 
+▁ xxmaj whose speechless song being many , seeming one , 
+▁ xxmaj sings this to thee , ' thou single wilt prove none ' . 
+
+
+▁ 9 
+▁ xxmaj is it for fear to wet a widow 's eye , 
+▁ xxmaj that thou consum'st thy self in single life ? 
+▁ xxmaj ah , if thou issueless shalt hap to die , 
+▁ xxmaj the world will wail thee like a makeless wife , 
+▁ xxmaj the world will be thy widow and still weep , 
+▁ xxmaj that thou no form of thee hast left behind , 
+▁ xxmaj when every private widow well may keep , 
+▁ xxmaj by children 's eyes , her husband 's shape in mind : 
+▁ xxmaj look what an unthrift in the world doth spend 
+▁ xxmaj shifts but his place , for still the world enjoys it ; 
+▁ xxmaj but beauty 's waste hath in the world an end , 
+▁ xxmaj and kept unused the user so destroys it : 
+▁ xxmaj no love toward others in that bosom sits 
+▁ xxmaj that on himself such murd'rous shame commits . 
+
+
+▁ 10 
+▁ xxmaj for shame deny that thou bear'st love to any 
+▁ xxmaj who for thy self art so unprovident . 
+▁ xxmaj grant if thou wilt , thou art beloved of many , 
+▁ xxmaj but that thou none lov'st is most evident : 
+▁ xxmaj for thou art so possessed with murd'rous hate , 
+▁ xxmaj that ' gainst thy self thou stick'st not to conspire , 
+▁ xxmaj seeking that beauteous roof to ruinate 
+▁ xxmaj which to repair should be thy chief desire : 
+▁ o change thy thought , that i may change my mind , 
+▁ xxmaj shall hate be fairer lodged than gentle love ? 
+▁ xxmaj be as thy presence is gracious and kind , 
+▁ xxmaj or to thy self at least kind - hearted prove , 
+▁ xxmaj make thee another self for love of me , 
+▁ xxmaj that beauty still may live in thine or thee . 
+
+
+▁ 11 
+▁ xxmaj as fast as thou shalt wane so fast thou grow'st , 
+▁ xxmaj in one of thine , from that which thou departest , 
+▁ xxmaj and that fresh blood which youngly thou bestow'st , 
+▁ xxmaj thou mayst call thine , when thou from youth convertest , 
+▁ xxmaj herein lives wisdom , beauty , and increase , 
+▁ xxmaj without this folly , age , and cold decay , 
+▁ xxmaj if all were minded so , the times should cease , 
+▁ xxmaj and threescore year would make the world away : 
+▁ xxmaj let those whom nature hath not made for store , 
+▁ xxmaj harsh , featureless , and rude , barrenly perish : 
+▁ xxmaj look whom she best endowed , she gave thee more ; 
+▁ xxmaj which bounteous gift thou shouldst in bounty cherish : 
+▁ xxmaj she carved thee for her seal , and meant thereby , 
+▁ xxmaj thou shouldst print more , not let that copy die . 
+
+
+▁ 12 
+▁ xxmaj when i do count the clock that tells the time , 
+▁ xxmaj and see the brave day sunk in hideous night , 
+▁ xxmaj when i behold the violet past prime , 
+▁ xxmaj and sable curls all silvered o'er with white : 
+▁ xxmaj when lofty trees i see barren of leaves , 
+▁ xxmaj which erst from heat did canopy the herd 
+▁ xxmaj and summer 's green all girded up in sheaves 
+▁ xxmaj borne on the bier with white and bristly beard : 
+▁ xxmaj then of thy beauty do i question make 
+▁ xxmaj that thou among the wastes of time must go , 
+▁ xxmaj since sweets and beauties do themselves forsake , 
+▁ xxmaj and die as fast as they see others grow , 
+▁ xxmaj and nothing ' gainst xxmaj time 's scythe can make defence 
+▁ xxmaj save breed to brave him , when he takes thee hence . 
+
+
+▁ 13 
+▁ o that you were your self , but love you are 
+▁ xxmaj no longer yours , than you your self here live , 
+▁ xxmaj against this coming end you should prepare , 
+▁ xxmaj and your sweet semblance to some other give . 
+▁ xxmaj so should that beauty which you hold in lease 
+▁ xxmaj find no determination , then you were 
+▁ xxmaj your self again after your self 's decease , 
+▁ xxmaj when your sweet issue your sweet form should bear . 
+▁ xxmaj who lets so fair a house fall to decay , 
+▁ xxmaj which husbandry in honour might uphold , 
+▁ xxmaj against the stormy gusts of winter 's day 
+▁ xxmaj and barren rage of death 's eternal cold ? 
+▁ o none but unthrifts , dear my love you know , 
+▁ xxmaj you had a father , let your son say so . 
+
+
+▁ 14 
+▁ xxmaj not from the stars do i my judgement pluck , 
+▁ xxmaj and yet methinks i have astronomy , 
+▁ xxmaj but not to tell of good , or evil luck , 
+▁ xxmaj of plagues , of dearths , or seasons ' quality , 
+▁ xxmaj nor can i fortune to brief minutes tell ; 
+▁ xxmaj pointing to each his thunder , rain and wind , 
+▁ xxmaj or say with princes if it shall go well 
+▁ xxmaj by oft predict that i in heaven find . 
+▁ xxmaj but from thine eyes my knowledge i derive , 
+▁ xxmaj and constant stars in them i read such art 
+▁ xxmaj as truth and beauty shall together thrive 
+▁ xxmaj if from thy self , to store thou wouldst convert : 
+▁ xxmaj or else of thee this i prognosticate , 
+▁ xxmaj thy end is truth 's and beauty 's doom and date . 
+
+
+▁ 15 
+▁ xxmaj when i consider every thing that grows 
+▁ xxmaj holds in perfection but a little moment . 
+▁ xxmaj that this huge stage presenteth nought but shows 
+▁ xxmaj whereon the stars in secret influence comment . 
+▁ xxmaj when i perceive that men as plants increase , 
+▁ xxmaj cheered and checked even by the self - same sky : 
+▁ xxmaj vaunt in their youthful sap , at height decrease , 
+▁ xxmaj and wear their brave state out of memory . 
+▁ xxmaj then the conceit of this inconstant stay , 
+▁ xxmaj sets you most rich in youth before my sight , 
+▁ xxmaj where wasteful time debateth with decay 
+▁ xxmaj to change your day of youth to sullied night , 
+▁ xxmaj and all in war with xxmaj time for love of you , 
+▁ xxmaj as he takes from you , i engraft you new . 
+
+
+▁ 16 
+▁ xxmaj but wherefore do not you a mightier way 
+▁ xxmaj make war upon this bloody tyrant xxmaj time ? 
+▁ xxmaj and fortify your self in your decay 
+▁ xxmaj with means more blessed than my barren rhyme ? 
+▁ xxmaj now stand you on the top of happy hours , 
+▁ xxmaj and many maiden gardens yet unset , 
+▁ xxmaj with virtuous wish would bear you living flowers , 
+▁ xxmaj much liker than your painted counterfeit : 
+▁ xxmaj so should the lines of life that life repair 
+▁ xxmaj which this ( time 's pencil ) or my pupil pen 
+▁ xxmaj neither in inward worth nor outward fair 
+▁ xxmaj can make you live your self in eyes of men . 
+▁ xxmaj to give away your self , keeps your self still , 
+▁ xxmaj and you must live drawn by your own sweet skill . 
+
+
+▁ 17 
+▁ xxmaj who will believe my verse in time to come 
+▁ xxmaj if it were filled with your most high deserts ? 
+▁ xxmaj though yet heaven knows it is but as a tomb 
+▁ xxmaj which hides your life , and shows not half your parts : 
+▁ xxmaj if i could write the beauty of your eyes , 
+▁ xxmaj and in fresh numbers number all your graces , 
+▁ xxmaj the age to come would say this poet lies , 
+▁ xxmaj such heavenly touches ne'er touched earthly faces . 
+▁ xxmaj so should my papers ( yellowed with their age ) 
+▁ xxmaj be scorned , like old men of less truth than tongue , 
+▁ xxmaj and your true rights be termed a poet 's rage , 
+▁ xxmaj and stretched metre of an antique song . 
+▁ xxmaj but were some child of yours alive that time , 
+▁ xxmaj you should live twice in it , and in my rhyme . 
+
+
+▁ 18 
+▁ xxmaj shall i compare thee to a summer 's day ? 
+▁ xxmaj thou art more lovely and more temperate : 
+▁ xxmaj rough winds do shake the darling buds of xxmaj may , 
+▁ xxmaj and summer 's lease hath all too short a date : 
+▁ xxmaj sometime too hot the eye of heaven shines , 
+▁ xxmaj and often is his gold complexion dimmed , 
+▁ xxmaj and every fair from fair sometime declines , 
+▁ xxmaj by chance , or nature 's changing course untrimmed : 
+▁ xxmaj but thy eternal summer shall not fade , 
+▁ xxmaj nor lose possession of that fair thou ow'st , 
+▁ xxmaj nor shall death brag thou wand'rest in his shade , 
+▁ xxmaj when in eternal lines to time thou grow'st , 
+▁ xxmaj so long as men can breathe or eyes can see , 
+▁ xxmaj so long lives this , and this gives life to thee . 
+
+
+▁ 19 
+▁ xxmaj devouring xxmaj time blunt thou the lion 's paws , 
+▁ xxmaj and make the earth devour her own sweet brood , 
+▁ xxmaj pluck the keen teeth from the fierce tiger 's jaws , 
+▁ xxmaj and burn the long - lived phoenix , in her blood , 
+▁ xxmaj make glad and sorry seasons as thou fleet'st , 
+▁ xxmaj and do whate'er thou wilt swift - footed xxmaj time 
+▁ xxmaj to the wide world and all her fading sweets : 
+▁ xxmaj but i forbid thee one most heinous crime , 
+▁ o carve not with thy hours my love 's fair brow , 
+▁ xxmaj nor draw no lines there with thine antique pen , 
+▁ xxmaj him in thy course untainted do allow , 
+▁ xxmaj for beauty 's pattern to succeeding men . 
+▁ xxmaj yet do thy worst old xxmaj time : despite thy wrong , 
+▁ xxmaj my love shall in my verse ever live young . 
+
+
+▁ 20 
+▁ a woman 's face with nature 's own hand painted , 
+▁ xxmaj hast thou the master mistress of my passion , 
+▁ a woman 's gentle heart but not acquainted 
+▁ xxmaj with shifting change as is false women 's fashion , 
+▁ xxmaj an eye more bright than theirs , less false in rolling : 
+▁ xxmaj gilding the object whereupon it gazeth , 
+▁ a man in hue all hues in his controlling , 
+▁ xxmaj which steals men 's eyes and women 's souls amazeth . 
+▁ xxmaj and for a woman wert thou first created , 
+▁ xxmaj till nature as she wrought thee fell a - doting , 
+▁ xxmaj and by addition me of thee defeated , 
+▁ xxmaj by adding one thing to my purpose nothing . 
+▁ xxmaj but since she pricked thee out for women 's pleasure , 
+▁ xxmaj mine be thy love and thy love 's use their treasure . 
+
+
+▁ 21 
+▁ xxmaj so is it not with me as with that muse , 
+▁ xxmaj stirred by a painted beauty to his verse , 
+▁ xxmaj who heaven it self for ornament doth use , 
+▁ xxmaj and every fair with his fair doth rehearse , 
+▁ xxmaj making a couplement of proud compare 
+▁ xxmaj with sun and moon , with earth and sea 's rich gems : 
+▁ xxmaj with xxmaj april 's first - born flowers and all things rare , 
+▁ xxmaj that heaven 's air in this huge rondure hems . 
+▁ o let me true in love but truly write , 
+▁ xxmaj and then believe me , my love is as fair , 
+▁ xxmaj as any mother 's child , though not so bright 
+▁ xxmaj as those gold candles fixed in heaven 's air : 
+▁ xxmaj let them say more that like of hearsay well , 
+▁ i will not praise that purpose not to sell . 
+
+
+▁ 22 
+▁ xxmaj my glass shall not persuade me i am old , 
+▁ xxmaj so long as youth and thou are of one date , 
+▁ xxmaj but when in thee time 's furrows i behold , 
+▁ xxmaj then look i death my days should expiate . 
+▁ xxmaj for all that beauty that doth cover thee , 
+▁ xxmaj is but the seemly raiment of my heart , 
+▁ xxmaj which in thy breast doth live , as thine in me , 
+▁ xxmaj how can i then be elder than thou art ? 
+▁ o therefore love be of thyself so wary , 
+▁ xxmaj as i not for my self , but for thee will , 
+▁ xxmaj bearing thy heart which i will keep so chary 
+▁ xxmaj as tender nurse her babe from faring ill . 
+▁ xxmaj presume not on thy heart when mine is slain , 
+▁ xxmaj thou gav'st me thine not to give back again . 
+
+
+▁ 23 
+▁ xxmaj as an unperfect actor on the stage , 
+▁ xxmaj who with his fear is put beside his part , 
+▁ xxmaj or some fierce thing replete with too much rage , 
+▁ xxmaj whose strength 's abundance weakens his own heart ; 
+▁ xxmaj so i for fear of trust , forget to say , 
+▁ xxmaj the perfect ceremony of love 's rite , 
+▁ xxmaj and in mine own love 's strength seem to decay , 
+▁ xxmaj o'ercharged with burthen of mine own love 's might : 
+▁ o let my looks be then the eloquence , 
+▁ xxmaj and dumb presagers of my speaking breast , 
+▁ xxmaj who plead for love , and look for recompense , 
+▁ xxmaj more than that tongue that more hath more expressed . 
+▁ o learn to read what silent love hath writ , 
+▁ xxmaj to hear with eyes belongs to love 's fine wit . 
+
+
+▁ 24 
+▁ xxmaj mine eye hath played the painter and hath stelled , 
+▁ xxmaj thy beauty 's form in table of my heart , 
+▁ xxmaj my body is the frame wherein ' tis held , 
+▁ xxmaj and perspective it is best painter 's art . 
+▁ xxmaj for through the painter must you see his skill , 
+▁ xxmaj to find where your true image pictured lies , 
+▁ xxmaj which in my bosom 's shop is hanging still , 
+▁ xxmaj that hath his windows glazed with thine eyes : 
+▁ xxmaj now see what good turns eyes for eyes have done , 
+▁ xxmaj mine eyes have drawn thy shape , and thine for me 
+▁ xxmaj are windows to my breast , where - through the sun 
+▁ xxmaj delights to peep , to gaze therein on thee ; 
+▁ xxmaj yet eyes this cunning want to grace their art , 
+▁ xxmaj they draw but what they see , know not the heart . 
+
+
+▁ 25 
+▁ xxmaj let those who are in favour with their stars , 
+▁ xxmaj of public honour and proud titles boast , 
+▁ xxmaj whilst i whom fortune of such triumph bars 
+▁ xxmaj unlooked for joy in that i honour most ; 
+▁ xxmaj great princes ' favourites their fair leaves spread , 
+▁ xxmaj but as the marigold at the sun 's eye , 
+▁ xxmaj and in themselves their pride lies buried , 
+▁ xxmaj for at a frown they in their glory die . 
+▁ xxmaj the painful warrior famoused for fight , 
+▁ xxmaj after a thousand victories once foiled , 
+▁ xxmaj is from the book of honour razed quite , 
+▁ xxmaj and all the rest forgot for which he toiled : 
+▁ xxmaj then happy i that love and am beloved 
+▁ xxmaj where i may not remove nor be removed . 
+
+
+▁ 26 
+▁ xxmaj lord of my love , to whom in vassalage 
+▁ xxmaj thy merit hath my duty strongly knit ; 
+▁ xxmaj to thee i send this written embassage 
+▁ xxmaj to witness duty , not to show my wit . 
+▁ xxmaj duty so great , which wit so poor as mine 
+▁ xxmaj may make seem bare , in wanting words to show it ; 
+▁ xxmaj but that i hope some good conceit of thine 
+▁ xxmaj in thy soul 's thought ( all naked ) will bestow it : 
+▁ xxmaj till whatsoever star that guides my moving , 
+▁ xxmaj points on me graciously with fair aspect , 
+▁ xxmaj and puts apparel on my tattered loving , 
+▁ xxmaj to show me worthy of thy sweet respect , 
+▁ xxmaj then may i dare to boast how i do love thee , 
+▁ xxmaj till then , not show my head where thou mayst prove me . 
+
+
+▁ 27 
+▁ xxmaj weary with toil , i haste me to my bed , 
+▁ xxmaj the dear respose for limbs with travel tired , 
+▁ xxmaj but then begins a journey in my head 
+▁ xxmaj to work my mind , when body 's work 's expired . 
+▁ xxmaj for then my thoughts ( from far where i abide ) 
+▁ xxmaj intend a zealous pilgrimage to thee , 
+▁ xxmaj and keep my drooping eyelids open wide , 
+▁ xxmaj looking on darkness which the blind do see . 
+▁ xxmaj save that my soul 's imaginary sight 
+▁ xxmaj presents thy shadow to my sightless view , 
+▁ xxmaj which like a jewel ( hung in ghastly night ) 
+▁ xxmaj makes black night beauteous , and her old face new . 
+▁ xxmaj lo thus by day my limbs , by night my mind , 
+▁ xxmaj for thee , and for my self , no quiet find . 
+
+
+▁ 28 
+▁ xxmaj how can i then return in happy plight 
+▁ xxmaj that am debarred the benefit of rest ? 
+▁ xxmaj when day 's oppression is not eased by night , 
+▁ xxmaj but day by night and night by day oppressed . 
+▁ xxmaj and each ( though enemies to either 's reign ) 
+▁ xxmaj do in consent shake hands to torture me , 
+▁ xxmaj the one by toil , the other to complain 
+▁ xxmaj how far i toil , still farther off from thee . 
+▁ i tell the day to please him thou art bright , 
+▁ xxmaj and dost him grace when clouds do blot the heaven : 
+▁ xxmaj so flatter i the swart - complexioned night , 
+▁ xxmaj when sparkling stars twire not thou gild'st the even . 
+▁ xxmaj but day doth daily draw my sorrows longer , 
+▁ xxmaj and night doth nightly make grief 's length seem stronger 
+
+
+▁ 29 
+▁ xxmaj when in disgrace with xxmaj fortune and men 's eyes , 
+▁ i all alone beweep my outcast state , 
+▁ xxmaj and trouble deaf heaven with my bootless cries , 
+▁ xxmaj and look upon my self and curse my fate , 
+▁ xxmaj wishing me like to one more rich in hope , 
+▁ xxmaj featured like him , like him with friends possessed , 
+▁ xxmaj desiring this man 's art , and that man 's scope , 
+▁ xxmaj with what i most enjoy contented least , 
+▁ xxmaj yet in these thoughts my self almost despising , 
+▁ xxmaj haply i think on thee , and then my state , 
+▁ ( like to the lark at break of day arising 
+▁ xxmaj from sullen earth ) sings hymns at heaven 's gate , 
+▁ xxmaj for thy sweet love remembered such wealth brings , 
+▁ xxmaj that then i scorn to change my state with kings . 
+
+
+▁ 30 
+▁ xxmaj when to the sessions of sweet silent thought , 
+▁ i summon up remembrance of things past , 
+▁ i sigh the lack of many a thing i sought , 
+▁ xxmaj and with old woes new wail my dear time 's waste : 
+▁ xxmaj then can i drown an eye ( unused to flow ) 
+▁ xxmaj for precious friends hid in death 's dateless night , 
+▁ xxmaj and weep afresh love 's long since cancelled woe , 
+▁ xxmaj and moan th ' expense of many a vanished sight . 
+▁ xxmaj then can i grieve at grievances foregone , 
+▁ xxmaj and heavily from woe to woe tell o'er 
+▁ xxmaj the sad account of fore - bemoaned moan , 
+▁ xxmaj which i new pay as if not paid before . 
+▁ xxmaj but if the while i think on thee ( dear friend ) 
+▁ xxmaj all losses are restored , and sorrows end . 
+
+
+▁ 31 
+▁ xxmaj thy bosom is endeared with all hearts , 
+▁ xxmaj which i by lacking have supposed dead , 
+▁ xxmaj and there reigns love and all love 's loving parts , 
+▁ xxmaj and all those friends which i thought buried . 
+▁ xxmaj how many a holy and obsequious tear 
+▁ xxmaj hath dear religious love stol'n from mine eye , 
+▁ xxmaj as interest of the dead , which now appear , 
+▁ xxmaj but things removed that hidden in thee lie . 
+▁ xxmaj thou art the grave where buried love doth live , 
+▁ xxmaj hung with the trophies of my lovers gone , 
+▁ xxmaj who all their parts of me to thee did give , 
+▁ xxmaj that due of many , now is thine alone . 
+▁ xxmaj their images i loved , i view in thee , 
+▁ xxmaj and thou ( all they ) hast all the all of me . 
+
+
+▁ 32 
+▁ xxmaj if thou survive my well - contented day , 
+▁ xxmaj when that churl death my bones with dust shall cover 
+▁ xxmaj and shalt by fortune once more re - survey 
+▁ xxmaj these poor rude lines of thy deceased lover : 
+▁ xxmaj compare them with the bett'ring of the time , 
+▁ xxmaj and though they be outstripped by every pen , 
+▁ xxmaj reserve them for my love , not for their rhyme , 
+▁ xxmaj exceeded by the height of happier men . 
+▁ o then vouchsafe me but this loving thought , 
+▁ ' had my friend 's xxmaj muse grown with this growing age , 
+▁ a dearer birth than this his love had brought 
+▁ xxmaj to march in ranks of better equipage : 
+▁ xxmaj but since he died and poets better prove , 
+▁ xxmaj theirs for their style xxmaj i 'll read , his for his love ' . 
+
+
+▁ 33 
+▁ xxmaj full many a glorious morning have i seen , 
+▁ xxmaj flatter the mountain tops with sovereign eye , 
+▁ xxmaj kissing with golden face the meadows green ; 
+▁ xxmaj gilding pale streams with heavenly alchemy : 
+▁ xxmaj anon permit the basest clouds to ride , 
+▁ xxmaj with ugly rack on his celestial face , 
+▁ xxmaj and from the forlorn world his visage hide 
+▁ xxmaj stealing unseen to west with this disgrace : 
+▁ xxmaj even so my sun one early morn did shine , 
+▁ xxmaj with all triumphant splendour on my brow , 
+▁ xxmaj but out alack , he was but one hour mine , 
+▁ xxmaj the region cloud hath masked him from me now . 
+▁ xxmaj yet him for this , my love no whit disdaineth , 
+▁ xxmaj suns of the world may stain , when heaven 's sun staineth . 
+
+
+▁ 34 
+▁ xxmaj why didst thou promise such a beauteous day , 
+▁ xxmaj and make me travel forth without my cloak , 
+▁ xxmaj to let base clouds o'ertake me in my way , 
+▁ xxmaj hiding thy brav'ry in their rotten smoke ? 
+▁ ' tis not enough that through the cloud thou break , 
+▁ xxmaj to dry the rain on my storm - beaten face , 
+▁ xxmaj for no man well of such a salve can speak , 
+▁ xxmaj that heals the wound , and cures not the disgrace : 
+▁ xxmaj nor can thy shame give physic to my grief , 
+▁ xxmaj though thou repent , yet i have still the loss , 
+▁ xxmaj th ' offender 's sorrow lends but weak relief 
+▁ xxmaj to him that bears the strong offence 's cross . 
+▁ xxmaj ah but those tears are pearl which thy love sheds , 
+▁ xxmaj and they are rich , and ransom all ill deeds . 
+
+
+▁ 35 
+▁ xxmaj no more be grieved at that which thou hast done , 
+▁ xxmaj roses have thorns , and silver fountains mud , 
+▁ xxmaj clouds and eclipses stain both moon and sun , 
+▁ xxmaj and loathsome canker lives in sweetest bud . 
+▁ xxmaj all men make faults , and even i in this , 
+▁ xxmaj authorizing thy trespass with compare , 
+▁ xxmaj my self corrupting salving thy amiss , 
+▁ xxmaj excusing thy sins more than thy sins are : 
+▁ xxmaj for to thy sensual fault i bring in sense , 
+▁ xxmaj thy adverse party is thy advocate , 
+▁ xxmaj and ' gainst my self a lawful plea commence : 
+▁ xxmaj such civil war is in my love and hate , 
+▁ xxmaj that i an accessary needs must be , 
+▁ xxmaj to that sweet thief which sourly robs from me . 
+
+
+▁ 36 
+▁ xxmaj let me confess that we two must be twain , 
+▁ xxmaj although our undivided loves are one : 
+▁ xxmaj so shall those blots that do with me remain , 
+▁ xxmaj without thy help , by me be borne alone . 
+▁ xxmaj in our two loves there is but one respect , 
+▁ xxmaj though in our lives a separable spite , 
+▁ xxmaj which though it alter not love 's sole effect , 
+▁ xxmaj yet doth it steal sweet hours from love 's delight . 
+▁ i may not evermore acknowledge thee , 
+▁ xxmaj lest my bewailed guilt should do thee shame , 
+▁ xxmaj nor thou with public kindness honour me , 
+▁ xxmaj unless thou take that honour from thy name : 
+▁ xxmaj but do not so , i love thee in such sort , 
+▁ xxmaj as thou being mine , mine is thy good report . 
+
+
+▁ 37 
+▁ xxmaj as a decrepit father takes delight , 
+▁ xxmaj to see his active child do deeds of youth , 
+▁ xxmaj so xxup i , made lame by xxmaj fortune 's dearest spite 
+▁ xxmaj take all my comfort of thy worth and truth . 
+▁ xxmaj for whether beauty , birth , or wealth , or wit , 
+▁ xxmaj or any of these all , or all , or more 
+▁ xxmaj entitled in thy parts , do crowned sit , 
+▁ i make my love engrafted to this store : 
+▁ xxmaj so then i am not lame , poor , nor despised , 
+▁ xxmaj whilst that this shadow doth such substance give , 
+▁ xxmaj that i in thy abundance am sufficed , 
+▁ xxmaj and by a part of all thy glory live : 
+▁ xxmaj look what is best , that best i wish in thee , 
+▁ xxmaj this wish i have , then ten times happy me . 
+
+
+▁ 38 
+▁ xxmaj how can my muse want subject to invent 
+▁ xxmaj while thou dost breathe that pour'st into my verse , 
+▁ xxmaj thine own sweet argument , too excellent , 
+▁ xxmaj for every vulgar paper to rehearse ? 
+▁ o give thy self the thanks if aught in me , 
+▁ xxmaj worthy perusal stand against thy sight , 
+▁ xxmaj for who 's so dumb that can not write to thee , 
+▁ xxmaj when thou thy self dost give invention light ? 
+▁ xxmaj be thou the tenth xxmaj muse , ten times more in worth 
+▁ xxmaj than those old nine which rhymers invocate , 
+▁ xxmaj and he that calls on thee , let him bring forth 
+▁ xxmaj eternal numbers to outlive long date . 
+▁ xxmaj if my slight muse do please these curious days , 
+▁ xxmaj the pain be mine , but thine shall be the praise . 
+
+
+▁ 39 
+▁ o how thy worth with manners may i sing , 
+▁ xxmaj when thou art all the better part of me ? 
+▁ xxmaj what can mine own praise to mine own self bring : 
+▁ xxmaj and what is't but mine own when i praise thee ? 
+▁ xxmaj even for this , let us divided live , 
+▁ xxmaj and our dear love lose name of single one , 
+▁ xxmaj that by this separation i may give : 
+▁ xxmaj that due to thee which thou deserv'st alone : 
+▁ o absence what a torment wouldst thou prove , 
+▁ xxmaj were it not thy sour leisure gave sweet leave , 
+▁ xxmaj to entertain the time with thoughts of love , 
+▁ xxmaj which time and thoughts so sweetly doth deceive . 
+▁ xxmaj and that thou teachest how to make one twain , 
+▁ xxmaj by praising him here who doth hence remain . 
+
+
+▁ 40 
+▁ xxmaj take all my loves , my love , yea take them all , 
+▁ xxmaj what hast thou then more than thou hadst before ? 
+▁ xxmaj no love , my love , that thou mayst true love call , 
+▁ xxmaj all mine was thine , before thou hadst this more : 
+▁ xxmaj then if for my love , thou my love receivest , 
+▁ i can not blame thee , for my love thou usest , 
+▁ xxmaj but yet be blamed , if thou thy self deceivest 
+▁ xxmaj by wilful taste of what thy self refusest . 
+▁ i do forgive thy robbery gentle thief 
+▁ xxmaj although thou steal thee all my poverty : 
+▁ xxmaj and yet love knows it is a greater grief 
+▁ xxmaj to bear greater wrong , than hate 's known injury . 
+▁ xxmaj lascivious grace , in whom all ill well shows , 
+▁ xxmaj kill me with spites yet we must not be foes . 
+
+
+▁ 41 
+▁ xxmaj those pretty wrongs that liberty commits , 
+▁ xxmaj when i am sometime absent from thy heart , 
+▁ xxmaj thy beauty , and thy years full well befits , 
+▁ xxmaj for still temptation follows where thou art . 
+▁ xxmaj gentle thou art , and therefore to be won , 
+▁ xxmaj beauteous thou art , therefore to be assailed . 
+▁ xxmaj and when a woman woos , what woman 's son , 
+▁ xxmaj will sourly leave her till he have prevailed ? 
+▁ xxmaj ay me , but yet thou mightst my seat forbear , 
+▁ xxmaj and chide thy beauty , and thy straying youth , 
+▁ xxmaj who lead thee in their riot even there 
+▁ xxmaj where thou art forced to break a twofold truth : 
+▁ xxmaj hers by thy beauty tempting her to thee , 
+▁ xxmaj thine by thy beauty being false to me . 
+
+
+▁ 42 
+▁ xxmaj that thou hast her it is not all my grief , 
+▁ xxmaj and yet it may be said i loved her dearly , 
+▁ xxmaj that she hath thee is of my wailing chief , 
+▁ a loss in love that touches me more nearly . 
+▁ xxmaj loving offenders thus i will excuse ye , 
+▁ xxmaj thou dost love her , because thou know'st i love her , 
+▁ xxmaj and for my sake even so doth she abuse me , 
+▁ xxmaj suff'ring my friend for my sake to approve her . 
+▁ xxmaj if i lose thee , my loss is my love 's gain , 
+▁ xxmaj and losing her , my friend hath found that loss , 
+▁ xxmaj both find each other , and i lose both twain , 
+▁ xxmaj and both for my sake lay on me this cross , 
+▁ xxmaj but here 's the joy , my friend and i are one , 
+▁ xxmaj sweet flattery , then she loves but me alone . 
+
+
+▁ 43 
+▁ xxmaj when most i wink then do mine eyes best see , 
+▁ xxmaj for all the day they view things unrespected , 
+▁ xxmaj but when i sleep , in dreams they look on thee , 
+▁ xxmaj and darkly bright , are bright in dark directed . 
+▁ xxmaj then thou whose shadow shadows doth make bright 
+▁ xxmaj how would thy shadow 's form , form happy show , 
+▁ xxmaj to the clear day with thy much clearer light , 
+▁ xxmaj when to unseeing eyes thy shade shines so ! 
+▁ xxmaj how would ( i say ) mine eyes be blessed made , 
+▁ xxmaj by looking on thee in the living day , 
+▁ xxmaj when in dead night thy fair imperfect shade , 
+▁ xxmaj through heavy sleep on sightless eyes doth stay ! 
+▁ xxmaj all days are nights to see till i see thee , 
+▁ xxmaj and nights bright days when dreams do show thee me . 
+
+
+▁ 44 
+▁ xxmaj if the dull substance of my flesh were thought , 
+▁ xxmaj injurious distance should not stop my way , 
+▁ xxmaj for then despite of space i would be brought , 
+▁ xxmaj from limits far remote , where thou dost stay , 
+▁ xxmaj no matter then although my foot did stand 
+▁ xxmaj upon the farthest earth removed from thee , 
+▁ xxmaj for nimble thought can jump both sea and land , 
+▁ xxmaj as soon as think the place where he would be . 
+▁ xxmaj but ah , thought kills me that i am not thought 
+▁ xxmaj to leap large lengths of miles when thou art gone , 
+▁ xxmaj but that so much of earth and water wrought , 
+▁ i must attend , time 's leisure with my moan . 
+▁ xxmaj receiving nought by elements so slow , 
+▁ xxmaj but heavy tears , badges of either 's woe .

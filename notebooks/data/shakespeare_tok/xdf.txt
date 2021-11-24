@@ -1,0 +1,997 @@
+xxbos < < this xxup electronic xxup version xxup of xxup the xxup complete xxup works xxup of xxup william 
+ xxup shakespeare xxup is xxup copyright 1990 - 1993 xxup by xxup world xxup library , xxup inc . , xxup and xxup is 
+ xxup provided xxup by xxup project xxup gutenberg xxup etext xxup of xxup illinois xxup benedictine xxup college 
+ xxup with xxup permission . xxup electronic xxup and xxup machine xxup readable xxup copies xxup may xxup be 
+ xxup distributed xxup so xxup long xxup as xxup such xxup copies ( 1 ) xxup are xxup for xxup your xxup or xxup others 
+ xxup personal xxup use xxup only , xxup and ( 2 ) xxup are xxup not xxup distributed xxup or xxup used 
+ xxup commercially . xxup prohibited xxup commercial xxup distribution xxup includes xxup by xxup any 
+ xxup service xxup that xxup charges xxup for xxup download xxup time xxup or xxup for xxup membership . > > 
+
+
+
+ xxup act xxup iv . xxmaj scene xxup i. 
+ a church . 
+
+ xxmaj enter xxmaj don xxmaj pedro , [ john the ] xxmaj bastard , xxmaj leonato , xxmaj friar [ francis ] , xxmaj claudio , 
+ xxmaj benedick , xxmaj hero , xxmaj beatrice , [ and xxmaj attendants ] . 
+
+▁ xxmaj leon . xxmaj come , xxmaj friar xxmaj francis , be brief . xxmaj only to the plain form of 
+▁ marriage , and you shall recount their particular duties 
+▁ afterwards . 
+▁ xxmaj friar . xxmaj you come hither , my lord , to marry this lady ? 
+▁ xxmaj claud . xxmaj no . 
+▁ xxmaj leon . xxmaj to be married to her . xxmaj friar , you come to marry her . 
+▁ xxmaj friar . xxmaj lady , you come hither to be married to this count ? 
+▁ xxmaj hero . i do . 
+▁ xxmaj friar . xxmaj if either of you know any inward impediment why you should 
+▁ not be conjoined , i charge you on your souls to utter it . 
+▁ xxmaj claud . xxmaj know you any , xxmaj hero ? 
+▁ xxmaj hero . xxmaj none , my lord . 
+▁ xxmaj friar . xxmaj know you any , xxmaj count ? 
+▁ xxmaj leon . i dare make his answer -- none . 
+▁ xxmaj claud . xxup o , what men dare do ! what men may do ! what men daily do , not 
+▁ knowing what they do ! 
+▁ xxmaj bene . xxmaj how now ? interjections ? xxmaj why then , some be of laughing , as , 
+▁ ah , ha , he ! 
+▁ xxmaj claud . xxmaj stand thee by , friar . xxmaj father , by your leave : 
+▁ xxmaj will you with free and unconstrained soul 
+▁ xxmaj give me this maid your daughter ? 
+▁ xxmaj leon . xxmaj as freely , son , as xxmaj god did give her me . 
+▁ xxmaj claud . xxmaj and what have i to give you back whose worth 
+▁ xxmaj may counterpoise this rich and precious gift ? 
+▁ xxmaj pedro . xxmaj nothing , unless you render her again . 
+▁ xxmaj claud . xxmaj sweet xxmaj prince , you learn me noble thankfulness . 
+▁ xxmaj there , xxmaj leonato , take her back again . 
+▁ xxmaj give not this rotten orange to your friend . 
+▁ xxmaj she 's but the sign and semblance of her honour . 
+▁ xxmaj behold how like a maid she blushes here ! 
+▁ xxup o , what authority and show of truth 
+▁ xxmaj can cunning sin cover itself withal ! 
+▁ xxmaj comes not that blood as modest evidence 
+▁ xxmaj to witness simple virtue , xxmaj would you not swear , 
+▁ xxmaj all you that see her , that she were a maid 
+▁ xxmaj by these exterior shows ? xxmaj but she is none : 
+▁ xxmaj she knows the heat of a luxurious bed ; 
+▁ xxmaj her blush is guiltiness , not modesty . 
+▁ xxmaj leon . xxmaj what do you mean , my lord ? 
+▁ xxmaj claud . xxmaj not to be married , 
+▁ xxmaj not to knit my soul to an approved wanton . 
+▁ xxmaj leon . xxmaj dear my lord , if you , in your own proof , 
+▁ xxmaj have vanquish'd the resistance of her youth 
+▁ xxmaj and made defeat of her virginity-- 
+▁ xxmaj claud . i know what you would say . xxmaj if i have known her , 
+▁ xxmaj you will say she did embrace me as a husband , 
+▁ xxmaj and so extenuate the forehand sin . 
+▁ xxmaj no , xxmaj leonato , 
+▁ i never tempted her with word too large , 
+▁ xxmaj but , as a brother to his sister , show'd 
+▁ xxmaj bashful sincerity and comely love . 
+▁ xxmaj hero . xxmaj and seem'd i ever otherwise to you ? 
+▁ xxmaj claud . xxmaj out on the seeming ! i will write against it . 
+▁ xxmaj you seem to me as xxmaj dian in her orb , 
+▁ xxmaj as chaste as is the bud ere it be blown ; 
+▁ xxmaj but you are more intemperate in your blood 
+▁ xxmaj than xxmaj venus , or those pamp'red animals 
+▁ xxmaj that rage in savage sensuality . 
+▁ xxmaj hero . xxmaj is my lord well that he doth speak so wide ? 
+▁ xxmaj leon . xxmaj sweet xxmaj prince , why speak not you ? 
+▁ xxmaj pedro . xxmaj what should i speak ? 
+▁ i stand dishonour'd that have gone about 
+▁ xxmaj to link my dear friend to a common stale . 
+▁ xxmaj leon . xxmaj are these things spoken , or do i but dream ? 
+▁ xxmaj john . xxmaj sir , they are spoken , and these things are true . 
+▁ xxmaj bene . xxmaj this looks not like a nuptial . 
+▁ xxmaj hero . ' true ! ' o xxmaj god ! 
+▁ xxmaj claud . xxmaj leonato , stand i here ? 
+▁ xxmaj is this the xxmaj prince , xxmaj is this the xxmaj prince 's brother ? 
+▁ xxmaj is this face xxmaj hero 's ? xxmaj are our eyes our own ? 
+▁ xxmaj leon . xxmaj all this is so ; but what of this , my lord ? 
+▁ xxmaj claud . xxmaj let me but move one question to your daughter , 
+▁ xxmaj and by that fatherly and kindly power 
+▁ xxmaj that you have in her , bid her answer truly . 
+▁ xxmaj leon . i charge thee do so , as thou art my child . 
+▁ xxmaj hero . xxup o , xxmaj god defend me ! xxmaj how am i beset ! 
+▁ xxmaj what kind of catechising call you this ? 
+▁ xxmaj claud . xxmaj to make you answer truly to your name . 
+▁ xxmaj hero . xxmaj is it not xxmaj hero ? xxmaj who can blot that name 
+▁ xxmaj with any just reproach ? 
+▁ xxmaj claud . xxmaj marry , that can xxmaj hero ! 
+▁ xxmaj hero itself can blot out xxmaj hero 's virtue . 
+▁ xxmaj what man was he talk'd with you yesternight , 
+▁ xxmaj out at your window betwixt twelve and one ? 
+▁ xxmaj now , if you are a maid , answer to this . 
+▁ xxmaj hero . i talk'd with no man at that hour , my lord . 
+▁ xxmaj pedro . xxmaj why , then are you no maiden . xxmaj leonato , 
+▁ i am sorry you must hear . xxmaj upon my honour , 
+▁ xxmaj myself , my brother , and this grieved xxmaj count 
+▁ xxmaj did see her , hear her , at that hour last night 
+▁ xxmaj talk with a ruffian at her chamber window , 
+▁ xxmaj who hath indeed , most like a liberal villain , 
+▁ xxmaj confess'd the vile encounters they have had 
+▁ a thousand times in secret . 
+▁ xxmaj john . xxmaj fie , fie ! they are not to be nam'd , my lord-- 
+▁ xxmaj not to be spoke of ; 
+▁ xxmaj there is not chastity , enough in language 
+▁ xxmaj without offence to utter them . xxmaj thus , pretty lady , 
+▁ i am sorry for thy much misgovernment . 
+▁ xxmaj claud . o xxmaj hero ! what a xxmaj hero hadst thou been 
+▁ xxmaj if half thy outward graces had been plac'd 
+▁ xxmaj about thy thoughts and counsels of thy heart ! 
+▁ xxmaj but fare thee well , most foul , most fair ! xxmaj farewell , 
+▁ xxmaj thou pure impiety and impious purity ! 
+▁ xxmaj for thee xxmaj i 'll lock up all the gates of love , 
+▁ xxmaj and on my eyelids shall conjecture hang , 
+▁ xxmaj to turn all beauty into thoughts of harm , 
+▁ xxmaj and never shall it more be gracious . 
+▁ xxmaj leon . xxmaj hath no man 's dagger here a point for me ? 
+▁ [ hero swoons . ] 
+▁ xxmaj beat . xxmaj why , how now , cousin ? xxmaj wherefore sink you down ? 
+▁ xxmaj john . xxmaj come let us go . xxmaj these things , come thus to light , 
+▁ xxmaj smother her spirits up . 
+▁ [ exeunt xxmaj don xxmaj pedro , xxmaj don xxmaj juan , and xxmaj claudio . ] 
+▁ xxmaj bene . xxmaj how doth the lady ? 
+▁ xxmaj beat . xxmaj dead , i think . xxmaj help , uncle ! 
+▁ xxmaj hero ! why , xxmaj hero ! xxmaj uncle ! xxmaj signior xxmaj benedick ! xxmaj friar ! 
+▁ xxmaj leon . o xxmaj fate , take not away thy heavy hand ! 
+▁ xxmaj death is the fairest cover for her shame 
+▁ xxmaj that may be wish'd for . 
+▁ xxmaj beat . xxmaj how now , cousin xxmaj hero ? 
+▁ xxmaj friar . xxmaj have comfort , lady . 
+▁ xxmaj leon . xxmaj dost thou look up ? 
+▁ xxmaj friar . xxmaj yea , wherefore should she not ? 
+▁ xxmaj leon . xxmaj wherefore ? xxmaj why , doth not every earthly thing 
+▁ xxmaj cry shame upon her ? xxmaj could she here deny 
+▁ xxmaj the story that is printed in her blood ? 
+▁ xxmaj do not live , xxmaj hero ; do not ope thine eyes ; 
+▁ xxmaj for , did i think thou wouldst not quickly die , 
+▁ xxmaj thought i thy spirits were stronger than thy shames , 
+▁ xxmaj myself would on the rearward of reproaches 
+▁ xxmaj strike at thy life . xxmaj griev'd xxup i , i had but one ? 
+▁ xxmaj child i for that at frugal nature 's frame ? 
+▁ xxup o , one too much by thee ! xxmaj why had i one ? 
+▁ xxmaj why ever wast thou lovely in my eyes ? 
+▁ xxmaj why had i not with charitable hand 
+▁ xxmaj took up a beggar 's issue at my gates , 
+▁ xxmaj who smirched thus and mir'd with infamy , 
+▁ i might have said , ' no part of it is mine ; 
+▁ xxmaj this shame derives itself from unknown loins ' ? 
+▁ xxmaj but mine , and mine i lov'd , and mine i prais'd , 
+▁ xxmaj and mine that i was proud on -- mine so much 
+▁ xxmaj that i myself was to myself not mine , 
+▁ xxmaj valuing of her -- why , she , xxup o , she is fall'n 
+▁ xxmaj into a pit of ink , that the wide sea 
+▁ xxmaj hath drops too few to wash her clean again , 
+▁ xxmaj and salt too little which may season give 
+▁ xxmaj to her foul tainted flesh ! 
+▁ xxmaj bene . xxmaj sir , sir , be patient . 
+▁ xxmaj for my part , i am so attir'd in wonder , 
+▁ i know not what to say . 
+▁ xxmaj beat . xxup o , on my soul , my cousin is belied ! 
+▁ xxmaj bene . xxmaj lady , were you her bedfellow last night ? 
+▁ xxmaj beat . xxmaj no , truly , not ; although , until last night , 
+▁ i have this twelvemonth been her bedfellow 
+▁ xxmaj leon . xxmaj confirm'd , confirm'd ! xxup o , that is stronger made 
+▁ xxmaj which was before barr'd up with ribs of iron ! 
+▁ xxmaj would the two princes lie ? and xxmaj claudio lie , 
+▁ xxmaj who lov'd her so that , speaking of her foulness , 
+▁ xxmaj wash'd it with tears ? xxmaj hence from her ! let her die . 
+▁ xxmaj friar . xxmaj hear me a little ; 
+▁ xxmaj for i have only been silent so long , 
+▁ xxmaj and given way unto this course of fortune , 
+▁ xxmaj by noting of the lady . i have mark'd 
+▁ a thousand blushing apparitions 
+▁ xxmaj to start into her face , a thousand innocent shames 
+▁ xxmaj in angel whiteness beat away those blushes , 
+▁ xxmaj and in her eye there hath appear'd a fire 
+▁ xxmaj to burn the errors that these princes hold 
+▁ xxmaj against her maiden truth . xxmaj call me a fool ; 
+▁ xxmaj trust not my reading nor my observation , 
+▁ xxmaj which with experimental seal doth warrant 
+▁ xxmaj the tenure of my book ; trust not my age , 
+▁ xxmaj my reverence , calling , nor divinity , 
+▁ xxmaj if this sweet lady lie not guiltless here 
+▁ xxmaj under some biting error . 
+▁ xxmaj leon . xxmaj friar , it can not be . 
+▁ xxmaj thou seest that all the grace that she hath left 
+▁ xxmaj is that she will not add to her damnation 
+▁ a sin of perjury : she not denies it . 
+▁ xxmaj why seek'st thou then to cover with excuse 
+▁ xxmaj that which appears in proper nakedness ? 
+▁ xxmaj friar . xxmaj lady , what man is he you are accus'd of ? 
+▁ xxmaj hero . xxmaj they know that do accuse me ; i know none . 
+▁ xxmaj if i know more of any man alive 
+▁ xxmaj than that which maiden modesty doth warrant , 
+▁ xxmaj let all my sins lack mercy ! o my father , 
+▁ xxmaj prove you that any man with me convers'd 
+▁ xxmaj at hours unmeet , or that i yesternight 
+▁ xxmaj maintain'd the change of words with any creature , 
+▁ xxmaj refuse me , hate me , torture me to death ! 
+▁ xxmaj friar . xxmaj there is some strange misprision in the princes . 
+▁ xxmaj bene . xxmaj two of them have the very bent of honour ; 
+▁ xxmaj and if their wisdoms be misled in this , 
+▁ xxmaj the practice of it lives in xxmaj john the bastard , 
+▁ xxmaj whose spirits toil in frame of villanies . 
+▁ xxmaj leon . i know not . xxmaj if they speak but truth of her , 
+▁ xxmaj these hands shall tear her . xxmaj if they wrong her honour , 
+▁ xxmaj the proudest of them shall well hear of it . 
+▁ xxmaj time hath not yet so dried this blood of mine , 
+▁ xxmaj nor age so eat up my invention , 
+▁ xxmaj nor fortune made such havoc of my means , 
+▁ xxmaj nor my bad life reft me so much of friends , 
+▁ xxmaj but they shall find awak'd in such a kind 
+▁ xxmaj both strength of limb and policy of mind , 
+▁ xxmaj ability in means , and choice of friends , 
+▁ xxmaj to quit me of them throughly . 
+▁ xxmaj friar . xxmaj pause awhile 
+▁ xxmaj and let my counsel sway you in this case . 
+▁ xxmaj your daughter here the princes left for dead , 
+▁ xxmaj let her awhile be secretly kept in , 
+▁ xxmaj and publish it that she is dead indeed ; 
+▁ xxmaj maintain a mourning ostentation , 
+▁ xxmaj and on your family 's old monument 
+▁ xxmaj hang mournful epitaphs , and do all rites 
+▁ xxmaj that appertain unto a burial . 
+▁ xxmaj leon . xxmaj what shall become of this ? xxmaj what will this do ? 
+▁ xxmaj friar . xxmaj marry , this well carried shall on her behalf 
+▁ xxmaj change slander to remorse . xxmaj that is some good . 
+▁ xxmaj but not for that dream i on this strange course , 
+▁ xxmaj but on this travail look for greater birth . 
+▁ xxmaj she dying , as it must be so maintain'd , 
+▁ xxmaj upon the instant that she was accus'd , 
+▁ xxmaj shall be lamented , pitied , and excus'd 
+▁ xxmaj of every hearer ; for it so falls out 
+▁ xxmaj that what we have we prize not to the worth 
+▁ xxmaj whiles we enjoy it , but being lack'd and lost , 
+▁ xxmaj why , then we rack the value , then we find 
+▁ xxmaj the virtue that possession would not show us 
+▁ xxmaj whiles it was ours . xxmaj so will it fare with xxmaj claudio . 
+▁ xxmaj when he shall hear she died upon his words , 
+▁ xxmaj th ' idea of her life shall sweetly creep 
+▁ xxmaj into his study of imagination , 
+▁ xxmaj and every lovely organ of her life 
+▁ xxmaj shall come apparell'd in more precious habit , 
+▁ xxmaj more moving , delicate , and full of life , 
+▁ xxmaj into the eye and prospect of his soul 
+▁ xxmaj than when she liv'd indeed . xxmaj then shall he mourn 
+▁ ( if ever love had interest in his liver ) 
+▁ xxmaj and wish he had not so accused her-- 
+▁ xxmaj no , though be thought his accusation true . 
+▁ xxmaj let this be so , and doubt not but success 
+▁ xxmaj will fashion the event in better shape 
+▁ xxmaj than i can lay it down in likelihood . 
+▁ xxmaj but if all aim but this be levell'd false , 
+▁ xxmaj the supposition of the lady 's death 
+▁ xxmaj will quench the wonder of her infamy . 
+▁ xxmaj and if it sort not well , you may conceal her , 
+▁ xxmaj as best befits her wounded reputation , 
+▁ xxmaj in some reclusive and religious life , 
+▁ xxmaj out of all eyes , tongues , minds , and injuries . 
+▁ xxmaj bene . xxmaj signior xxmaj leonato , let the friar advise you ; 
+▁ xxmaj and though you know my inwardness and love 
+▁ xxmaj is very much unto the xxmaj prince and xxmaj claudio , 
+▁ xxmaj yet , by mine honour , i will deal in this 
+▁ xxmaj as secretly and justly as your soul 
+▁ xxmaj should with your body . 
+▁ xxmaj leon . xxmaj being that i flow in grief , 
+▁ xxmaj the smallest twine may lead me . 
+▁ xxmaj friar . ' tis well consented . xxmaj presently away ; 
+▁ xxmaj for to strange sores strangely they strain the cure . 
+▁ xxmaj come , lady , die to live . xxmaj this wedding day 
+▁ xxmaj perhaps is but prolong'd . xxmaj have patience and endure . 
+▁ xxmaj exeunt [ all but xxmaj benedick and xxmaj beatrice ] . 
+▁ xxmaj bene . xxmaj lady xxmaj beatrice , have you wept all this while ? 
+▁ xxmaj beat . xxmaj yea , and i will weep a while longer . 
+▁ xxmaj bene . i will not desire that . 
+▁ xxmaj beat . xxmaj you have no reason . i do it freely . 
+▁ xxmaj bene . xxmaj surely i do believe your fair cousin is wronged . 
+▁ xxmaj beat . xxmaj ah , how much might the man deserve of me that would right 
+▁ her ! 
+▁ xxmaj bene . xxmaj is there any way to show such friendship ? 
+▁ xxmaj beat . a very even way , but no such friend . 
+▁ xxmaj bene . xxmaj may a man do it ? 
+▁ xxmaj beat . xxmaj it is a man 's office , but not yours . 
+▁ xxmaj bene . i do love nothing in the world so well as you . xxmaj is not that 
+▁ strange ? 
+▁ xxmaj beat . xxmaj as strange as the thing i know not . xxmaj it were as possible for 
+▁ me to say i loved nothing so well as you . xxmaj but believe me not ; and 
+▁ yet i lie not . i confess nothing , nor i deny nothing . i am sorry 
+▁ for my cousin . 
+▁ xxmaj bene . xxmaj by my sword , xxmaj beatrice , thou lovest me . 
+▁ xxmaj beat . xxmaj do not swear , and eat it . 
+▁ xxmaj bene . i will swear by it that you love me , and i will make him eat 
+▁ it that says i love not you . 
+▁ xxmaj beat . xxmaj will you not eat your word ? 
+▁ xxmaj bene . xxmaj with no sauce that can be devised to it . i protest i love 
+▁ thee . 
+▁ xxmaj beat . xxmaj why then , xxmaj god forgive me ! 
+▁ xxmaj bene . xxmaj what offence , sweet xxmaj beatrice ? 
+▁ xxmaj beat . xxmaj you have stayed me in a happy hour . i was about to protest i 
+▁ loved you . 
+▁ xxmaj bene . xxmaj and do it with all thy heart . 
+▁ xxmaj beat . i love you with so much of my heart that none is left to 
+▁ protest . 
+▁ xxmaj bene . xxmaj come , bid me do anything for thee . 
+▁ xxmaj beat . xxmaj kill xxmaj claudio . 
+▁ xxmaj bene . xxmaj ha ! not for the wide world ! 
+▁ xxmaj beat . xxmaj you kill me to deny it . xxmaj farewell . 
+▁ xxmaj bene . xxmaj tarry , sweet xxmaj beatrice . 
+▁ xxmaj beat . i am gone , though i am here . xxmaj there is no love in you . xxmaj nay , i 
+▁ pray you let me go . 
+▁ xxmaj bene . xxmaj beatrice-- 
+▁ xxmaj beat . xxmaj in faith , i will go . 
+▁ xxmaj bene . xxmaj we 'll be friends first . 
+▁ xxmaj beat . xxmaj you dare easier be friends with me than fight with mine 
+▁ enemy . 
+▁ xxmaj bene . xxmaj is xxmaj claudio thine enemy ? 
+▁ xxmaj beat . xxmaj is ' a not approved in the height a villain , that hath 
+▁ slandered , scorned , dishonoured my kinswoman ? o that i were a 
+▁ man ! xxmaj what ? bear her in hand until they come to take hands , and 
+▁ then with public accusation , uncover'd slander , unmitigated 
+▁ rancour -- o xxmaj god , that i were a man ! i would eat his heart in the 
+▁ market place . 
+▁ xxmaj bene . xxmaj hear me , xxmaj beatrice ! 
+▁ xxmaj beat . xxmaj talk with a man out at a window!-a proper saying ! 
+▁ xxmaj bene . xxmaj nay but xxmaj beatrice-- 
+▁ xxmaj beat . xxmaj sweet xxmaj hero ! she is wrong'd , she is sland'red , she is undone . 
+▁ xxmaj bene . xxmaj beat-- 
+▁ xxmaj beat . xxmaj princes and xxmaj counties ! xxmaj surely a princely testimony , a goodly 
+▁ count , xxmaj count xxmaj comfect , a sweet gallant surely ! o that i were a man 
+▁ for his sake ! or that i had any friend would be a man for my 
+▁ sake ! xxmaj but manhood is melted into cursies , valour into compliment , 
+▁ and men are only turn'd into tongue , and trim ones too . xxmaj he is now 
+▁ as valiant as xxmaj hercules that only tells a lie , and swears it . i 
+▁ can not be a man with wishing ; therefore i will die a woman with 
+▁ grieving . 
+▁ xxmaj bene . xxmaj tarry , good xxmaj beatrice . xxmaj by this hand , i love thee . 
+▁ xxmaj beat . xxmaj use it for my love some other way than swearing by it . 
+▁ xxmaj bene . xxmaj think you in your soul the xxmaj count xxmaj claudio hath wrong'd xxmaj hero ? 
+▁ xxmaj beat . xxmaj yea , as sure is i have a thought or a soul . 
+▁ xxmaj bene . xxmaj enough , i am engag'd , i will challenge him . i will kiss your 
+▁ hand , and so i leave you . xxmaj by this hand , xxmaj claudio shall render me a 
+▁ dear account . xxmaj as you hear of me , so think of me . xxmaj go comfort your 
+▁ cousin . i must say she is dead - and so farewell . 
+▁ [ exeunt . ] 
+
+
+
+
+ xxmaj scene xxup ii . 
+ a prison . 
+
+ xxmaj enter the xxmaj constables [ dogberry and xxmaj verges ] and the xxmaj sexton , in gowns , 
+ [ and the xxmaj watch , with xxmaj conrade and ] xxmaj borachio . 
+
+▁ xxmaj dog . xxmaj is our whole dissembly appear'd ? 
+▁ xxmaj verg . xxup o , a stool and a cushion for the sexton . 
+▁ xxmaj sex . xxmaj which be the malefactors ? 
+▁ xxmaj dog . xxmaj marry , that am i and my partner . 
+▁ xxmaj verg . xxmaj nay , that 's certain . xxmaj we have the exhibition to examine . 
+▁ xxmaj sex . xxmaj but which are the offenders that are to be examined ? let them 
+▁ come before xxmaj master xxmaj constable . 
+▁ xxmaj dog . xxmaj yea , marry , let them come before me . xxmaj what is your name , 
+▁ friend ? 
+▁ xxmaj bor . xxmaj borachio . 
+▁ xxmaj dog . xxmaj pray write down xxmaj borachio . xxmaj yours , sirrah ? 
+▁ xxmaj con . i am a gentleman , sir , and my name is xxmaj conrade . 
+▁ xxmaj dog . xxmaj write down xxmaj master xxmaj gentleman xxmaj conrade . xxmaj masters , do you serve 
+▁ xxmaj god ? 
+▁ xxmaj both . xxmaj yea , sir , we hope . 
+▁ xxmaj dog . xxmaj write down that they hope they serve xxmaj god ; and write xxmaj god first , 
+▁ for xxmaj god defend but xxmaj god should go before such villains ! xxmaj masters , 
+▁ it is proved already that you are little better than false 
+▁ knaves , and it will go near to be thought so shortly . xxmaj how answer 
+▁ you for yourselves ? 
+▁ xxmaj con . xxmaj marry , sir , we say we are none . 
+▁ xxmaj dog . a marvellous witty fellow , i assure you ; but i will go about 
+▁ with him . xxmaj come you hither , sirrah . a word in your ear . xxmaj sir , i say 
+▁ to you , it is thought you are false knaves . 
+▁ xxmaj bora . xxmaj sir , i say to you we are none . 
+▁ xxmaj dog . xxmaj well , stand aside . xxmaj fore xxmaj god , they are both in a tale . 
+▁ xxmaj have you writ down that they are none ? 
+▁ xxmaj sex . xxmaj master xxmaj constable , you go not the way to examine . xxmaj you must call 
+▁ forth the watch that are their accusers . 
+▁ xxmaj dog . xxmaj yea , marry , that 's the eftest way . xxmaj let the watch come forth . 
+▁ xxmaj masters , i charge you in the xxmaj prince 's name accuse these men . 
+▁ 1 . xxmaj watch . xxmaj this man said , sir , that xxmaj don xxmaj john the xxmaj prince 's brother 
+▁ was a villain . 
+▁ xxmaj dog . xxmaj write down xxmaj prince xxmaj john a villain . xxmaj why , this is flat perjury , 
+▁ to call a prince 's brother villain . 
+▁ xxmaj bora . xxmaj master xxmaj constable-- 
+▁ xxmaj dog . xxmaj pray thee , fellow , peace . i do not like thy look , i promise 
+▁ thee . 
+▁ xxmaj sex . xxmaj what heard you him say else ? 
+▁ 2 . xxmaj watch . xxmaj marry , that he had received a thousand ducats of xxmaj don xxmaj john 
+▁ for accusing the xxmaj lady xxmaj hero wrongfully . 
+▁ xxmaj dog . xxmaj flat burglary as ever was committed . 
+▁ xxmaj verg . xxmaj yea , by th ' mass , that it is . 
+▁ xxmaj sex . xxmaj what else , fellow ? 
+▁ 1 . xxmaj watch . xxmaj and that xxmaj count xxmaj claudio did mean , upon his words , to 
+▁ disgrace xxmaj hero before the whole assembly , and not marry her . 
+▁ xxmaj dog . o villain ! thou wilt be condemn'd into everlasting redemption 
+▁ for this . 
+▁ xxmaj sex . xxmaj what else ? 
+▁ xxmaj watchmen . xxmaj this is all . 
+▁ xxmaj sex . xxmaj and this is more , masters , than you can deny . xxmaj prince xxmaj john is 
+▁ this morning secretly stol'n away . xxmaj hero was in this manner 
+▁ accus'd , in this manner refus'd , and upon the grief of this 
+▁ suddenly died . xxmaj master xxmaj constable , let these men be bound and 
+▁ brought to xxmaj leonato 's . i will go before and show him their 
+▁ examination . [ exit . ] 
+▁ xxmaj dog . xxmaj come , let them be opinion'd . 
+▁ xxmaj verg . xxmaj let them be in the hands-- 
+▁ xxmaj con . xxmaj off , coxcomb ! 
+▁ xxmaj dog . xxmaj god 's my life , where 's the sexton ? xxmaj let him write down the 
+▁ xxmaj prince 's officer coxcomb . xxmaj come , bind them.--thou naughty varlet ! 
+▁ xxmaj con . xxmaj away ! you are an ass , you are an ass . 
+▁ xxmaj dog . xxmaj dost thou not suspect my place ? xxmaj dost thou not suspect my 
+▁ years ? o that he were here to write me down an ass ! xxmaj but , masters , 
+▁ remember that i am an ass . xxmaj though it be not written down , yet 
+▁ forget not that i am an ass . xxmaj no , thou villain , thou art full of 
+▁ piety , as shall be prov'd upon thee by good witness . i am a wise 
+▁ fellow ; and which is more , an officer ; and which is more , a 
+▁ householder ; and which is more , as pretty a piece of flesh as any 
+▁ is in xxmaj messina , and one that knows the law , go to ! and a rich 
+▁ fellow enough , go to ! and a fellow that hath had losses ; and one 
+▁ that hath two gowns and everything handsome about him . xxmaj bring him 
+▁ away . o that i had been writ down an ass ! 
+▁ xxmaj exeunt . 
+
+
+
+
+ < < this xxup electronic xxup version xxup of xxup the xxup complete xxup works xxup of xxup william 
+ xxup shakespeare xxup is xxup copyright 1990 - 1993 xxup by xxup world xxup library , xxup inc . , xxup and xxup is 
+ xxup provided xxup by xxup project xxup gutenberg xxup etext xxup of xxup illinois xxup benedictine xxup college 
+ xxup with xxup permission . xxup electronic xxup and xxup machine xxup readable xxup copies xxup may xxup be 
+ xxup distributed xxup so xxup long xxup as xxup such xxup copies ( 1 ) xxup are xxup for xxup your xxup or xxup others 
+ xxup personal xxup use xxup only , xxup and ( 2 ) xxup are xxup not xxup distributed xxup or xxup used 
+ xxup commercially . xxup prohibited xxup commercial xxup distribution xxup includes xxup by xxup any 
+ xxup service xxup that xxup charges xxup for xxup download xxup time xxup or xxup for xxup membership . > > 
+
+
+
+ xxup act xxup v. xxmaj scene xxup i. 
+ xxmaj the street , near xxmaj leonato 's house . 
+
+ xxmaj enter xxmaj leonato and his brother [ xxmaj antonio ] . 
+
+▁ xxmaj ant . xxmaj if you go on thus , you will kill yourself , 
+▁ xxmaj and ' tis not wisdom thus to second grief 
+▁ xxmaj against yourself . 
+▁ xxmaj leon . i pray thee cease thy counsel , 
+▁ xxmaj which falls into mine ears as profitless 
+▁ xxmaj as water in a sieve . xxmaj give not me counsel , 
+▁ xxmaj nor let no comforter delight mine ear 
+▁ xxmaj but such a one whose wrongs do suit with mine . 
+▁ xxmaj bring me a father that so lov'd his child , 
+▁ xxmaj whose joy of her is overwhelm'd like mine , 
+▁ xxmaj and bid him speak to me of patience . 
+▁ xxmaj measure his woe the length and breadth of mine , 
+▁ xxmaj and let it answer every strain for strain , 
+▁ xxmaj as thus for thus , and such a grief for such , 
+▁ xxmaj in every lineament , branch , shape , and form . 
+▁ xxmaj if such a one will smile and stroke his beard , 
+▁ xxmaj bid sorrow wag , cry ' hem ' when he should groan , 
+▁ xxmaj patch grief with proverbs , make misfortune drunk 
+▁ xxmaj with candle - wasters -- bring him yet to me , 
+▁ xxmaj and i of him will gather patience . 
+▁ xxmaj but there is no such man ; for , brother , men 
+▁ xxmaj can counsel and speak comfort to that grief 
+▁ xxmaj which they themselves not feel ; but , tasting it , 
+▁ xxmaj their counsel turns to passion , which before 
+▁ xxmaj would give preceptial medicine to rage , 
+▁ xxmaj fetter strong madness in a silken thread , 
+▁ xxmaj charm ache with air and agony with words . 
+▁ xxmaj no , no ! ' tis all men 's office to speak patience 
+▁ xxmaj to those that wring under the load of sorrow , 
+▁ xxmaj but no man 's virtue nor sufficiency 
+▁ xxmaj to be so moral when he shall endure 
+▁ xxmaj the like himself . xxmaj therefore give me no counsel . 
+▁ xxmaj my griefs cry louder than advertisement . 
+▁ xxmaj ant . xxmaj therein do men from children nothing differ . 
+▁ xxmaj leon . i pray thee peace . i will be flesh and blood ; 
+▁ xxmaj for there was never yet philosopher 
+▁ xxmaj that could endure the toothache patiently , 
+▁ xxmaj however they have writ the style of gods 
+▁ xxmaj and made a push at chance and sufferance . 
+▁ xxmaj ant . xxmaj yet bend not all the harm upon yourself . 
+▁ xxmaj make those that do offend you suffer too . 
+▁ xxmaj leon . xxmaj there thou speak'st reason . xxmaj nay , i will do so . 
+▁ xxmaj my soul doth tell me xxmaj hero is belied ; 
+▁ xxmaj and that shall xxmaj claudio know ; so shall the xxmaj prince , 
+▁ xxmaj and all of them that thus dishonour her . 
+
+▁ xxmaj enter xxmaj don xxmaj pedro and xxmaj claudio . 
+
+▁ xxmaj ant . xxmaj here comes the xxmaj prince and xxmaj claudio hastily . 
+▁ xxmaj pedro . xxmaj good den , xxmaj good den . 
+▁ xxmaj claud . xxmaj good day to both of you . 
+▁ xxmaj leon . xxmaj hear you , my lords ! 
+▁ xxmaj pedro . xxmaj we have some haste , xxmaj leonato . 
+▁ xxmaj leon . xxmaj some haste , my lord ! well , fare you well , my lord . 
+▁ xxmaj are you so hasty now ? xxmaj well , all is one . 
+▁ xxmaj pedro . xxmaj nay , do not quarrel with us , good old man . 
+▁ xxmaj ant . xxmaj if he could right himself with quarrelling , 
+▁ xxmaj some of us would lie low . 
+▁ xxmaj claud . xxmaj who wrongs him ? 
+▁ xxmaj leon . xxmaj marry , thou dost wrong me , thou dissembler , thou ! 
+▁ xxmaj nay , never lay thy hand upon thy sword ; 
+▁ i fear thee not . 
+▁ xxmaj claud . xxmaj mary , beshrew my hand 
+▁ xxmaj if it should give your age such cause of fear . 
+▁ xxmaj in faith , my hand meant nothing to my sword . 
+▁ xxmaj leon . xxmaj tush , tush , man ! never fleer and jest at me 
+▁ i speak not like a dotard nor a fool , 
+▁ xxmaj as under privilege of age to brag 
+▁ xxmaj what i have done being young , or what would do , 
+▁ xxmaj were i not old . xxmaj know , xxmaj claudio , to thy head , 
+▁ xxmaj thou hast so wrong'd mine innocent child and me 
+▁ xxmaj that i am forc'd to lay my reverence by 
+▁ xxmaj and , with grey hairs and bruise of many days , 
+▁ xxmaj do challenge thee to trial of a man . 
+▁ i say thou hast belied mine innocent child ; 
+▁ xxmaj thy slander hath gone through and through her heart , 
+▁ xxmaj and she lied buried with her ancestors- 
+▁ xxup o , in a tomb where never scandal slept , 
+▁ xxmaj save this of hers , fram'd by thy villany ! 
+▁ xxmaj claud . xxmaj my villany ? 
+▁ xxmaj leon . xxmaj thine , xxmaj claudio ; thine i say . 
+▁ xxmaj pedro . xxmaj you say not right , old man 
+▁ xxmaj leon . xxmaj my lord , my lord , 
+▁ xxmaj i 'll prove it on his body if he dare , 
+▁ xxmaj despite his nice fence and his active practice , 
+▁ xxmaj his xxmaj may of youth and bloom of lustihood . 
+▁ xxmaj claud . xxmaj away ! i will not have to do with you . 
+▁ xxmaj leon . xxmaj canst thou so daff me ? xxmaj thou hast kill'd my child . 
+▁ xxmaj if thou kill'st me , boy , thou shalt kill a man . 
+▁ xxmaj and . xxmaj he shall kill two of us , and men indeed 
+▁ xxmaj but that 's no matter ; let him kill one first . 
+▁ xxmaj win me and wear me ! xxmaj let him answer me . 
+▁ xxmaj come , follow me , boy , . xxmaj come , sir boy , come follow me . 
+▁ xxmaj sir boy , xxmaj i 'll whip you from your foining fence ! 
+▁ xxmaj nay , as i am a gentleman , i will . 
+▁ xxmaj leon . xxmaj brother-- 
+▁ xxmaj ant . xxmaj content yourself . xxmaj god knows i lov'd my niece , 
+▁ xxmaj and she is dead , slander'd to death by villains , 
+▁ xxmaj that dare as well answer a man indeed 
+▁ xxmaj as i dare take a serpent by the tongue . 
+▁ xxmaj boys , apes , braggarts , jacks , milksops ! 
+▁ xxmaj leon . xxmaj brother xxmaj anthony-- 
+▁ xxmaj ant . xxmaj hold you content . xxmaj what , man ! i know them , yea , 
+▁ xxmaj and what they weigh , even to the utmost scruple , 
+▁ xxmaj scambling , outfacing , fashion - monging boys , 
+▁ xxmaj that lie and cog and flout , deprave and slander , 
+▁ xxmaj go anticly , show outward hideousness , 
+▁ xxmaj and speak off half a dozen dang'rous words , 
+▁ xxmaj how they might hurt their enemies , if they durst ; 
+▁ xxmaj and this is all . 
+▁ xxmaj leon . xxmaj but , brother xxmaj anthony-- 
+▁ xxmaj ant . xxmaj come , ' tis no matter . 
+▁ xxmaj do not you meddle ; let me deal in this . 
+▁ xxmaj pedro . xxmaj gentlemen both , we will not wake your patience . 
+▁ xxmaj my heart is sorry for your daughter 's death ; 
+▁ xxmaj but , on my honour , she was charg'd with nothing 
+▁ xxmaj but what was true , and very full of proof . 
+▁ xxmaj leon . xxmaj my lord , my lord-- 
+▁ xxmaj pedro . i will not hear you . 
+▁ xxmaj leon . xxmaj no ? xxmaj come , brother , away!--i will be heard . 
+▁ xxmaj ant . xxmaj and shall , or some of us will smart for it . 
+▁ xxmaj exeunt ambo . 
+
+▁ xxmaj enter xxmaj benedick . 
+
+▁ xxmaj pedro . xxmaj see , see ! xxmaj here comes the man we went to seek . 
+▁ xxmaj claud . xxmaj now , signior , what news ? 
+▁ xxmaj bene . xxmaj good day , my lord . 
+▁ xxmaj pedro . xxmaj welcome , signior . xxmaj you are almost come to part almost a fray . 
+▁ xxmaj claud . xxmaj we had lik'd to have had our two noses snapp'd off with two 
+▁ old men without teeth . 
+▁ xxmaj pedro . xxmaj leonato and his brother . xxmaj what think'st thou ? xxmaj had we fought , 
+▁ i doubt we should have been too young for them . 
+▁ xxmaj bene . xxmaj in a false quarrel there is no true valour . i came to seek 
+▁ you both . 
+▁ xxmaj claud . xxmaj we have been up and down to seek thee ; for we are high - proof 
+▁ melancholy , and would fain have it beaten away . xxmaj wilt thou use thy 
+▁ wit ? 
+▁ xxmaj bene . xxmaj it is in my scabbard . xxmaj shall i draw it ? 
+▁ xxmaj pedro . xxmaj dost thou wear thy wit by thy side ? 
+▁ xxmaj claud . xxmaj never any did so , though very many have been beside their 
+▁ wit . i will bid thee draw , as we do the minstrel -- draw to 
+▁ pleasure us . 
+▁ xxmaj pedro . xxmaj as i am an honest man , he looks pale . xxmaj art thou sick or 
+▁ angry ? 
+▁ xxmaj claud . xxmaj what , courage , man ! xxmaj what though care kill'd a cat , thou hast 
+▁ mettle enough in thee to kill care . 
+▁ xxmaj bene . xxmaj sir , i shall meet your wit in the career an you charge it 
+▁ against me . i pray you choose another subject . 
+▁ xxmaj claud . xxmaj nay then , give him another staff ; this last was broke cross . 
+▁ xxmaj pedro . xxmaj by this light , he changes more and more . i think he be angry 
+▁ indeed . 
+▁ xxmaj claud . xxmaj if he be , he knows how to turn his girdle . 
+▁ xxmaj bene . xxmaj shall i speak a word in your ear ? 
+▁ xxmaj claud . xxmaj god bless me from a challenge ! 
+▁ xxmaj bene . [ aside to xxmaj claudio ] xxmaj you are a villain . i jest not ; i will make 
+▁ it good how you dare , with what you dare , and when you dare . xxmaj do 
+▁ me right , or i will protest your cowardice . xxmaj you have kill'd a 
+▁ sweet lady , and her death shall fall heavy on you . xxmaj let me hear 
+▁ from you . 
+▁ xxmaj claud . xxmaj well , i will meet you , so i may have good cheer . 
+▁ xxmaj pedro . xxmaj what , a feast , a feast ? 
+▁ xxmaj claud . xxup i ' faith , i thank him , he hath bid me to a calve 's head and 
+▁ a capon , the which if i do not carve most curiously , say my 
+▁ knife 's naught . xxmaj shall i not find a woodcock too ? 
+▁ xxmaj bene . xxmaj sir , your wit ambles well ; it goes easily . 
+▁ xxmaj pedro . xxmaj i 'll tell thee how xxmaj beatrice prais'd thy wit the other day . i 
+▁ said thou hadst a fine wit : ' true , ' said she , ' a fine little 
+▁ one . ' ' no , ' said xxup i , ' a great wit . ' ' right , ' says she , ' a great 
+▁ gross one . ' ' nay , ' said xxup i , ' a good wit . ' ' just , ' said she , ' it 
+▁ hurts nobody . ' ' nay , ' said xxup i , ' the gentleman is wise . ' ' certain , ' 
+▁ said she , a wise gentleman . ' ' nay , ' said xxup i , ' he hath the 
+▁ tongues . ' ' that i believe ' said she , ' for he swore a thing to me 
+▁ on xxmaj monday night which he forswore on xxmaj tuesday morning . xxmaj there 's a 
+▁ double tongue ; there 's two tongues . ' xxmaj thus did she an hour 
+▁ together transshape thy particular virtues . xxmaj yet at last she 
+▁ concluded with a sigh , thou wast the proper'st man in xxmaj italy . 
+▁ xxmaj claud . xxmaj for the which she wept heartily and said she cared not . 
+▁ xxmaj pedro . xxmaj yea , that she did ; but yet , for all that , an if she did not 
+▁ hate him deadly , she would love him dearly . xxmaj the old man 's 
+▁ daughter told us all . 
+▁ xxmaj claud . xxmaj all , all ! and moreover , xxmaj god saw him when he was hid in the 
+▁ garden . 
+▁ xxmaj pedro . xxmaj but when shall we set the savage bull 's horns on the 
+▁ sensible xxmaj benedick 's head ? 
+▁ xxmaj claud . xxmaj yea , and text underneath , ' here dwells xxmaj benedick , the married 
+▁ man ' ? 
+▁ xxmaj bene . xxmaj fare you well , boy ; you know my mind . i will leave you now to 
+▁ your gossiplike humour . xxmaj you break jests as braggards do their 
+▁ blades , which xxmaj god be thanked hurt not . xxmaj my lord , for your many 
+▁ courtesies i thank you . i must discontinue your company . xxmaj your 
+▁ brother the bastard is fled from xxmaj messina . xxmaj you have among you 
+▁ kill'd a sweet and innocent lady . xxmaj for my xxmaj lord xxmaj lackbeard there , he 
+▁ and i shall meet ; and till then peace be with him . 
+▁ [ exit . ] 
+▁ xxmaj pedro . xxmaj he is in earnest . 
+▁ xxmaj claud . xxmaj in most profound earnest ; and , xxmaj i 'll warrant you , for the 
+▁ love of xxmaj beatrice . 
+▁ xxmaj pedro . xxmaj and hath challeng'd thee . 
+▁ xxmaj claud . xxmaj most sincerely . 
+▁ xxmaj pedro . xxmaj what a pretty thing man is when he goes in his doublet and 
+▁ hose and leaves off his wit ! 
+
+▁ xxmaj enter xxmaj constables [ dogberry and xxmaj verges , with the xxmaj watch , leading ] 
+▁ xxmaj conrade and xxmaj borachio . 
+
+▁ xxmaj claud . xxmaj he is then a giant to an ape ; but then is an ape a doctor to 
+▁ such a man . 
+▁ xxmaj pedro . xxmaj but , soft you , let me be ! xxmaj pluck up , my heart , and be sad ! 
+▁ xxmaj did he not say my brother was fled ? 
+▁ xxmaj dog . xxmaj come you , sir . xxmaj if justice can not tame you , she shall ne'er 
+▁ weigh more reasons in her balance . xxmaj nay , an you be a cursing 
+▁ hypocrite once , you must be look'd to . 
+▁ xxmaj pedro . xxmaj how now ? two of my brother 's men bound ? xxmaj borachio one . 
+▁ xxmaj claud . xxmaj hearken after their offence , my lord . 
+▁ xxmaj pedro . xxmaj officers , what offence have these men done ? 
+▁ xxmaj dog . xxmaj marry , sir , they have committed false report ; moreover , they 
+▁ have spoken untruths ; secondarily , they are slanders ; sixth and 
+▁ lastly , they have belied a lady ; thirdly , they have verified 
+▁ unjust things ; and to conclude , they are lying knaves . 
+▁ xxmaj pedro . xxmaj first , i ask thee what they have done ; thirdly , i ask thee 
+▁ what 's their offence ; sixth and lastly , why they are committed ; 
+▁ and to conclude , what you lay to their charge . 
+▁ xxmaj claud . xxmaj rightly reasoned , and in his own division ; and by my troth 
+▁ there 's one meaning well suited . 
+▁ xxmaj pedro . xxmaj who have you offended , masters , that you are thus bound to 
+▁ your answer ? xxmaj this learned constable is too cunning to be 
+▁ understood . xxmaj what 's your offence ? 
+▁ xxmaj bora . xxmaj sweet xxmaj prince , let me go no farther to mine answer . xxmaj do you 
+▁ hear me , and let this xxmaj count kill me . i have deceived even your 
+▁ very eyes . xxmaj what your wisdoms could not discover , these shallow 
+▁ fools have brought to light , who in the night overheard me 
+▁ confessing to this man , how xxmaj don xxmaj john your brother incensed me to 
+▁ slander the xxmaj lady xxmaj hero ; how you were brought into the orchard and 
+▁ saw me court xxmaj margaret in xxmaj hero 's garments ; how you disgrac'd her 
+▁ when you should marry her . xxmaj my villany they have upon record , 
+▁ which i had rather seal with my death than repeat over to my 
+▁ shame . xxmaj the lady is dead upon mine and my master 's false 
+▁ accusation ; and briefly , i desire nothing but the reward of a 
+▁ villain . 
+▁ xxmaj pedro . xxmaj runs not this speech like iron through your blood ? 
+▁ xxmaj claud . i have drunk poison whiles he utter'd it . 
+▁ xxmaj pedro . xxmaj but did my brother set thee on to this ? 
+▁ xxmaj bora . xxmaj yea , and paid me richly for the practice of it . 
+▁ xxmaj pedro . xxmaj he is compos'd and fram'd of treachery , 
+▁ xxmaj and fled he is upon this villany . 
+▁ xxmaj claud . xxmaj sweet xxmaj hero , now thy image doth appear 
+▁ xxmaj in the rare semblance that i lov'd it first . 
+▁ xxmaj dog . xxmaj come , bring away the plaintiffs . xxmaj by this time our sexton hath 
+▁ reformed xxmaj signior xxmaj leonato of the matter . xxmaj and , masters , do not 
+▁ forget to specify , when time and place shall serve , that i am an 
+▁ ass . 
+▁ xxmaj verg . xxmaj here , here comes xxmaj master xxmaj signior xxmaj leonato , and the sexton too . 
+
+▁ xxmaj enter xxmaj leonato , his brother [ antonio ] , and the xxmaj sexton . 
+
+▁ xxmaj leon . xxmaj which is the villain ? xxmaj let me see his eyes , 
+▁ xxmaj that , when i note another man like him , 
+▁ i may avoid him . xxmaj which of these is he ? 
+▁ xxmaj bora . xxmaj if you would know your wronger , look on me . 
+▁ xxmaj leon . xxmaj art thou the slave that with thy breath hast kill'd 
+▁ xxmaj mine innocent child ? 
+▁ xxmaj bora . xxmaj yea , even i alone . 
+▁ xxmaj leon . xxmaj no , not so , villain ! thou beliest thyself . 
+▁ xxmaj here stand a pair of honourable men-- 
+▁ a third is fled -- that had a hand in it . 
+▁ i thank you princes for my daughter 's death . 
+▁ xxmaj record it with your high and worthy deeds . 
+▁ ' twas bravely done , if you bethink you of it . 
+▁ xxmaj claud . i know not how to pray your patience ; 
+▁ xxmaj yet i must speak . xxmaj choose your revenge yourself ; 
+▁ xxmaj impose me to what penance your invention 
+▁ xxmaj can lay upon my sin . xxmaj yet sinn'd i not 
+▁ xxmaj but in mistaking . 
+▁ xxmaj pedro . xxmaj by my soul , nor xxup i ! 
+▁ xxmaj and yet , to satisfy this good old man , 
+▁ i would bend under any heavy weight 
+▁ xxmaj that he 'll enjoin me to . 
+▁ xxmaj leon . i can not bid you bid my daughter live- 
+▁ xxmaj that were impossible ; but i pray you both , 
+▁ xxmaj possess the people in xxmaj messina here 
+▁ xxmaj how innocent she died ; and if your love 
+▁ xxmaj can labour aught in sad invention , 
+▁ xxmaj hang her an epitaph upon her tomb , 
+▁ xxmaj and sing it to her bones -- sing it to - night . 
+▁ xxmaj to - morrow morning come you to my house , 
+▁ xxmaj and since you could not be my son - in - law , 
+▁ xxmaj be yet my nephew . xxmaj my brother hath a daughter , 
+▁ xxmaj almost the copy of my child that 's dead , 
+▁ xxmaj and she alone is heir to both of us . 
+▁ xxmaj give her the right you should have giv'n her cousin , 
+▁ xxmaj and so dies my revenge . 
+▁ xxmaj claud . o noble sir ! 
+▁ xxmaj your over - kindness doth wring tears from me . 
+▁ i do embrace your offer ; and dispose 
+▁ xxmaj for henceforth of poor xxmaj claudio . 
+▁ xxmaj leon . xxmaj to - morrow then i will expect your coming ; 
+▁ xxmaj to - night i take my leave . xxmaj this naughty man 
+▁ xxmaj shall fact to face be brought to xxmaj margaret , 
+▁ xxmaj who i believe was pack'd in all this wrong , 
+▁ xxmaj hir'd to it by your brother . 
+▁ xxmaj bora . xxmaj no , by my soul , she was not ; 
+▁ xxmaj nor knew not what she did when she spoke to me ; 
+▁ xxmaj but always hath been just and virtuous 
+▁ xxmaj in anything that i do know by her . 
+▁ xxmaj dog . xxmaj moreover , sir , which indeed is not under white and black , this 
+▁ plaintiff here , the offender , did call me ass . i beseech you let 
+▁ it be rememb'red in his punishment . xxmaj and also the watch heard them 
+▁ talk of one xxmaj deformed . xxmaj they say he wears a key in his ear , and a 
+▁ lock hanging by it , and borrows money in xxmaj god 's name , the which he 
+▁ hath us'd so long and never paid that now men grow hard - hearted 
+▁ and will lend nothing for xxmaj god 's sake . xxmaj pray you examine him upon 
+▁ that point . 
+▁ xxmaj leon . i thank thee for thy care and honest pains . 
+▁ xxmaj dog . xxmaj your worship speaks like a most thankful and reverent youth , 
+▁ and i praise xxmaj god for you . 
+▁ xxmaj leon . xxmaj there 's for thy pains . [ gives money . ] 
+▁ xxmaj dog . xxmaj god save the foundation ! 
+▁ xxmaj leon . xxmaj go , i discharge thee of thy prisoner , and i thank thee . 
+▁ xxmaj dog . i leave an arrant knave with your worship , which i beseech 
+▁ your worship to correct yourself , for the example of others . 
+▁ xxmaj god keep your worship ! i wish your worship well . xxmaj god restore you 
+▁ to health ! i humbly give you leave to depart ; and if a merry 
+▁ meeting may be wish'd , xxmaj god prohibit it ! xxmaj come , neighbour . 
+▁ xxmaj exeunt [ dogberry and xxmaj verges ] . 
+▁ xxmaj leon . xxmaj until to - morrow morning , lords , farewell . 
+▁ xxmaj ant . xxmaj farewell , my lords . xxmaj we look for you to - morrow . 
+▁ xxmaj pedro . xxmaj we will not fall . 
+▁ xxmaj claud . xxmaj to - night xxmaj i 'll mourn with xxmaj hero . 
+▁ [ exeunt xxmaj don xxmaj pedro and xxmaj claudio . ] 
+▁ xxmaj leon . [ to the xxmaj watch ] xxmaj bring you these fellows on.--we'll talk with 
+▁ xxmaj margaret , 
+▁ xxmaj how her acquaintance grew with this lewd fellow . 
+▁ xxmaj exeunt . 
+
+
+
+
+ xxmaj scene xxup ii . 
+ xxmaj leonato 's orchard . 
+
+ xxmaj enter xxmaj benedick and xxmaj margaret [ meeting ] . 
+
+▁ xxmaj bene . xxmaj pray thee , sweet xxmaj mistress xxmaj margaret , deserve well at my hands 
+▁ by helping me to the speech of xxmaj beatrice . 
+▁ xxmaj marg . xxmaj will you then write me a sonnet in praise of my beauty ? 
+▁ xxmaj bene . xxmaj in so high a style , xxmaj margaret , that no man living shall come 
+▁ over it ; for in most comely truth thou deservest it . 
+▁ xxmaj marg . xxmaj to have no man come over me ? xxmaj why , shall i always keep below 
+▁ stairs ? 
+▁ xxmaj bene . xxmaj thy wit is as quick as the greyhound 's mouth -- it catches . 
+▁ xxmaj marg . xxmaj and yours as blunt as the fencer 's foils , which hit but hurt 
+▁ not . 
+▁ xxmaj bene . a most manly wit , xxmaj margaret : it will not hurt a woman . 
+▁ xxmaj and so i pray thee call xxmaj beatrice . i give thee the bucklers . 
+▁ xxmaj marg . xxmaj give us the swords ; we have bucklers of our own . 
+▁ xxmaj bene . xxmaj if you use them , xxmaj margaret , you must put in the pikes with a 
+▁ vice , and they are dangerous weapons for maids . 
+▁ xxmaj marg . xxmaj well , i will call xxmaj beatrice to you , who i think hath legs . 
+▁ xxmaj bene . xxmaj and therefore will come . 
+▁ xxmaj exit xxmaj margaret . 
+▁ [ sings ] xxmaj the god of love , 
+▁ xxmaj that sits above 
+▁ xxmaj and knows me , and knows me , 
+▁ xxmaj how pitiful i deserve-- 
+
+▁ i mean in singing ; but in loving xxmaj leander the good swimmer , 
+▁ xxmaj troilus the first employer of panders , and a whole book full of 
+▁ these quondam carpet - mongers , whose names yet run smoothly in the 
+▁ even road of a blank verse -- why , they were never so truly turn'd 
+▁ over and over as my poor self in love . xxmaj marry , i can not show it in 
+▁ rhyme . i have tried . i can find out no rhyme to ' lady ' but ' baby ' 
+▁ --an innocent rhyme ; for ' scorn , ' ' horn'--a hard rhyme ; for 
+▁ ' school ' , ' fool'--a babbling rhyme : very ominous endings ! xxmaj no , i 
+▁ was not born under a rhyming planet , nor can not woo in festival 
+▁ terms . 
+
+▁ xxmaj enter xxmaj beatrice . 
+
+▁ xxmaj sweet xxmaj beatrice , wouldst thou come when i call'd thee ? 
+▁ xxmaj beat . xxmaj yea , signior , and depart when you bid me . 
+▁ xxmaj bene . xxup o , stay but till then ! 
+▁ xxmaj beat . ' then ' is spoken . xxmaj fare you well now . xxmaj and yet , ere i go , let 
+▁ me go with that i came for , which is , with knowing what hath 
+▁ pass'd between you and xxmaj claudio . 
+▁ xxmaj bene . xxmaj only foul words ; and thereupon i will kiss thee . 
+▁ xxmaj beat . xxmaj foul words is but foul wind , and foul wind is but foul 
+▁ breath , and foul breath is noisome . xxmaj therefore i will depart 
+▁ unkiss'd . 
+▁ xxmaj bene . xxmaj thou hast frighted the word out of his right sense , so 
+▁ forcible is thy wit . xxmaj but i must tell thee plainly , xxmaj claudio 
+▁ undergoes my challenge ; and either i must shortly hear from him 
+▁ or i will subscribe him a coward . xxmaj and i pray thee now tell me , 
+▁ for which of my bad parts didst thou first fall in love with me ? 
+▁ xxmaj beat . xxmaj for them all together , which maintain'd so politic a state of 
+▁ evil that they will not admit any good part to intermingle with 
+▁ them . xxmaj but for which of my good parts did you first suffer love 
+▁ for me ? 
+▁ xxmaj bene . xxmaj suffer love!--a good epithet . i do suffer love indeed , for i 
+▁ love thee against my will . 
+▁ xxmaj beat . xxmaj in spite of your heart , i think . xxmaj alas , poor heart ! xxmaj if you 
+▁ spite it for my sake , i will spite it for yours , for i will never 
+▁ love that which my friend hates . 
+▁ xxmaj bene . xxmaj thou and i are too wise to woo peaceably . 
+▁ xxmaj beat . xxmaj it appears not in this confession . xxmaj there 's not one wise man 
+▁ among twenty , that will praise himself . 
+▁ xxmaj bene . xxmaj an old , an old instance , xxmaj beatrice , that liv'd in the time of 
+▁ good neighbours . xxmaj if a man do not erect in this age his own tomb 
+▁ ere he dies , he shall live no longer in monument than the bell 
+▁ rings and the widow weeps . 
+▁ xxmaj beat . xxmaj and how long is that , think you ? 
+▁ xxmaj bene . xxmaj question : why , an hour in clamour and a quarter in rheum . 
+▁ xxmaj therefore is it most expedient for the wise , if xxmaj don xxmaj worm ( his 
+▁ conscience ) find no impediment to the contrary , to be the trumpet 
+▁ of his own virtues , as i am to myself . xxmaj so much for praising 
+▁ myself , who , i myself will bear witness , is praiseworthy . xxmaj and now 
+▁ tell me , how doth your cousin ? 
+▁ xxmaj beat . xxmaj very ill . 
+▁ xxmaj bene . xxmaj and how do you ? 
+▁ xxmaj beat . xxmaj very ill too . 
+▁ xxmaj bene . xxmaj serve xxmaj god , love me , and mend . xxmaj there will i leave you too , for 
+▁ here comes one in haste . 
+
+▁ xxmaj enter xxmaj ursula . 
+
+▁ xxmaj urs . xxmaj madam , you must come to your uncle . xxmaj yonder 's old coil at home . 
+▁ xxmaj it is proved my xxmaj lady xxmaj hero hath been falsely accus'd , the xxmaj prince 
+▁ and xxmaj claudio mightily abus'd , and xxmaj don xxmaj john is the author of all , 
+▁ who is fled and gone . xxmaj will you come presently ? 
+▁ xxmaj beat . xxmaj will you go hear this news , signior ? 
+▁ xxmaj bene . i will live in thy heart , die in thy lap , and be buried thy 
+▁ eyes ; and moreover , i will go with thee to thy uncle 's . 
+▁ xxmaj exeunt . 
+
+
+
+
+ xxmaj scene xxrep 3 i . 
+ a churchyard . 
+
+ xxmaj enter xxmaj claudio , xxmaj don xxmaj pedro , and three or four with tapers , 
+ [ followed by xxmaj musicians ] . 
+
+▁ xxmaj claud . xxmaj is this the monument of xxmaj leonato ? 
+▁ xxmaj lord . xxmaj it is , my lord . 
+▁ xxmaj claud . [ reads from a scroll ] 
+
+▁ xxmaj epitaph . 
+
+▁ xxmaj done to death by slanderous tongues 
+▁ xxmaj was the xxmaj hero that here lies . 
+▁ xxmaj death , in guerdon of her wrongs , 
+▁ xxmaj gives her fame which never dies . 
+▁ xxmaj so the life that died with shame 
+▁ xxmaj lives in death with glorious fame . 
+
+▁ xxmaj hang thou there upon the tomb , 
+▁ [ hangs up the scroll . ] 
+▁ xxmaj praising her when i am dumb . 
+▁ xxmaj now , music , sound , and sing your solemn hymn . 
+
+▁ xxmaj song . 
+
+▁ xxmaj pardon , goddess of the night , 
+▁ xxmaj those that slew thy virgin knight ; 
+▁ xxmaj for the which , with songs of woe , 
+▁ xxmaj round about her tomb they go . 
+▁ xxmaj midnight , assist our moan , 
+▁ xxmaj help us to sigh and groan 
+▁ xxmaj heavily , heavily , 
+▁ xxmaj graves , yawn and yield your dead , 
+▁ xxmaj till death be uttered 
+▁ xxmaj heavily , heavily . 
+
+▁ xxmaj claud . xxmaj now unto thy bones good night ! 
+▁ xxmaj yearly will i do this rite . 
+▁ xxmaj pedro . xxmaj good morrow , masters . xxmaj put your torches out . 
+▁ xxmaj the wolves have prey'd , and look , the gentle day , 
+▁ xxmaj before the wheels of xxmaj phoebus , round about 
+▁ xxmaj dapples the drowsy east with spots of grey . 
+▁ xxmaj thanks to you all , and leave us . xxmaj fare you well . 
+▁ xxmaj claud . xxmaj good morrow , masters . xxmaj each his several way . 
+▁ xxmaj pedro . xxmaj come , let us hence and put on other weeds , 
+▁ xxmaj and then to xxmaj leonato 's we will go . 
+▁ xxmaj claud . xxmaj and xxmaj hymen now with luckier issue speeds 
+▁ xxmaj than this for whom we rend'red up this woe . xxmaj exeunt . 
+
+
+
+
+ xxmaj scene xxup iv 
+ xxmaj the hall in xxmaj leonato 's house . 
+
+ xxmaj enter xxmaj leonato , xxmaj benedick , [ beatrice , ] xxmaj margaret , xxmaj ursula , xxmaj antonio , 
+ xxmaj friar [ francis ] , xxmaj hero . 
+
+▁ xxmaj friar . xxmaj did i not tell you she was innocent ? 
+▁ xxmaj leon . xxmaj so are the xxmaj prince and xxmaj claudio , who accus'd her 
+▁ xxmaj upon the error that you heard debated . 
+▁ xxmaj but xxmaj margaret was in some fault for this , 
+▁ xxmaj although against her will , as it appears 
+▁ xxmaj in the true course of all the question . 
+▁ xxmaj ant . xxmaj well , i am glad that all things sort so well . 
+▁ xxmaj bene . xxmaj and so am xxup i , being else by faith enforc'd 
+▁ xxmaj to call young xxmaj claudio to a reckoning for it . 
+▁ xxmaj leon . xxmaj well , daughter , and you gentlewomen all , 
+▁ xxmaj withdraw into a chamber by yourselves , 
+▁ xxmaj and when i send for you , come hither mask'd . 
+▁ xxmaj exeunt xxmaj ladies . 
+▁ xxmaj the xxmaj prince and xxmaj claudio promis'd by this hour 
+▁ xxmaj to visit me . xxmaj you know your office , brother : 
+▁ xxmaj you must be father to your brother 's daughter , 
+▁ xxmaj and give her to young xxmaj claudio . 
+▁ xxmaj ant . xxmaj which i will do with confirm'd countenance . 
+▁ xxmaj bene . xxmaj friar , i must entreat your pains , i think . 
+▁ xxmaj friar . xxmaj to do what , signior ? 
+▁ xxmaj bene . xxmaj to bind me , or undo me -- one of them . 
+▁ xxmaj signior xxmaj leonato , truth it is , good signior , 
+▁ xxmaj your niece regards me with an eye of favour . 
+▁ xxmaj leon . xxmaj that eye my daughter lent her . ' tis most true . 
+▁ xxmaj bene . xxmaj and i do with an eye of love requite her . 
+▁ xxmaj leon . xxmaj the sight whereof i think you had from me , 
+▁ xxmaj from xxmaj claudio , and the xxmaj prince ; but what 's your will ? 
+▁ xxmaj bene . xxmaj your answer , sir , is enigmatical ; 
+▁ xxmaj but , for my will , my will is , your good will 
+▁ xxmaj may stand with ours , this day to be conjoin'd 
+▁ xxmaj in the state of honourable marriage ; 
+▁ xxmaj in which , good friar , i shall desire your help . 
+▁ xxmaj leon . xxmaj my heart is with your liking . 
+▁ xxmaj friar . xxmaj and my help . 
+
+▁ xxmaj enter xxmaj don xxmaj pedro and xxmaj claudio and two or three other . 
+
+▁ xxmaj here comes the xxmaj prince and xxmaj claudio . 
+▁ xxmaj pedro . xxmaj good morrow to this fair assembly . 
+▁ xxmaj leon . xxmaj good morrow , xxmaj prince ; good morrow , xxmaj claudio . 
+▁ xxmaj we here attend you . xxmaj are you yet determin'd 
+▁ xxmaj to - day to marry with my brother 's daughter ? 
+▁ xxmaj claud . xxmaj i 'll hold my mind , were she an xxmaj ethiope . 
+▁ xxmaj leon . xxmaj call her forth , brother . xxmaj here 's the friar ready .
